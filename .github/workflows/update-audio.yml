@@ -3,7 +3,7 @@ name: Update Deník N audio index
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 4 * * *'
+    - cron: '0 9,16 * * *'
 
 permissions:
   contents: write
