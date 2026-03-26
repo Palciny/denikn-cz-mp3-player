@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Deník N CZ Audio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <h1>Deník N CZ Audio</h1>
+      <p>Statický přehrávač MP3 článků, aktualizovaný každý den ze všech článkových RSS feedů Deníku N.</p>
+      <div class="meta" id="meta">Načítám…</div>
+    </header>
+
+    <section class="toolbar">
+      <input id="search" type="search" placeholder="Filtrovat podle názvu článku…" />
+      <select id="day-filter" aria-label="Filtrovat podle dne publikování"></select>
+      <select id="category-filter" aria-label="Filtrovat podle kategorie"></select>
+      <select id="speed-control" aria-label="Rychlost přehrávání">
+        <option value="0.75">0.75×</option>
+        <option value="1" selected>1×</option>
+        <option value="1.25">1.25×</option>
+        <option value="1.5">1.5×</option>
+        <option value="1.75">1.75×</option>
+        <option value="2">2×</option>
+      </select>
+    </section>
+
+    <section id="list" class="list"></section>
+  </main>
+
+  <template id="card-template">
+    <article class="card">
+      <h2 class="title"></h2>
+      <div class="details"></div>
+      <div class="chips"></div>
+      <div class="links">
+        <a class="article-link" target="_blank" rel="noopener noreferrer">Článek</a>
+        <a class="mp3-link" target="_blank" rel="noopener noreferrer">MP3</a>
+      </div>
+      <div class="player-row">
+        <label class="speed-label">Rychlost: <span class="speed-value">1×</span></label>
+        <audio controls preload="none"></audio>
+      </div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
