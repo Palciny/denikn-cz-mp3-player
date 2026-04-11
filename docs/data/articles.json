@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T09:32:24.019312+00:00",
+  "generated_at": "2026-04-11T16:26:09.237855+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,7 +11,7 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 561,
+  "count": 564,
   "categories": [
     "Afrika",
     "Americko-íránský konflikt",
@@ -31,6 +31,7 @@
     "Británie",
     "Brno",
     "Bydlení",
+    "Cestování",
     "Chudoba",
     "Cyklistika",
     "Dezinformace",
@@ -301,9 +302,57 @@
   ],
   "articles": [
     {
+      "title": "Mirek dělal „šílenosti“ a patřil do světové extratřídy, já spíš vyrážím ťapat do sněhu, vzpomíná na polárníka Jakeše jeho kolega Horký",
+      "url": "https://denikn.cz/2029914/mirek-delal-silenosti-a-patril-do-svetove-extra-tridy-ja-spis-vyrazim-tapat-do-snehu-vzpomina-na-polarnika-jakese-jeho-kolega-horky/",
+      "mp3_url": "https://static.novydenik.com/2026/04/neural-audio-elevenlabs-2029914-1-1.mp3",
+      "published": "2026-04-11T14:28:36+00:00",
+      "published_day": "2026-04-11",
+      "categories": [
+        "Česko",
+        "Hlavní",
+        "Cestování",
+        "Rozhovory"
+      ],
+      "feed_url": "https://denikn.cz/cesko/feed/",
+      "first_seen": "2026-04-11T16:25:05.705264+00:00",
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
+    },
+    {
+      "title": "Závěr kampaně v Maďarsku: kde Orbán křičel na protestující, tam Magyara vítal nadšený dav",
+      "url": "https://denikn.cz/2030072/zaver-kampane-v-madarsku-kde-orban-kricel-na-protestujici-tam-magyara-vital-nadseny-dav/",
+      "mp3_url": "https://static.novydenik.com/2026/04/neural-audio-elevenlabs-2030072-2.mp3",
+      "published": "2026-04-11T12:36:09+00:00",
+      "published_day": "2026-04-11",
+      "categories": [
+        "Hlavní",
+        "Svět",
+        "Maďarsko",
+        "Reportáž"
+      ],
+      "feed_url": "https://denikn.cz/svet/feed",
+      "first_seen": "2026-04-11T16:25:05.705264+00:00",
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
+    },
+    {
+      "title": "Dojemné pojmenování kráteru, rekordní vzdálenost i rozbitý záchod. Deset památných momentů Artemis II",
+      "url": "https://denikn.cz/2029946/dojemne-pojmenovani-krateru-rekordni-vzdalenost-i-rozbity-zachod-deset-pamatnych-momentu-artemis-ii/",
+      "mp3_url": "https://static.novydenik.com/2026/04/neural-audio-elevenlabs-2029946-2.mp3",
+      "published": "2026-04-11T09:57:38+00:00",
+      "published_day": "2026-04-11",
+      "categories": [
+        "Hlavní",
+        "Svět",
+        "USA",
+        "Vesmír"
+      ],
+      "feed_url": "https://denikn.cz/svet/feed",
+      "first_seen": "2026-04-11T16:25:05.705264+00:00",
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
+    },
+    {
       "title": "„V biatlonu je lepší nic neplánovat.“ Olympijská medailistka Voborníková o boji s hlavou, tlaku i válce na Ukrajině",
       "url": "https://denikn.cz/2018351/v-biatlonu-je-lepsi-nic-neplanovat-olympijska-medailistka-vobornikova-o-boji-s-hlavou-tlaku-i-valce-na-ukrajine/",
-      "mp3_url": "https://static.novydenik.com/2026/04/neural-audio-elevenlabs-2018351-1.mp3",
+      "mp3_url": "https://static.novydenik.com/2026/04/neural-audio-elevenlabs-2018351-1-3.mp3",
       "published": "2026-04-11T06:50:24+00:00",
       "published_day": "2026-04-11",
       "categories": [
@@ -316,7 +365,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Mexiko dva měsíce před MS a zápasem Čechů s Koreou: astronomické ceny, padělky a protesty",
@@ -334,7 +383,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Královny Brna a banality: lesk a bída „holčin z Instagramu“",
@@ -353,7 +402,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Pořád budou lidé, kteří si budou myslet, že je to podvod.“ Jak to bylo s otcovstvím Freddieho Mercuryho?",
@@ -369,7 +418,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Mít děti už není povinnost, ale jedna z možností.“ Proč stále více mladých odkládá rodičovství?",
@@ -386,7 +435,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "V hromadném hrobě v Srbsku byly nalezeny jen ženy a děti. „Nešlo o to, že by byly snadným cílem,“ říká bioarcheoložka",
@@ -404,7 +453,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Zkoumá, co lidi odlišuje od jiných tvorů: Vlastnost, která činí lidi výjimečnými? Kdoví, kdy ji objevíme i u ostatních",
@@ -421,12 +470,12 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
-      "title": "Mise k Měsíci skončila úspěšným přistáním, astronauti jsou zpátky doma",
+      "title": "Dvacet nejnebezpečnějších a nejnapínavějších minut. Jak Orion dosedl na hladinu moře",
       "url": "https://denikn.cz/2029802/mise-k-mesici-skoncila-uspesnym-pristanim-astronauti-jsou-zpatky-doma/",
-      "mp3_url": "https://static.novydenik.com/2026/04/neural-audio-elevenlabs-2029802-6.mp3",
+      "mp3_url": "https://static.novydenik.com/2026/04/neural-audio-elevenlabs-2029802-7.mp3",
       "published": "2026-04-11T02:37:21+00:00",
       "published_day": "2026-04-11",
       "categories": [
@@ -439,7 +488,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Po optimismu na trzích opět zavládla skepse. Akciové indexy stále ztrácejí",
@@ -457,7 +506,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "V pondělním testu by mohlo být přísloví i složený přísudek, říká Běžící češtinář. Vysvětluje řešení pátečních úloh",
@@ -474,7 +523,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vývoj bojů (1506. den): „Má vůbec cenu ho brát vážně? Ne.“ Proč ruští ani ukrajinští vojáci nevěří ohlášenému příměří",
@@ -491,7 +540,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-11T09:31:17.940010+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pointa N: Jak si Motoristé posvítili na peníze pro knihovny a film o queer lidech",
@@ -508,7 +557,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Klempíř ukázal „rozpracovaný“ plán rušení poplatků. Co přinesla jeho schůzka se šéfy ČT a rozhlasu?",
@@ -525,7 +574,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Větné členy byly záludné, úhly hodně těžké, líčí deváťáci dojmy z přijímaček",
@@ -541,7 +590,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Řekli, že mi už nedají ani litr. Malí pumpaři nedokážou nakoupit za regulované ceny a zavírají",
@@ -556,7 +605,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "USA a Írán míří k nejvýznamnějšímu jednání od revoluce 1979. Může ale také skončit dřív, než začne",
@@ -574,7 +623,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Hodně úloh na procenta, málo času.“ Matematikářka hodnotí první test a odhaduje, co čekat v pondělí",
@@ -591,7 +640,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Poraženým maďarských voleb může být tamní ekonomika. Reformy se země nedočká, spásu nepřináší ani pochybné investice",
@@ -605,7 +654,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Na psychology poštvali psy. Lidé na východě Ukrajiny už mnoho pomoci nečekají",
@@ -623,7 +672,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Nový jihomoravský radní kumuluje funkce. „Velkou část z nich opustím,“ slibuje",
@@ -638,7 +687,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Největší kyberútok na Čínu v dějinách? Záhadný hacker chce stamiliony za údajná výbušná tajemství",
@@ -655,7 +704,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Tichý spojenec, který drží íránský režim nad vodou",
@@ -673,7 +722,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Seděl jsem v šatně a nevěděl, kdo jsem.“ Krasobruslař Filip Taschler o tlaku vrcholového sportu",
@@ -694,7 +743,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Co čeká Maďarsko? Drtivé vítězství opozice, anebo krach výzkumníků veřejného mínění",
@@ -709,7 +758,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jak sedmnáctiletý syn státního tajemníka dostal místo u jeskyňářů: z vedoucího se stal asistent",
@@ -727,7 +776,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Dotaci dostanou i chovy, v nichž týrají zvířata. Ministerstvo změkčilo podmínky",
@@ -745,7 +794,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Dokdy se vyplatí bránit instituce před barbary a kdy je čas odejít",
@@ -764,7 +813,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Nebýt jedinečný znamená být v naší společnosti bezcenný",
@@ -779,7 +828,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-04-10T16:39:56.531428+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpův svět (445. den): Melania Trump promluvila. Nikdo neví proč",
@@ -797,7 +846,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-10T10:00:41.667140+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Víkend bez politiky: Lidé obletěli Měsíc, přesto do vesmíru pořád tak úplně nepatříme",
@@ -814,7 +863,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-04-10T10:00:41.667140+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Strop na marže řidiče spíš naštve, říká šéf nejlevnější sítě čerpacích stanic. Vláda udělala ve výpočtu chybu hned první den",
@@ -829,7 +878,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-10T10:00:41.667140+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vzhůru k Andělům: Objevte mladá jména české hudební scény od Gufrau až po Meluzínu",
@@ -844,7 +893,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-10T10:00:41.667140+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Nová série Bridgertonových vyjde příští rok. Netflix sází na queer lásku a čelí vlně kritiky",
@@ -861,7 +910,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-10T10:00:41.667140+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Čelila skandálům i podezření ze špionáže. Stala se teprve druhou docentkou na přírodovědecké fakultě",
@@ -876,7 +925,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-04-10T10:00:41.667140+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vývoj bojů (1504. den): Ukrajinci popsali historickou operaci, při níž drony zničily dálniční most",
@@ -893,7 +942,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-10T10:00:41.667140+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pointa N: Experiment, který se opozici nevydařil",
@@ -914,7 +963,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Klempířův úřad zastavil projekty na podporu knihoven. „Vládě o kulturu vůbec nejde,“ zní z oboru",
@@ -933,7 +982,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Když nejdu bojovat, musím aspoň pomáhat, říká držitel Krieglovy ceny Dubský. Na Ukrajinu už dovezl 80 tun pomoci",
@@ -966,7 +1015,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Proč Velikonoce končí až za šest týdnů a Zelený čtvrtek nemá nic společného se zelenou barvou",
@@ -999,7 +1048,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Sirény, panické telefonáty i drony nad hlavou. Izrael v Libanonu během pár minut zabil stovky lidí a ohrozil příměří",
@@ -1019,7 +1068,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpovi i Putinovi záleží na tomtéž. Proč oba tak moc chtějí, aby volby vyhrál Orbán?",
@@ -1039,7 +1088,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Krize na Blízkém východě české ekonomice příliš neublížila. Delší konflikt by ale přinesl problémy, tvrdí analýza ministerstva",
@@ -1054,7 +1103,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Do kosmu, nebo na terapii? Amerika se pře o to, kudy vede cesta k zářivé budoucnosti",
@@ -1074,7 +1123,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Vnímali jsme shodu.“ Kraj vysvětluje rozpory kolem konce šéfa veřejné dopravy na jižní Moravě",
@@ -1091,7 +1140,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Možné dědictví prvního mandátu Petra Pavla? Odvaha využívat právní nástroje, které má k dispozici",
@@ -1107,7 +1156,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Ruské válečné námořnictvo brání svou stínovou flotilu pašeráckých tankerů už i v britských vodách",
@@ -1126,7 +1175,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Potraviny zdraží navzdory příměří v Zálivu. U čeho cena poroste jako první a co může překvapivě zlevnit?",
@@ -1143,7 +1192,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpův svět (444. den): Příměří s Íránem má trhliny, Trump posílá na jednání J. D. Vance",
@@ -1162,7 +1211,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Lídr NATO Rutte u Trumpa v Bílém domě pohořel. Nebyla zveřejněna ani fotografie",
@@ -1179,7 +1228,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-09T16:56:47.789470+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Ta chemie vám rozloží mozek. Občas jsem se za sebe strašně styděl, líčí herec Karger boj s alkoholem",
@@ -1200,7 +1249,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-09T10:03:17.748903+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Gdaňsk ukazuje jinou tvář polské kuchyně: od żurku bez uzeniny po teplé pączki a ryby",
@@ -1231,7 +1280,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-09T10:03:17.748903+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Slepice v hlavní roli. Proč vyrazit na film o černém opeřenci a co dalšího nevynechat na Dnech evropského filmu",
@@ -1250,7 +1299,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-09T10:03:17.748903+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vrtěti psem: Kdo skutečně řídí rezorty Motoristů a co se tam děje",
@@ -1270,7 +1319,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-09T10:03:17.748903+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Skrytá investice se PPF vyplatila. Skupina Kellnerových tiše vsadila na ikonickou vesmírnou robotiku",
@@ -1290,7 +1339,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-09T10:03:17.748903+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Nenapadlo mě, že to může být tak závažné.“ Vyplatí se děti očkovat proti planým neštovicím?",
@@ -1307,7 +1356,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-09T10:03:17.748903+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "První „žena na Měsíci“ přistála už v roce 1929. Vyslal ji tam německý režisér Fritz Lang",
@@ -1341,7 +1390,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-09T10:03:17.748903+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Benzin po vládní regulaci na některých místech zdražil. Je to jen divadlo pro voliče, říká ekonom",
@@ -1356,7 +1405,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-09T10:03:17.748903+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vývoj bojů (1504. den): Ukrajina vytváří mezery v ruské protivzdušné obraně. Rusko přiznává nedostatek raket země–vzduch",
@@ -1373,7 +1422,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-09T10:03:17.748903+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pointa N: Doma bude, už se narajzoval dost!",
@@ -1390,7 +1439,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vojna volá? Německo vyděsila zpráva o omezení cestování pro muže",
@@ -1406,7 +1455,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Severní Korea láká Rusy na pivo a afrodiziaka, Číňany zase na falešné vousy. Společný byznys na sankce nehledí",
@@ -1422,7 +1471,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Časový benefit má u přijímaček čím dál víc dětí. Někteří rodiče tlačí na poradny kvůli „diagnóze“",
@@ -1438,7 +1487,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Dosáhl jen otevření průlivu, který byl před jeho agresí otevřený. Trumpovo skóre v Íránu je mizivé",
@@ -1456,7 +1505,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Amerika se dostala do bodu zlomu. Donald Trump v Íránu rozhodně nezvítězil",
@@ -1476,7 +1525,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Bylo to pro mě překvapení.“ Šéf veřejné dopravy na jižní Moravě líčí svůj náhlý konec",
@@ -1495,7 +1544,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Hodlám se zúčastnit.“ Pavel chce na summit NATO, ve hře je i žaloba na Babiše",
@@ -1512,7 +1561,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Přísudek jmenný se sponou nebo přísloví jako vstupenka na střední školu? Cermat chce od dětí více znalostí než ministerstvo",
@@ -1530,7 +1579,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Ropa i plyn v reakci na ohlášené příměří zlevňují. Zázraky ale čekat nelze, mírní optimismus analytici",
@@ -1546,7 +1595,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "S příměřím se vrátili domů, o pár hodin později je zabil izraelský úder. V Libanonu válka pokračuje",
@@ -1566,7 +1615,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Lidé Orbánova režimu začali mluvit: premiérův syn prý plánoval misi v Čadu, kapitánovi nabízeli za mlčení post v New Yorku",
@@ -1581,7 +1630,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Rusové mír v Íránu neslaví, přijdou o miliardy. V globální politice jim zůstala role strašáka a pašeráka",
@@ -1600,7 +1649,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Česko dává dvě procenta na obranu, napsalo NATO. Babišovi ale alianční zpráva může zkřížit plány",
@@ -1618,7 +1667,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-08T16:51:10.218251+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Před maďarskými volbami unikl další telefonát. Orbán se „lvu“ Putinovi nabídl, že bude jeho „myší“",
@@ -1636,7 +1685,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vojenští zpravodajci zasáhli spolu s FBI proti hackerům, kteří sbírali informace pro Rusko",
@@ -1651,7 +1700,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Na Měsíci toho moc nového neobjevíme. Jde hlavně o prestiž,“ říká ve Studiu N Petr Koubský",
@@ -1672,7 +1721,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Donald Trump v Íránu narazil do zdi",
@@ -1688,7 +1737,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpův svět (443. den): Vymazání íránské civilizace nahradilo příměří a všichni se cítí jako vítězové",
@@ -1708,7 +1757,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Nikdy!“ Macinka vzkazuje prezidentovi, že zabrání jeho cestám na summit NATO i valné shromáždění OSN",
@@ -1726,7 +1775,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Podle číslic na vysvědčení nepoznáte, jestli se vaše dítě skutečně připravuje na život, říká expertka na školství",
@@ -1743,7 +1792,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Velmi pozdní recenze knihy Kamila Fily: vyčerpávající rozklad sexismu, toxické maskulinity a Radima Uzla",
@@ -1762,7 +1811,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Berme děti vážně. Drama Věříme vám ukazuje, čím si u soudu prochází mladistvé oběti násilí v rodině",
@@ -1779,7 +1828,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Věrolomný čin“ a „internacionální pomoc“. Jak Husák zúčtoval s pražským jarem 1968",
@@ -1813,7 +1862,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Průlet kolem Měsíce v obrazech: podívejte se na odvrácenou stranu, na západ Země a na zatmění Slunce",
@@ -1831,7 +1880,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Americký orel pod křídly mytického turula. Orbán a Vance si přizvukovali o progresivistech i záchraně Západu",
@@ -1850,7 +1899,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Sedmnáctiletý syn vlivného úředníka nastoupil jako šéf sekretariátu. Prý to byl omyl",
@@ -1867,7 +1916,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Válečná stezka: Je tu bitva o klíčovou ruskou základnu ve střední Evropě. Leží 70 kilometrů od Česka",
@@ -1885,7 +1934,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vývoj bojů (1503. den): Další přístav, další terminál, další ztracené miliardy. Ukrajina znovu udeřila v Rusku, zasáhla i fregatu",
@@ -1902,7 +1951,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Vypadáme jako pitomci.“ Opozice tají, kdo podpořil vládní kandidáty do Rady ČT",
@@ -1920,7 +1969,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Zbraně, peníze a nafta, měl Zelenskyj na manžetě. Na Blízkém východě ale poprvé jen nenatahoval ruku",
@@ -1936,7 +1985,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-07T16:45:41.900380+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Ministerstvo přiznalo, že za pochybnou zakázkou pro neznámou firmu stojí osobní známosti",
@@ -1954,7 +2003,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-08T09:59:10.863972+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pointa N: Rajchl chce do Moskvy, lidstvo co nejdál ve vesmíru",
@@ -1971,7 +2020,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-07T16:45:41.900380+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Chceme, aby si evropské rodiny mohly dovolit vytápět domovy.“ Vance v Budapešti podpořil „nejvýznamnějšího lídra“",
@@ -1990,7 +2039,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-07T16:45:41.900380+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Za Hormuzským průlivem je uvězněná nejen ropa a plyn. Zůstávají tam i klíčové suroviny, které nelze nahradit",
@@ -2007,7 +2056,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-07T16:45:41.900380+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jestli se Američané stáhnou, Evropa dokáže odstrašit Putina sama, tvrdí bývalí představitelé NATO",
@@ -2023,7 +2072,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-07T16:45:41.900380+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Otroctví je nejen nemorální, ale taky neefektivní",
@@ -2040,7 +2089,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-07T16:45:41.900380+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Rutinní práce ustupuje. Zeptali jsme se zástupců bank a pojišťoven, jestli budou propouštět kvůli AI",
@@ -2055,7 +2104,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-07T16:45:41.900380+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Jujky, miluju mladší kluky.“ Co se děje na seznamce Nakluky",
@@ -2071,7 +2120,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-07T16:45:41.900380+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpův svět (438.–442. den): Bůh žehnej válce. Prezidentův „velikonoční zázrak“ v Íránu vyvolal v USA pobouření",
@@ -2090,7 +2139,7 @@
       ],
       "feed_url": "https://denikn.cz/svet/feed",
       "first_seen": "2026-04-07T16:45:41.900380+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Z jednotek milionů desítky, pak následoval rychlý konec. Klienti popisují zkušenost s padlou kryptoměnovou firmou",
@@ -2105,7 +2154,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-07T09:58:22.638904+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Odvrácená strana Měsíce a zatmění Slunce. Astronauti prolétli nejvzdálenějším bodem a vracejí se domů",
@@ -2122,7 +2171,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-04-07T09:58:22.638904+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "První film o Nepelovi byl osobním dramatem, druhý má blíže k thrilleru. Vyplatí se vidět Šampióna?",
@@ -2140,7 +2189,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-04-07T09:58:22.638904+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vojáci navrhli štít proti raketám. Jsou třeba peníze, které vláda škrtla",
@@ -2155,7 +2204,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-07T09:58:22.638904+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Od „Švýcarska Blízkého východu“ k bojišti cizích zájmů. Libanon je rukojmím dodnes",
@@ -2174,7 +2223,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-04-06T10:00:02.058149+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Velikonoce palestinských křesťanů: mezi válkou, izraelskými zákazy a násilnými osadníky",
@@ -2231,7 +2280,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-06T10:00:02.058149+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Kolik lodí projelo průlivem, kolik letadel letí z Dubaje, má Írán ještě rakety a drony? Měsíc americko-íránské války v grafech",
@@ -2249,7 +2298,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-05T09:30:01.982384+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Obrazem: Cos to učinil, ó Jidáši nevěrný? Ve východních Čechách se drží staletí starý zvyk",
@@ -2263,7 +2312,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-05T09:30:01.982384+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Do kina se chodilo pětkrát více než dnes. Barevný film jste nikde jinde vidět nemohli",
@@ -2296,7 +2345,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-05T09:30:01.982384+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Teď jde o hodně, dost možná o všechno.“ Topol v novém románu ukazuje, že nikdy není pozdě na vykoupení",
@@ -2311,7 +2360,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-05T09:30:01.982384+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Lidstvo se pravděpodobně blíží konci fyzické války, říká exředitel Rádia Svobodná Evropa",
@@ -2349,7 +2398,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-04-04T16:22:59.139022+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Centrum pro lidi bez domova v pražských Holešovicích skončí. Služby se mají rozprostřít do celého města",
@@ -2366,7 +2415,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-04T09:28:13.946120+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Lidé jako ořech v louskáčku děsivě vyšinuté doby.“ Kniha Pavla Kohouta se stala námětem nového seriálu",
@@ -2382,7 +2431,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-04T09:28:13.946120+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Mysleli jste, že propadneme – tak teď zírejte.“ Jak se korejští BTS po letech vrátili na vrchol",
@@ -2398,7 +2447,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-04T09:28:13.946120+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Škrty míst a současně zakázka na lákání zaměstnanců. Ministerstvo si objednalo poradenství od neznámé firmy",
@@ -2415,7 +2464,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-03T16:28:32.632708+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Už nedostanete ani korunu, napsal Turek neziskovce. Snaží se nás umlčet výhrůžkami, reaguje její ředitelka",
@@ -2431,7 +2480,7 @@
       ],
       "feed_url": "https://denikn.cz/cesko/feed/",
       "first_seen": "2026-04-03T16:28:32.632708+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Oliver Adámek: Maďarské volby jsou svobodné, ale ne férové. Světoví konzervativci se jezdí učit od Orbána",
@@ -2455,7 +2504,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-04-03T16:28:32.632708+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jak najít spokojenost ve světě plném nekonečných rozhodnutí",
@@ -2488,7 +2537,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-03T09:44:19.837402+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Víkend bez politiky: „Můj recept na úspěch? Musíš se umět narodit.“ Jak „nepo babies“ ironizují vlastní privilegia",
@@ -2523,7 +2572,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-03T09:44:19.837402+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„V Irpini jsem zemřela a všechno potom je jen nebe,“ říká autorka oceňovaného filmu I died in Irpin",
@@ -2544,7 +2593,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-03T09:44:19.837402+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Světová ekonomika je podle všeho odolnější, než jsme se obávali",
@@ -2560,7 +2609,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-03T09:44:19.837402+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Za třicet let jsem na ministerstvu takové experty neviděl.“ Měli řešit krizi bydlení, u ministryně Mrázové teď končí",
@@ -2576,7 +2625,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-03T09:44:19.837402+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pointa N: Jak Babiš jednou (trochu) zapomněl na populismus a jak Trump uklidňoval národ",
@@ -2598,7 +2647,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-03T09:44:19.837402+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Krabička poslední záchrany“ na přijímačky: tři češtináři prozrazují osvědčené tipy",
@@ -2717,7 +2766,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-02T16:45:15.554738+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pomohl rozkrýt „mafii“ ve fotbale. „Jako když někdo vsadí tisíce na Kladno proti Barceloně a vyhraje,“ líčí praktiky",
@@ -2734,7 +2783,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-04-02T16:45:15.554738+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Je čas zaměřit se na politickou moc znečišťovatelů klimatu",
@@ -2753,7 +2802,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-02T16:45:15.554738+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trump zaplavil sítě a zprávy výhrůžnými výroky o NATO. Udělali jsme v nich pořádek",
@@ -2844,7 +2893,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-02T16:45:15.554738+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "V Perském zálivu se rozjíždí konflikt globálních rozměrů. Amerika ztratila kontrolu, na scénu přichází další hráči",
@@ -2863,7 +2912,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-04-02T16:45:15.554738+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Strop na marže pumpařů a nižší spotřební daň. Vláda začne omezovat ceny pohonných hmot",
@@ -2879,7 +2928,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-02T16:45:15.554738+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpův svět (437. den): Prezident vážně uvažuje o stažení Spojených států z NATO",
@@ -2933,7 +2982,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-02T09:52:01.411574+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Kutnohorská sekta, bitcoinová aféra a vraždící Kafka: Nova představila hrdiny nových seriálů",
@@ -2949,7 +2998,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-02T09:52:01.411574+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Šíří se životní styl, který nás vede k neustálé ostražitosti a bonzování na nás samotné",
@@ -2979,7 +3028,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-04-02T09:52:01.411574+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Máte nanejvýš rok a půl života, zdrtili Češku britští lékaři. Zachránily ji unikátní transplantace i její dvojče",
@@ -3010,7 +3059,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-02T09:52:01.411574+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pryč jsou zmínky o mrtvých i ekonomické dopady klimatické změny. Červeného ministerstvo prokrátilo klíčový dokument",
@@ -3025,7 +3074,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-02T09:52:01.411574+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Není nic staršího než včerejší noviny v Doxu. Nová výstava Hit by News budí rozpaky",
@@ -3040,7 +3089,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-02T09:52:01.411574+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Co nejhoršího jste provedli? Zendaya a Robert Pattinson o sobě ve filmu Drama prozradí všechno",
@@ -3056,7 +3105,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-02T09:52:01.411574+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Projekt pro 21. století: Věž Třetí internacionály vizionářského zakladatele konstruktivismu Vladimira Tatlina",
@@ -3088,7 +3137,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-04-02T09:52:01.411574+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Renomovaná fyzička a první profesorka ČVUT: život průkopnice rentgenové vědy po boku bělogvardějského kozáka",
@@ -3121,7 +3170,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-04-02T09:52:01.411574+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Poslanci vybrali osmnáct finalistů do Rady ČT. Ve hře je znovu Matocha, Šlégr či Veselý",
@@ -3226,7 +3275,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-01T16:43:53.070477+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Proč je smlouva s Vatikánem protiústavní? Klíčovou roli sehrál odmítavý postoj prezidenta",
@@ -3349,7 +3398,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-04-01T16:43:53.070477+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Írán by mohl z války vyjít silnější a nebezpečnější",
@@ -3422,7 +3471,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-04-01T16:43:53.070477+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpův svět (436. den): Nechcete do války? Pořiďte si vlastní ropu, vzkazuje hlava USA spojencům",
@@ -3454,7 +3503,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-04-01T09:59:15.075596+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Smlouva s Vatikánem se musí upravit. Podle Ústavního soudu nadřazuje zpovědní tajemství a zvýhodňuje katolickou církev",
@@ -3501,7 +3550,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-01T09:59:15.075596+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Novinář z Reuters popisuje hon na Banksyho. Začal na Ukrajině, ale klíčový důkaz poskytl New York",
@@ -3519,7 +3568,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-04-01T09:59:15.075596+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Prezident Svoboda se po srpnu 1968 choval spíš jako ruský maršál. Co o něm prozrazuje projev k Palachovi",
@@ -3685,7 +3734,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-31T16:48:00.483870+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Mám se držet akcií a ETF, nebo změnit plán? Odborníci radí, jak investovat během ropné krize",
@@ -3702,7 +3751,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-31T16:48:00.483870+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Další škrty na životním prostředí: Ruší se zelená oddělení a desítky míst, Turek dostane „své lidi“",
@@ -3736,7 +3785,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-31T16:48:00.483870+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpův svět (435. den): Prezident zvažuje ukončení operací v Zálivu i bez toho, že by Írán uvolnil Hormuzský průliv",
@@ -3804,7 +3853,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-03-31T09:54:58.174178+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vřískot 7, nebo Poberta? Mladá filmová kritika odhaluje, na které filmy právě stojí za to vyrazit do českých kin",
@@ -3820,7 +3869,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-03-31T09:54:58.174178+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Viděli jste už někdy zmatenějšího astronauta? Ryan Gosling hraje ve sci-fi, kterou potřebujeme právě teď",
@@ -3836,7 +3885,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-31T09:54:58.174178+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Past v Hormuzu má svůj historický předobraz. Pro současnost nenese dobré zprávy",
@@ -3852,7 +3901,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-31T09:54:58.174178+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Dostat hypotéku na investiční byt bude od dubna těžší. Situaci může zkomplikovat i zděděná chata",
@@ -3867,7 +3916,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-31T09:54:58.174178+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Bezlepkový Djoković a astronaut Kipchoge. Co stojí za úspěchy slavných sportovců a jaké návyky by mohly fungovat i pro vás?",
@@ -3886,7 +3935,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-31T09:54:58.174178+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Most na pražské Výtoni čeká klíčové rozhodnutí. Správa železnic hledá kompromis s památkáři",
@@ -4101,7 +4150,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-30T16:45:32.350205+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Orbán ztrácí kontrolu: na mítinku pobouřeně křičel na protestující, že podporují Ukrajinu",
@@ -4134,7 +4183,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-30T16:45:32.350205+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Od britských vězňů k moderní demokracii. Australské zákony ovlivnil i pražský Němec",
@@ -4154,7 +4203,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-30T16:45:32.350205+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpův svět (432.–434. den): Prezidenta zřejmě už válka v Íránu začíná nudit. Další na řadě je Kuba, oznámil",
@@ -4229,7 +4278,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-30T10:06:51.625239+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Všichni máme rodiče, na shledanou.“ Anna Čtvrtníčková o Nepo, slavném příjmení i dabingu Stranger Things",
@@ -4248,7 +4297,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-03-30T10:06:51.625239+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "V kufru jsem strávil šest dní, říká herec Lukáš Tran. Mám PTSD, u aut hodnotím, jestli bych se dostal ven",
@@ -4268,7 +4317,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-03-30T10:06:51.625239+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Chci odblokovat přijímačky i maturity, jsou to špunty ve vzdělávání, říká Plaga",
@@ -4301,7 +4350,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-03-29T09:27:39.499620+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Lezete už frustrací po zdech? Gorillaz vyráží na pomoc, na nové desce zase tancují nad propastí hroutícího se světa",
@@ -4317,7 +4366,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-03-29T09:27:39.499620+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Brazilský vědec po šedesáti letech objevil nové druhy kakaovníků. „Opičí kakao“ popletlo i botaniky před ním",
@@ -4331,7 +4380,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-28T16:21:54.795295+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Tyranosaurus už naklonovat nepůjde, ale může vzniknout dinokuře, říká odborník na dinosaury",
@@ -4346,7 +4395,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-28T16:21:54.795295+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Nepotřebuju se přetvařovat.“ Zlatý Jílek o olympiádě i kritice, že se po první medaili dost neradoval",
@@ -4363,7 +4412,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-28T16:21:54.795295+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Orbánova vláda potvrdila, že žádala Rusy o ovlivnění slovenských voleb. Nebojme se to říct na rovinu",
@@ -4382,7 +4431,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-28T09:27:22.544879+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Tehdy výsměch, teď nutnost. ANO při řešení drahých paliv výrazně otáčí",
@@ -4399,7 +4448,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-28T09:27:22.544879+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jak se hermetici utkali s Hitlerem? Nová inscenace vychází z bizarního příběhu československého odboje",
@@ -4416,7 +4465,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-03-28T09:27:22.544879+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Fantaskní tvorové a Havlův odkaz: 10 představení z festivalu Noc divadel, která byste neměli minout",
@@ -4431,7 +4480,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-03-28T09:27:22.544879+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vývoj bojů (1492. den): Ruští blogeři vyvracejí fámy o útocích z území NATO",
@@ -4464,7 +4513,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-28T09:27:22.544879+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pointa N: Macinkovi se obhajoba Budapešti vrátila jako bumerang. A Turek opět zlehčoval hajlování",
@@ -4481,7 +4530,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-28T09:27:22.544879+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Putin shání peníze. Žádá své oligarchy, aby platili ruskou válku",
@@ -4592,7 +4641,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-27T16:42:27.525506+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Maďarská moc se rozpadá a panikaří. Cítí, že se situace vymyká kontrole, říká novinář stíhaný za špionáž",
@@ -4625,7 +4674,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-03-27T16:42:27.525506+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Reforma rozvodů ohrožuje děti, tvrdí experti. Tejc slíbil problémové části upravit",
@@ -4662,7 +4711,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-27T16:42:27.525506+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpův svět (431.den): Na válku v Zálivu může doplatit Ukrajina. Bílý dům zvažuje zrušení již zaplacené dodávky patriotů",
@@ -4783,7 +4832,7 @@
       ],
       "feed_url": "https://denikn.cz/kultura/feed",
       "first_seen": "2026-03-27T09:44:15.725098+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Všichni mi říkali: musí papat.“ Extrémní proměny zachraňují životy, balancují ale na hraně ponížení",
@@ -4883,7 +4932,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pointa N: Politik SPD se stal nečekaným hrdinou boje za nezávislá média",
@@ -4899,7 +4948,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Tajné operace, hrozba teroristických útoků a nová migrační krize. Jak se válka proti Íránu může přelít do Evropy",
@@ -4933,7 +4982,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jak Finsko radikálně snížilo počet lidí bez domova? Odpověď jsme zjišťovali v Helsinkách",
@@ -5023,7 +5072,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Většina zaměstnanců v práci stagnuje. Firmy drží odborníky ve škatulkách, ve kterých se jim daří",
@@ -5037,7 +5086,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Chybí nám ropa, nebo lidské mozky? Američané od strachu z přelidnění došli k obavám z vyhynutí",
@@ -5056,7 +5105,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Tipují podezřele přesně. Na válce proti Íránu mohli vydělat lidé s tajnými informacemi",
@@ -5075,7 +5124,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jak na Írán reaguje MAGA? Politici i voliči stojí za Trumpem, rozzlobená je jen část influencerů",
@@ -5139,7 +5188,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Bolela ho záda.“ Turek jezdil na jednání půjčeným range roverem, poskytl mu ho plzeňský podnikatel",
@@ -5210,7 +5259,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Situace se otočila: Rusko posílá Íránu drony, tvrdí západní tajné služby",
@@ -5339,7 +5388,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Německo drtí „čínský šok“",
@@ -5356,7 +5405,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Budeme tlačit dál.“ SPD nestačí Vojtěchovy ústupky ohledně vakcín, požaduje zásadní změny",
@@ -5392,7 +5441,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Po zabití Chameneího se Putin vyděsil a nechal vypnout mobilní internet. Kdo těží z datového detoxu a kdo přišel o miliardy",
@@ -5459,7 +5508,7 @@
       ],
       "feed_url": "https://denikn.cz/ekonomika/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Že je podezřelý, je hrozně málo.“ Vedení Karviné nechce řešit primátorovu účast v úplatkářské kauze",
@@ -5477,7 +5526,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vstoupí Národní galerie Praha pod vedením Olgy Kotkové (konečně) do 21. století? Jarní výstavy zahájil Klempíř",
@@ -5595,7 +5644,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„To jsem tu ještě nezažil. Bojíme se.“ Houdek o poměrech na ministerstvu pro místní rozvoj",
@@ -5615,7 +5664,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jak Babišova vláda utahuje šrouby demokracii. Mapujeme sedm klíčových oblastí",
@@ -5904,7 +5953,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vojenský kanibalismus drtí ruské hospodářství. Naděje přitéká z Íránu",
@@ -5979,7 +6028,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Íránista Jakub Koláček: Po bombardování režimy nepadají, změnu v Íránu musejí udělat lidé zdola",
@@ -6073,7 +6122,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Rakovina prsu v Česku: kde se ženy k léčbě dostanou rychle a kde čekají týdny navíc",
@@ -6205,7 +6254,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Nepojedeme jako parní válec. Východní model nechystáme, říká Havlíček k rušení mediálních poplatků",
@@ -6294,7 +6343,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Comeback Zelených, prudký nárůst AfD. Německé volby po debaklu sociálních demokratů oslabují Merzovu vládu",
@@ -6488,7 +6537,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpův svět (425.–427. den): Zaútočí na íránské elektrárny, pošle vojáky na Chárg, či udeří po zemi z jihu?",
@@ -6640,7 +6689,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Táhni domů.“ Útoky na Ukrajince v Česku častěji přerůstají ve fyzické násilí",
@@ -6696,7 +6745,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Čtvrt milionu lidí na Letné je jasný signál. Bez politické síly se ale nic nezmění, říká politolog",
@@ -6782,7 +6831,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Čas nečeká na nikoho, jedině pokud je tím člověkem Chuck Norris.“ 25 vtipů (a několik pravd) o světové legendě",
@@ -6817,7 +6866,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Bylo to korektní a důstojné.“ Klempíř i odvolaná ředitelka se setkali se zaměstnanci Národní galerie",
@@ -6874,7 +6923,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Problém byl spíš mlčet, když se dělo zjevné psychické násilí, říká režisér filmu o veganském pravicovém guru",
@@ -6948,7 +6997,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jak američtí prezidenti rozhodují o válce? Bývalý zpravodajec popisuje debaty v Oválné pracovně",
@@ -6968,7 +7017,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Kolaps stavebních úřadů a nahrávka velkým developerům.“ Poslanci jednali o stavebním zákonu, ministryně nedorazila",
@@ -7020,7 +7069,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Energetickou závislost jsme nevyřešili. Teď se zase divíme, říká analytik Sklenář",
@@ -7170,7 +7219,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Německý politik domlouval investice v Agrofertu. „Chemii“ v ten den řešil i s Babišem",
@@ -7208,7 +7257,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Když se film změní v bulvární kauzu. O co jde ve sporu o Sbormistra",
@@ -7240,7 +7289,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Rusové nás podlomili, dějiny nám nastolí reparát. Příště Putin zaútočí na NATO, říká ukrajinista Svoboda",
@@ -7264,7 +7313,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "David Koller: Spousta lidí volila ultras jen z recese. Teď musíme řešit, kdo je estébák a kdo úchylák",
@@ -7315,7 +7364,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Zlevní paliva rychle, nebo pomalu? Popisujeme, co o tom rozhoduje",
@@ -7362,7 +7411,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Zrušení televizních a rozhlasových poplatků prospěje spíše politikům než občanům",
@@ -7378,7 +7427,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Ať válka v Íránu dopadne jakkoliv, Kremlu to bude hrát do karet",
@@ -7395,7 +7444,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Američané mají ohledně výdajů na obranu pravdu. NATO Babišovu nemocnici nikdy neuzná, říká ekonom Pavel",
@@ -7465,7 +7514,7 @@
       ],
       "feed_url": "https://denikn.cz/nazory/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Ultrazpracované potraviny škodí našemu zdraví, upozorňují vědci a volají po jejich regulaci. Podle kritiků jsou důkazy slabé",
@@ -7482,7 +7531,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vláda představila jízdní řád nového stavebního superúřadu. Hotovo chce mít za pět let",
@@ -7531,7 +7580,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Romantika na frontě: masážní salony, nevěra a manželky v roli milenek",
@@ -7701,7 +7750,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pointa N: Koaliční poslanci se od Ruska učí, jak zakroutit krk neziskovkám",
@@ -7737,7 +7786,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Rusko chce zpět na Benátské bienále. Umělci varují před propagandou, Evropská unie hrozí omezením grantu",
@@ -7905,7 +7954,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Válka s Íránem je střelba do vlastní nohy. A ohrožuje i Česko",
@@ -7961,7 +8010,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Ledvina mi nechybí, dceři dala druhou šanci.“ O darování orgánu však rodiny ze strachu často mlčí",
@@ -7977,7 +8026,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Trumpovy sliby provoz v Hormuzu neobnovily. Lodě čelí útokům, velmoci uvolní rekordní ropné zásoby",
@@ -8026,7 +8075,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Které profese AI ohrožuje nejvíce? Nová studie odpovídá na otázku, jež začíná být pro generaci Z zásadní",
@@ -8127,7 +8176,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Za roky 1938, 1939 a 1968 jsme si zásadní měrou mohli sami. S touto vládou jsme na nejlepší cestě to zopakovat",
@@ -8202,7 +8251,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Opravdu mohou být všichni muži vojáky?",
@@ -8251,7 +8300,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Cukr nečiní děti hyperaktivními. Proč tomu tedy stále věříme?",
@@ -8269,7 +8318,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Co s tělem udělá týden otužování? Nová studie naznačuje souvislost s dlouhověkostí",
@@ -8285,7 +8334,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Historik Snyder: Je to Trumpova válka proti pravdě. A prohráváme",
@@ -8330,7 +8379,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Moje generace byla připravená stát se pány všeho. Teď nám snad pomůže pesimista, který se proměnil v proroka",
@@ -8401,7 +8450,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vrtěti psem: Babiš přepnul na svůj obávaný covidový mikromanagement",
@@ -8422,7 +8471,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Nedá se s nikým srovnat. Jílkův přístup si u teenagerů neumíme představit, líčí jeho bývalý trenér",
@@ -8439,7 +8488,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Ve tři ráno mě probudily údery.“ Reportérka na Blízkém východě vysvětluje, proč přišel útok na Írán",
@@ -8463,7 +8512,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "AI má Babišovu silnou podporu. Jestli jí rozumí, nebo ne, není podstatné, říká zmocněnec",
@@ -8480,7 +8529,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vražedný vyjednavač aneb jak se Trump přestal bát a začal svrhávat režimy",
@@ -8499,7 +8548,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "V USA naplno propukl souboj o kontrolu nad vojenským využitím AI. Kdo vyhraje?",
@@ -8517,7 +8566,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Odkud moderní autoritáři čerpají moc a jak se jich zbavit?",
@@ -8538,7 +8587,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Krasobruslení jde ve všem nahoru, Evropa ale slábne, hodnotí bývalá rozhodčí Žáková",
@@ -8556,7 +8605,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Dominance Ruska v šachu je u konce. Vliv v zákulisí si ale drží",
@@ -8573,7 +8622,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Voliči SPD bydlí u nadúrovňových křižovatek. Výdejní boxy nás řadí do východní Evropy, říká designérka Veronika Rút",
@@ -8594,7 +8643,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Holky nesimulují tolik jako kluci.“ Ženy mohou hrát fotbal a mohou ho hrát dobře, kritikům navzdory",
@@ -8611,7 +8660,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pointa N: Česko, ráj (olympijského) sportu. Jen tu chybí haly a v šatnách hrozí natáčení potají",
@@ -8630,7 +8679,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Americký sen: rozbít svět na cimprcampr",
@@ -8649,7 +8698,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Odešli z ministerstva, aby mohli měnit víc. Teď chystají Plagovu reformu, která přepíše moc na univerzitách",
@@ -8666,7 +8715,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Plánuje rok dopředu, na všechno má tabulky. „Jsem v tom trochu maniak,“ říká olympijská vítězka Maděrová",
@@ -8684,7 +8733,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vrtěti psem: Výročí Putinovy agrese navenek rozdělilo koalici. Co skutečně dělá vláda pro napadenou Ukrajinu?",
@@ -8705,7 +8754,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pokud se vám během krátkých šlofíků zdají sny, je to podezřelé, varuje spánková lékařka",
@@ -8721,7 +8770,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Přežijeme, ale býváme vyčerpaní. O tom se v ordinaci moc nemluví, říká koordinátorka průzkumu života onkologických pacientů",
@@ -8739,7 +8788,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Na vrchol šli ve dvou, vrátil se jen jeden. Rakouskem hýbe tragická smrt horolezkyně",
@@ -8755,7 +8804,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "David Černý fyzicky obsadil veřejný prostor. O kvalitě bych nemluvila, říká historička umění Milena Bartlová",
@@ -8774,7 +8823,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jak drony změnily olympiádu a představily budoucnost sportovních přenosů",
@@ -8792,7 +8841,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Mexiko zastřelilo drogového bosse El Mencha. Násilí, chaos a mizející lidé čtvrt roku před MS ve fotbale",
@@ -8810,7 +8859,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Totální ruská invaze na Ukrajinu vstupuje do pátého roku. Co jsme se dozvěděli a co nás čeká dál?",
@@ -8830,7 +8879,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Olympijský deník: Grazie! Česko odjíždí z Itálie s pěti medailemi a velkou nadějí do budoucna",
@@ -8847,7 +8896,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Od českých triumfů po děsivý pád lyžařské hvězdy: Třináct příběhů olympiády",
@@ -8870,7 +8919,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Amatérští běžci profitují z komfortu, ne z nejnovějších inovací, říká trenér a radí, jak vybrat vhodné běžecké boty",
@@ -8889,7 +8938,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Olympijský deník: Bronz, slzy a hokej. Český biatlon je zásluhou Voborníkové opět mezi elitou",
@@ -8906,7 +8955,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Beztak dojedu šestá.“ Biatlonistka Voborníková hledala soupeřky za sebou a slaví senzační bronz",
@@ -8923,7 +8972,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Olympijský deník: Rusy a Bělorusy místo Čechů a Poláků. Světový sport testuje ochotu spojenců Ukrajiny",
@@ -8942,7 +8991,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jsem cukrář s názorem. Reaguju jen na ty, u kterých to ještě má smysl, říká ve Studiu N Josef Maršálek",
@@ -8962,7 +9011,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Olympijský deník: Jílek prohrál už na startovní čáře. Popsal, v čem udělal chybu",
@@ -8979,7 +9028,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Hlavně klid, Trump je tu jenom na chvíli. Demokraté už si brousí zuby na Bílý dům a v Mnichově ujišťovali Evropany, že je Amerika neopustí",
@@ -8999,7 +9048,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Při gólu na 3:2 jsme hráli v šesti a nikdo si toho nevšiml, diví se po těsné prohře s Kanadou Vrbata",
@@ -9017,7 +9066,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Dlouho jsem neviděl tak skvělý zápas.“ Vůjtek hodnotí výkon Čechů proti Kanadě i rozhodující gól",
@@ -9033,7 +9082,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Olympijský deník: Hokejisté byli proti Kanadě kousek od senzace, české biatlonistky zajely nejlepší výsledek",
@@ -9051,7 +9100,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Montreal olympiádu splácel třicet let, v Řecku stadiony zchátraly. Proč už se země do pořádání olympijských her nehrnou?",
@@ -9072,7 +9121,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Tátu jsem odstřihl, s mámou máme jasné hranice. Patrik Buday o životě v rodině alkoholičky a gamblera",
@@ -9092,7 +9141,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Olympijský deník: Hokejisté se protrápili k postupu, v nepřehledném herním systému znovu vyzvou favority",
@@ -9110,7 +9159,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Vrtěti psem: Motoristé našli náhradu za Turka. Bude dělat, co mu na očích uvidí?",
@@ -9130,7 +9179,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Kdysi si byli v Evropě muži a ženy rovni, nebyli chudí a bohatí. Pak to změnil pluh a obchod se solí",
@@ -9145,7 +9194,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Olympijský deník: Jihočeský festival láká na curling i setkání s hvězdami. Příchozí čeká euforie jako na Staromáku",
@@ -9162,7 +9211,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Pastrňák není robot, potřebuje k sobě kreativního centra, hodnotí vlažné výkony trenér Jandač",
@@ -9180,7 +9229,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Chystá se velká reforma řízení vysokých škol. Má se vyjasnit, „co je Krakonošovo a co rektorovo“",
@@ -9196,7 +9245,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Problém, o kterém je načase mluvit.“ S adiktologem o závislosti dospělých na sociálních sítích",
@@ -9210,7 +9259,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Šťastný nový rok ohnivého Koně! Co nás čeká a nemine? A proč ten kůň vlastně hoří?",
@@ -9231,7 +9280,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Žerou kosti a přežívají na poušti mořského dna. Výzkumy postupně odhalují dílky hlubokomořské skládačky",
@@ -9247,7 +9296,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Olympijský deník: Čechy čeká těžká cesta za hokejovou medailí, Italky se radují ze zlatých návratů po zranění",
@@ -9265,7 +9314,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Olympijský deník: Hry plné emocí. Krasobruslař Malinin vybouchl, curleři se hádali",
@@ -9282,7 +9331,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Olympijský deník: Dvě medaile a deset milionů dojmů. Adamczyková i Jílek sklízejí nejen gratulace",
@@ -9300,7 +9349,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Nejmladší český vítěz. Zlatý Jílek si nic než výhru nepřipouštěl, v cíli se mu klaněla i Sáblíková",
@@ -9316,7 +9365,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Měla jsem to za odměnu.“ Stříbrná Adamczyková už s návratem po mateřské nepočítala, syn jí pomohl sejmout tlak",
@@ -9332,7 +9381,7 @@
       ],
       "feed_url": "https://denikn.cz/sport/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Všechno sebrat! Zakázat!“ Rusko zuří nad sportovci, kteří odešli závodit za jiné země",
@@ -9372,7 +9421,7 @@
       ],
       "feed_url": "https://denikn.cz/audio/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Proč prohra českých hokejistů s Kanadou není zahanbující",
@@ -9560,7 +9609,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Rostliny jako svědci, oběti i podezřelí: jak pomáhají řešit kriminalistické záhady",
@@ -9576,7 +9625,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Mít uspokojivý sex je náročné, překážek je mnoho, říká psychosexuoložka v rozhovoru o českých ložnicích",
@@ -9593,7 +9642,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Jan Cina: Jako herce by mě zajímalo, jak Macinka přemýšlí, o čem se mu zdá a co tím sleduje",
@@ -9691,7 +9740,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Alkohol poškozuje DNA a způsobuje rakovinu. U některých lidí může stačit i malé množství, vysvětluje vědec",
@@ -9708,7 +9757,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Zlaté mince, šperky, tisíce kousků jantaru. Hradečtí archeologové objevili pravěké „krajské město“",
@@ -9723,7 +9772,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Proč velmoci nedobyly Hindúkuš? Tajemství je ukryto v neschopnosti Afghánců pochodovat",
@@ -9804,7 +9853,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Zarazila vás videa explodujících stromů? To proto, že stromy nevybuchují. K „výstřelu“ však může dojít",
@@ -9818,7 +9867,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "„Bude v rukou vlastenců a investorů,“ raduje se Trump z finální dohody o budoucnosti TikToku. Jemu samotnému sociální síť pomohla znovuzískat Bílý dům",
@@ -9838,7 +9887,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Noční čočky umožňují vidět bez brýlí. Proč se v Česku téměř nepoužívají",
@@ -9857,7 +9906,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Mladí žijí s pocitem viny, že vůbec existují. Taky jsem si tím prošel, říká vědec, který vyvrací mýty o klimatu",
@@ -9874,7 +9923,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Když vám zavolá klon: Anatomie miliardového byznysu s AI podvody",
@@ -9893,7 +9942,7 @@
       ],
       "feed_url": "https://denikn.cz/veda/feed",
       "first_seen": "2026-03-26T22:14:44.860273+00:00",
-      "last_seen": "2026-04-11T09:31:17.940010+00:00"
+      "last_seen": "2026-04-11T16:25:05.705264+00:00"
     },
     {
       "title": "Dění předbíhá i nejdivočejší „výzkumné“ představy, říká oceněný vědec Smetana. Zkoumá jaderné zbraně i mír",
