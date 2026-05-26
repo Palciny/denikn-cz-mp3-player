@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup
 
 RSS_DIRECTORY_URL = "https://denikn.cz/rss-odber/"
 OUTPUT_PATH = Path(__file__).resolve().parents[1] / "docs" / "data" / "articles.json"
+LATEST_OUTPUT_PATH = Path(__file__).resolve().parents[1] / "docs" / "data" / "latest.json"
 USER_AGENT = "Mozilla/5.0 (compatible; DenikNCzAudioBot/1.0; +https://github.com/)"
 MAX_FEED_ITEMS_PER_FEED = 150
 REQUEST_TIMEOUT = 30
@@ -254,22 +255,58 @@ def build_records() -> tuple[list[ArticleRecord], list[str]]:
     return records, dedupe_keep_order(feed_urls_seen)
 
 
-def write_output(records: list[ArticleRecord], feed_urls: list[str]) -> None:
-    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+def build_payload(
+    *,
+    records: list[ArticleRecord],
+    payload_records: list[ArticleRecord],
+    feed_urls: list[str],
+    generated_at: str,
+    latest_day: str | None,
+) -> dict:
     categories = sorted({category for record in records for category in record.categories}, key=str.casefold)
     published_days = sorted({record.published_day for record in records if record.published_day}, reverse=True)
-    payload = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+    return {
+        "generated_at": generated_at,
         "sources": feed_urls,
-        "count": len(records),
+        "count": len(payload_records),
+        "total_count": len(records),
+        "latest_day": latest_day,
         "categories": categories,
         "published_days": published_days,
-        "articles": [asdict(record) for record in records],
+        "articles": [asdict(record) for record in payload_records],
     }
+
+
+def write_output(records: list[ArticleRecord], feed_urls: list[str]) -> None:
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    published_days = sorted({record.published_day for record in records if record.published_day}, reverse=True)
+    latest_day = published_days[0] if published_days else None
+    latest_records = [
+        record
+        for record in records
+        if latest_day is None or record.published_day == latest_day
+    ]
+    generated_at = datetime.now(timezone.utc).isoformat()
+    payload = build_payload(
+        records=records,
+        payload_records=records,
+        feed_urls=feed_urls,
+        generated_at=generated_at,
+        latest_day=latest_day,
+    )
+    latest_payload = build_payload(
+        records=records,
+        payload_records=latest_records,
+        feed_urls=feed_urls,
+        generated_at=generated_at,
+        latest_day=latest_day,
+    )
+
     OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    LATEST_OUTPUT_PATH.write_text(json.dumps(latest_payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 if __name__ == "__main__":
     items, feed_urls = build_records()
     write_output(items, feed_urls)
-    print(f"Wrote {len(items)} records from {len(feed_urls)} feed(s) to {OUTPUT_PATH}")
+    print(f"Wrote {len(items)} records from {len(feed_urls)} feed(s) to {OUTPUT_PATH} and {LATEST_OUTPUT_PATH}")
