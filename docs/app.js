@@ -143,13 +143,17 @@ async function load() {
     const categories = Array.isArray(payload.categories) ? payload.categories : [];
     const days = Array.isArray(payload.published_days) ? payload.published_days : [];
 
-    fillSelect(dayEl, days, "Všechny dny");
-    fillSelect(categoryEl, categories, "Všechny kategorie");
+fillSelect(dayEl, days, "Všechny dny");
+fillSelect(categoryEl, categories, "Všechny kategorie");
 
-    metaEl.dataset.generatedAtText = `Naposledy vygenerováno: ${formatDate(payload.generated_at)}`;
-    metaEl.textContent = `${metaEl.dataset.generatedAtText} · Zobrazeno: ${allArticles.length} z ${allArticles.length}`;
-    render(allArticles);
-    syncAllPlaybackRates();
+// Default to the latest available day instead of rendering the full archive.
+if (days.length) {
+  dayEl.value = days[0];
+}
+
+metaEl.dataset.generatedAtText = `Naposledy vygenerováno: ${formatDate(payload.generated_at)}`;
+applyFilter();
+syncAllPlaybackRates();
   } catch (error) {
     metaEl.textContent = "Nepodařilo se načíst index článků.";
     listEl.innerHTML = `<div class="empty">${error.message}</div>`;
