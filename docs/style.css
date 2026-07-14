@@ -189,6 +189,8 @@ audio {
 .speed-label {
   color: var(--muted);
   font-size: 0.9rem;
+  margin-left: auto;
+  align-self: center;
 }
 
 .speed-value {
