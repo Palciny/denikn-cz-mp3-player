@@ -60,10 +60,25 @@ function debounce(fn, delay) {
   };
 }
 
-function fillSelect(selectEl, values, defaultLabel) {
+function formatDayLabel(day) {
+  try {
+    const date = new Date(`${day}T00:00:00`);
+    if (Number.isNaN(date.getTime())) return day;
+    return date.toLocaleDateString("cs-CZ", {
+      weekday: "short",
+      day: "numeric",
+      month: "numeric",
+      year: "numeric",
+    });
+  } catch {
+    return day;
+  }
+}
+
+function fillSelect(selectEl, values, defaultLabel, labelFn) {
   selectEl.innerHTML = "";
   selectEl.appendChild(createOption("", defaultLabel));
-  values.forEach((value) => selectEl.appendChild(createOption(value, value)));
+  values.forEach((value) => selectEl.appendChild(createOption(value, labelFn ? labelFn(value) : value)));
 }
 
 function applyPlaybackRate(audio, labelEl) {
@@ -266,7 +281,7 @@ function applyPayload(payload, isArchive) {
   latestDay = payload.latest_day || days[0] || latestDay;
   totalArticleCount = Number(payload.total_count || payload.count || allArticles.length);
 
-  fillSelect(dayEl, days, "Všechny dny");
+  fillSelect(dayEl, days, "Všechny dny", formatDayLabel);
   fillSelect(categoryEl, categories, "Všechny kategorie");
 
   if (previousDay && days.includes(previousDay)) {
@@ -368,6 +383,17 @@ const debouncedApplyFilter = debounce(runFilter, SEARCH_DEBOUNCE_MS);
 searchEl.addEventListener("input", debouncedApplyFilter);
 dayEl.addEventListener("change", runFilter);
 categoryEl.addEventListener("change", runFilter);
+
+const resetEl = el("reset-filters");
+if (resetEl) {
+  resetEl.addEventListener("click", () => {
+    searchEl.value = "";
+    dayEl.value = "";
+    categoryEl.value = "";
+    runFilter();
+  });
+}
+
 load();
 
 if (speedEl) {
