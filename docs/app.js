@@ -97,9 +97,28 @@ function updateMeta() {
   metaEl.textContent = `${generatedAt} · Zobrazeno: ${shownCount} z ${filteredCount} vyfiltrovaných · Celkem: ${total}${loadingMode}`;
 }
 
+const ALLOWED_LINK_HOSTS = new Set(["denikn.cz", "www.denikn.cz"]);
+const ALLOWED_MEDIA_HOSTS = new Set(["static.novydenik.com"]);
+
+function safeUrl(value, allowedHosts) {
+  try {
+    const url = new URL(value);
+    if (url.protocol !== "https:") return null;
+    if (!allowedHosts.has(url.hostname)) return null;
+    return url.href;
+  } catch {
+    return null;
+  }
+}
+
 function showError(message, detail) {
   metaEl.textContent = message;
-  listEl.innerHTML = `<div class="empty">${detail}</div>`;
+  listEl.innerHTML = "";
+
+  const empty = document.createElement("div");
+  empty.className = "empty";
+  empty.textContent = detail;
+  listEl.appendChild(empty);
 }
 
 function runFilter() {
@@ -152,14 +171,27 @@ function render(items) {
       : "Bez kategorie";
     node.querySelector(".details").textContent = `Publikováno: ${formatDate(item.published)} · Kategorie: ${categoryText}`;
 
+    const articleUrl = safeUrl(item.url, ALLOWED_LINK_HOSTS);
+    const mp3Url = safeUrl(item.mp3_url, ALLOWED_MEDIA_HOSTS);
+
     const articleLink = node.querySelector(".article-link");
-    articleLink.href = item.url;
+    if (articleUrl) {
+      articleLink.href = articleUrl;
+    } else {
+      articleLink.remove();
+    }
 
     const mp3Link = node.querySelector(".mp3-link");
-    mp3Link.href = item.mp3_url;
+    if (mp3Url) {
+      mp3Link.href = mp3Url;
+    } else {
+      mp3Link.remove();
+    }
 
     const audio = node.querySelector("audio");
-    audio.dataset.src = item.mp3_url;
+    if (mp3Url) {
+      audio.dataset.src = mp3Url;
+    }
     audio.preload = "none";
     const speedValueEl = node.querySelector(".speed-value");
     applyPlaybackRate(audio, speedValueEl);
@@ -198,6 +230,28 @@ function render(items) {
 
   if (items.length > visibleCount) {
     listEl.appendChild(createShowMoreButton(items.length));
+  }
+}
+
+function computeCategoriesForDay(day) {
+  const source = day
+    ? allArticles.filter((item) => item.published_day === day)
+    : allArticles;
+
+  return Array.from(
+    new Set(source.flatMap((item) => (Array.isArray(item.categories) ? item.categories : [])))
+  ).sort((a, b) => a.localeCompare(b, "cs"));
+}
+
+function updateCategoryOptions() {
+  const selectedDay = dayEl.value;
+  const previousCategory = categoryEl.value;
+  const categories = computeCategoriesForDay(selectedDay);
+
+  fillSelect(categoryEl, categories, "Všechny kategorie");
+
+  if (previousCategory && categories.includes(previousCategory)) {
+    categoryEl.value = previousCategory;
   }
 }
 
@@ -258,6 +312,7 @@ async function applyFilter(resetVisible = true) {
   }
 
   await loadArchiveIfNeeded();
+  updateCategoryOptions();
 
   const q = searchEl.value.trim().toLowerCase();
   const selectedDay = dayEl.value;
