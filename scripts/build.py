@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 from dataclasses import dataclass, asdict
 from datetime import datetime, timezone
@@ -16,7 +17,24 @@ from bs4 import BeautifulSoup
 RSS_DIRECTORY_URL = "https://denikn.cz/rss-odber/"
 OUTPUT_PATH = Path(__file__).resolve().parents[1] / "docs" / "data" / "articles.json"
 LATEST_OUTPUT_PATH = Path(__file__).resolve().parents[1] / "docs" / "data" / "latest.json"
-USER_AGENT = "Mozilla/5.0 (compatible; DenikNCzAudioBot/1.0; +https://github.com/)"
+SITE_ROOT = "https://denikn.cz/"
+ACCEPT_LANGUAGE = "cs-CZ,cs;q=0.9,sk;q=0.8,en-US;q=0.7,en;q=0.6"
+# Used only if curl_cffi is unavailable. The old self-identifying bot UA is an
+# easy thing for the edge to filter on.
+FALLBACK_USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+)
+# Browser TLS/HTTP2 fingerprints to impersonate, tried in order when the edge
+# answers 403. A plain `requests` session looks like Python at the TLS layer.
+IMPERSONATE_PROFILES = [
+    p.strip()
+    for p in os.environ.get("IMPERSONATE_PROFILES", "chrome,firefox,edge,safari").split(",")
+    if p.strip()
+]
+# Stop fetching article pages after this many 403s in a row - past that point
+# it is an IP-level block and more requests only deepen it.
+MAX_CONSECUTIVE_BLOCKS = int(os.environ.get("MAX_CONSECUTIVE_BLOCKS", "3"))
 MAX_FEED_ITEMS_PER_FEED = 150
 REQUEST_TIMEOUT = 30
 
@@ -50,14 +68,64 @@ class ArticleRecord:
     last_seen: str
 
 
-session = requests.Session()
-session.headers.update({"User-Agent": USER_AGENT})
+class BlockedError(Exception):
+    """The edge refused the request (HTTP 403)."""
 
 
-def fetch_text(url: str) -> str:
-    response = session.get(url, timeout=REQUEST_TIMEOUT)
-    response.raise_for_status()
-    return response.text
+def make_session(profile: str | None):
+    if profile:
+        try:
+            from curl_cffi import requests as curl_requests
+
+            created = curl_requests.Session(
+                impersonate=profile, default_headers=True, allow_redirects=True
+            )
+            created.headers.update({"Accept-Language": ACCEPT_LANGUAGE})
+            return created
+        except Exception as exc:
+            print(f"Cannot impersonate {profile}: {exc}")
+            return None
+    created = requests.Session()
+    created.headers.update(
+        {"User-Agent": FALLBACK_USER_AGENT, "Accept-Language": ACCEPT_LANGUAGE}
+    )
+    return created
+
+
+session = None
+profile_index = -1
+
+
+def next_session() -> bool:
+    """Move to the next usable fingerprint. False once the list is exhausted."""
+    global session, profile_index
+    while profile_index + 1 < len(IMPERSONATE_PROFILES):
+        profile_index += 1
+        candidate = make_session(IMPERSONATE_PROFILES[profile_index])
+        if candidate is not None:
+            session = candidate
+            print(f"HTTP transport: curl_cffi (impersonate={IMPERSONATE_PROFILES[profile_index]})")
+            return True
+    return False
+
+
+if not next_session():
+    session = make_session(None)
+    print("HTTP transport: requests (no fingerprint impersonation available)")
+
+
+def fetch_text(url: str, referer: str | None = None) -> str:
+    headers = {"Referer": referer} if referer else None
+    while True:
+        response = session.get(url, timeout=REQUEST_TIMEOUT, headers=headers)
+        if response.status_code == 403:
+            # 403 is a verdict on this fingerprint; try another browser once.
+            if next_session():
+                print(f"::warning::{url} refused (HTTP 403) - retrying with another profile")
+                continue
+            raise BlockedError("HTTP 403")
+        response.raise_for_status()
+        return response.text
 
 
 def parse_published(value: str | None) -> str | None:
@@ -130,7 +198,35 @@ def extract_main_mp3(html: str, page_url: str) -> str | None:
     return None
 
 
-def extract_categories(entry: feedparser.FeedParserDict, html: str) -> list[str]:
+def feed_entry_mp3(entry: feedparser.FeedParserDict) -> str | None:
+    """
+    An MP3 linked straight from the RSS item (enclosure, media or body HTML).
+    The feeds are not blocked, so this needs no article page request.
+    """
+    for link in entry.get("links", []) or []:
+        href = (link.get("href") or "").strip()
+        mime = link.get("type") or ""
+        if (link.get("rel") == "enclosure" and href
+                and ("audio" in mime or ".mp3" in href.lower())
+                and "predplatne.mp3" not in href.lower()):
+            return href
+
+    for media in entry.get("media_content", []) or []:
+        href = (media.get("url") or "").strip()
+        if href and ".mp3" in href.lower() and "predplatne.mp3" not in href.lower():
+            return href
+
+    chunks = [c.get("value") or "" for c in entry.get("content", []) or []]
+    chunks.append(entry.get("summary") or "")
+    for chunk in chunks:
+        if ".mp3" in chunk.lower():
+            found = extract_main_mp3(chunk, entry.get("link") or SITE_ROOT)
+            if found:
+                return found
+    return None
+
+
+def extract_categories(entry: feedparser.FeedParserDict, html: str | None) -> list[str]:
     categories: list[str] = []
 
     for tag in entry.get("tags", []) or []:
@@ -138,7 +234,7 @@ def extract_categories(entry: feedparser.FeedParserDict, html: str) -> list[str]
         if term:
             categories.append(term)
 
-    if categories:
+    if categories or not html:
         return dedupe_keep_order(categories)
 
     soup = BeautifulSoup(html, "html.parser")
@@ -206,24 +302,53 @@ def build_records() -> tuple[list[ArticleRecord], list[str]]:
     seen_mp3s = {record.mp3_url for record in records_by_url.values()}
 
     feed_urls_seen: list[str] = []
+    consecutive_blocks = 0
+    page_fetch_disabled = False
+    stats = {"known": 0, "by_feed": 0, "by_page": 0, "blocked": 0, "skipped": 0}
 
     for feed_url, entry in iter_feed_entries():
         feed_urls_seen.append(feed_url)
         url = (entry.get("link") or "").strip()
         title = (entry.get("title") or url).strip()
 
-        try:
-            html = fetch_text(url)
-            mp3_url = extract_main_mp3(html, url)
-        except Exception as exc:
-            print(f"Skipping {url}: {exc}")
+        previous = records_by_url.get(url)
+        if previous is not None:
+            # Already indexed - refreshing it would cost a page fetch for nothing.
+            previous.last_seen = now_iso
+            stats["known"] += 1
             continue
+
+        html = None
+        mp3_url = feed_entry_mp3(entry)
+        if mp3_url:
+            stats["by_feed"] += 1
+        elif page_fetch_disabled:
+            stats["skipped"] += 1
+            continue
+        else:
+            try:
+                html = fetch_text(url, referer=SITE_ROOT)
+                consecutive_blocks = 0
+                mp3_url = extract_main_mp3(html, url)
+                if mp3_url:
+                    stats["by_page"] += 1
+            except BlockedError as exc:
+                stats["blocked"] += 1
+                consecutive_blocks += 1
+                print(f"  blocked fetching {url}: {exc}")
+                if consecutive_blocks >= MAX_CONSECUTIVE_BLOCKS:
+                    page_fetch_disabled = True
+                    print(f"::warning::{consecutive_blocks} article fetches blocked in a row - "
+                          "skipping article pages for the rest of this run")
+                continue
+            except Exception as exc:
+                print(f"Skipping {url}: {exc}")
+                continue
 
         if not mp3_url:
             continue
 
-        previous = records_by_url.get(url)
-        if previous is None and mp3_url in seen_mp3s:
+        if mp3_url in seen_mp3s:
             continue
 
         published = parse_published(entry.get("published") or entry.get("updated"))
@@ -242,6 +367,8 @@ def build_records() -> tuple[list[ArticleRecord], list[str]]:
         )
         records_by_url[url] = record
         seen_mp3s.add(mp3_url)
+
+    print("Run summary: " + ", ".join(f"{k}={v}" for k, v in stats.items()))
 
     records = list(records_by_url.values())
     records.sort(
