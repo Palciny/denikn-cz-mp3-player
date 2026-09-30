@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:27:26.405409+00:00",
+  "generated_at": "2026-09-30T20:23:40.682387+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 15,
-  "total_count": 3471,
+  "count": 19,
+  "total_count": 3475,
   "latest_day": "2026-09-30",
   "categories": [
     "(Ne)připravené Česko",
@@ -613,6 +613,71 @@
   ],
   "articles": [
     {
+      "title": "Vývoj bojů (1679. den): Kde jsou okupanti podle ruských map a kde jsou doopravdy – přehled některých částí fronty",
+      "url": "https://denikn.cz/2200302/vyvoj-boju-1679-den-kde-jsou-okupanti-podle-ruskych-map-a-kde-jsou-doopravdy-prehled-nekterych-casti-fronty/",
+      "mp3_url": "https://static.novydenik.com/2026/09/neural-audio-elevenlabs-2200302-1.mp3",
+      "published": "2026-09-30T17:41:39+00:00",
+      "published_day": "2026-09-30",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Vývoj bojů"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-09-30T20:23:30.989306+00:00",
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
+    },
+    {
+      "title": "Pointa N: Peníze Prahy patří Pražanům! Tedy dokud nepřijde Andrej Babiš",
+      "url": "https://denikn.cz/2200393/pointa-n-penize-prahy-patri-prazanum-tedy-dokud-neprijde-andrej-babis/",
+      "mp3_url": "https://static.novydenik.com/2026/09/neural-audio-elevenlabs-2200393-1.mp3",
+      "published": "2026-09-30T16:39:25+00:00",
+      "published_day": "2026-09-30",
+      "categories": [
+        "Komentáře",
+        "Názor",
+        "Pointa N"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-09-30T20:23:30.989306+00:00",
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
+    },
+    {
+      "title": "„Situace se posunula.“ Lidovci v Brně nově odmítají ANO, hnutí se zavírá cesta k vládnutí ve městě",
+      "url": "https://denikn.cz/2200504/situace-se-posunula-lidovci-v-brne-nove-odmitaji-ano-hnuti-se-zavira-cesta-k-vladnuti-ve-meste/",
+      "mp3_url": "https://static.novydenik.com/2026/09/neural-audio-elevenlabs-2200504-3.mp3",
+      "published": "2026-09-30T16:24:13+00:00",
+      "published_day": "2026-09-30",
+      "categories": [
+        "Česko",
+        "Brno",
+        "Hnutí ANO",
+        "Komunální volby",
+        "Regiony"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-09-30T20:23:30.989306+00:00",
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
+    },
+    {
+      "title": "Průvodce volbami v Izraeli. Kdo jsou Netanjahuovi vyzývatelé, kteří k němu mají blíž, než chtějí",
+      "url": "https://denikn.cz/2200077/pruvodce-volbami-v-izraeli-kdo-jsou-netanjahuovi-vyzyvatele-kteri-k-nemu-maji-bliz-nez-chteji/",
+      "mp3_url": "https://static.novydenik.com/2026/09/neural-audio-elevenlabs-2200077-2.mp3",
+      "published": "2026-09-30T16:05:56+00:00",
+      "published_day": "2026-09-30",
+      "categories": [
+        "Svět",
+        "Analýza",
+        "Arabský svět",
+        "Blízký východ",
+        "Izrael"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-09-30T20:23:30.989306+00:00",
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
+    },
+    {
       "title": "Rohlík i Košík kontroluje inspekce kvůli švarcsystému. Do šetření ale mohou zasáhnout nová pravidla",
       "url": "https://denikn.cz/2198243/rohlik-i-kosik-kontroluje-inspekce-kvuli-svarcsystemu-do-setreni-ale-mohou-zasahnout-nova-pravidla/",
       "mp3_url": "https://static.novydenik.com/2026/09/neural-audio-elevenlabs-2198243-1.mp3",
@@ -627,7 +692,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Peníze na hledání nezvěstných, trocha čočky a oleje. Nepálská pohroma připravila o příjmy i lidi žijící daleko",
@@ -642,7 +707,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Labutí píseň Charlese Spencera: Místo tečky za Dianiným životem vyvolal její bratr další bulvární válku",
@@ -657,7 +722,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Boháč: Rvát se Putina naučila leningradská ulice. Taky jsem v Rusku dostal přes držku, musíme umět dát ránu",
@@ -679,7 +744,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Jeden důvod nestačí. Proč soud vyhověl děkanovi katolické fakulty?",
@@ -695,7 +760,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Za letu do Tel Avivu se poprali piloti. Spekuluje se, že jeden chtěl s letadlem havarovat",
@@ -712,7 +777,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Česká televize zvažuje zrušení účasti v Eurovizi. Kvůli škrtům omezí i Třináctou komnatu",
@@ -732,7 +797,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Na našich restauracích už zase máme hákové kříže, říká rakousko-izraelská restauratérka",
@@ -750,7 +815,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "AI je mrtvá, ať žije superinteligence! Bude ale dojednaná regulace morálkou stačit? Trumpův svět (617.–618. den)",
@@ -766,7 +831,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Sdílel Putina i covidové dezinformace. Hnutí Za Lužánky dnes kandidáta hájí",
@@ -784,7 +849,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Co spojuje vražedkyni a policistku? Krimidrama Posedlost ukazuje sílu ženského vzteku",
@@ -799,7 +864,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Policie používá software, který může být ovládán z Ruska. Po zjištění ho zakázala aktualizovat",
@@ -817,7 +882,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Mám po přechodu a je to fajn. Kdybych se jím děsila dopředu, strachem se ho snad ani nedožiju",
@@ -834,7 +899,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Písnička týdne: Taylor Swift recykluje sama sebe. Výsledkem je nic",
@@ -850,7 +915,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     },
     {
       "title": "Babiš výběr členů rady pro lidská práva neřešil. Klíčovou roli měla jeho poradkyně Vachatová",
@@ -865,7 +930,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-09-30T15:27:16.808547+00:00",
-      "last_seen": "2026-09-30T15:27:16.808547+00:00"
+      "last_seen": "2026-09-30T20:23:30.989306+00:00"
     }
   ]
 }
