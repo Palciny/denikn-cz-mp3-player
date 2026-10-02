@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:10:07.820501+00:00",
+  "generated_at": "2026-10-02T20:14:06.273512+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 22,
-  "total_count": 3526,
+  "count": 31,
+  "total_count": 3535,
   "latest_day": "2026-10-02",
   "categories": [
     "(Ne)připravené Česko",
@@ -617,6 +617,151 @@
   ],
   "articles": [
     {
+      "title": "Nenechte za sebe ve volbách rozhodovat druhé, radil Pavel. Ledaže jste na dovolené",
+      "url": "https://denikn.cz/2203310/nenechte-za-sebe-ve-volbach-rozhodovat-druhe-radil-pavel-ledaze-jste-na-dovolene/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2203310-1.mp3",
+      "published": "2026-10-02T19:22:28+00:00",
+      "published_day": "2026-10-02",
+      "categories": [
+        "Česko",
+        "Komentáře",
+        "Glosa",
+        "Komunální volby",
+        "Petr Pavel",
+        "Senátní volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-02T20:13:58.054399+00:00",
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
+    },
+    {
+      "title": "Vývoj bojů (1681. den): Válka se znovu mění – Ukrajinci poprvé použili vlastní balistickou raketu, Rusové zahájili kampaň proti mostům",
+      "url": "https://denikn.cz/2202743/vyvoj-boju-1681-den-valka-se-znovu-meni-ukrajinci-poprve-pouzili-vlastni-balistickou-raketu-rusove-zahajili-kampan-proti-mostum/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202743-1.mp3",
+      "published": "2026-10-02T18:02:53+00:00",
+      "published_day": "2026-10-02",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Vývoj bojů"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-02T20:13:58.054399+00:00",
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
+    },
+    {
+      "title": "Pocta velkým mylným myšlenkám",
+      "url": "https://denikn.cz/2202234/pocta-velkym-mylnym-myslenkam/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202234-1.mp3",
+      "published": "2026-10-02T17:59:36+00:00",
+      "published_day": "2026-10-02",
+      "categories": [
+        "Kontext N",
+        "Názor"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-02T20:13:58.054399+00:00",
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
+    },
+    {
+      "title": "Ruský „špehovací“ software používá také Vojenská policie. Přijmeme opatření, reaguje",
+      "url": "https://denikn.cz/2202462/rusky-spehovaci-software-pouziva-take-vojenska-policie-prijmeme-opatreni-reaguje/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202462-2.mp3",
+      "published": "2026-10-02T17:11:45+00:00",
+      "published_day": "2026-10-02",
+      "categories": [
+        "Česko",
+        "Hackeři a kyberbezpečnost"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-02T20:13:58.054399+00:00",
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
+    },
+    {
+      "title": "Místo voleb dovolená. Prezident Pavel odjel na motorky",
+      "url": "https://denikn.cz/2203151/misto-voleb-dovolena-prezident-pavel-odjel-na-motorky/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2203151-2.mp3",
+      "published": "2026-10-02T17:07:32+00:00",
+      "published_day": "2026-10-02",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Petr Pavel"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-02T20:13:58.054399+00:00",
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
+    },
+    {
+      "title": "Putina mají zachránit miniprasátka. Škrtá výdaje, ale přidá na válku a dlouhověkost",
+      "url": "https://denikn.cz/2202471/putina-maji-zachranit-miniprasatka-skrta-vydaje-ale-prida-na-valku-a-dlouhovekost/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202471-1.mp3",
+      "published": "2026-10-02T16:48:05+00:00",
+      "published_day": "2026-10-02",
+      "categories": [
+        "Svět",
+        "Rusko",
+        "Vladimir Putin"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-02T20:13:58.054399+00:00",
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
+    },
+    {
+      "title": "Opevňuje se Japonsko proti cizincům? Pozor na nálepku xenofobie",
+      "url": "https://denikn.cz/2201621/opevnuje-se-japonsko-proti-cizincum-pozor-na-nalepku-xenofobie/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2201621-1.mp3",
+      "published": "2026-10-02T16:30:01+00:00",
+      "published_day": "2026-10-02",
+      "categories": [
+        "Svět",
+        "Migrace a uprchlíci",
+        "Východní Asie"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-02T20:13:58.054399+00:00",
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
+    },
+    {
+      "title": "Pointa N: Vztahy ve Sněmovně hoří. A ta největší výzva teprve přijde",
+      "url": "https://denikn.cz/2202761/pointa-n-vztahy-ve-snemovne-hori-a-ta-nejvetsi-vyzva-teprve-prijde/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202761-1.mp3",
+      "published": "2026-10-02T15:29:30+00:00",
+      "published_day": "2026-10-02",
+      "categories": [
+        "Česko",
+        "Komentáře",
+        "Andrej Babiš",
+        "Filip Turek",
+        "Mimořádná schůze Sněmovny",
+        "Názor",
+        "Pointa N",
+        "Sněmovna"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-02T20:13:58.054399+00:00",
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
+    },
+    {
+      "title": "Zrušení poplatků až o rok později? Babiš zvažuje vyšší státní příspěvek pro ČT a ČRo",
+      "url": "https://denikn.cz/2202587/zruseni-poplatku-az-o-rok-pozdeji-babis-zvazuje-vyssi-statni-prispevek/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202587-2.mp3",
+      "published": "2026-10-02T15:17:47+00:00",
+      "published_day": "2026-10-02",
+      "categories": [
+        "Česko",
+        "Andrej Babiš",
+        "Média",
+        "Oto Klempíř",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-02T20:13:58.054399+00:00",
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
+    },
+    {
       "title": "Putin nařídil generálům, aby se přestali řídit pravidly vedení války, říká Zelenskyj",
       "url": "https://denikn.cz/2202560/putin-naridil-generalum-aby-se-prestali-ridit-pravidly-vedeni-valky-rika-zelenskyj/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202560-1.mp3",
@@ -628,7 +773,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Hejtmani posílají kolegu Holiše za premiérem. Má ho přesvědčit, aby jim nebral další miliardy",
@@ -646,7 +791,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "„Mám nejvyšší IQ, všichni lžou.“ Pět bodů z rozhovoru, kde Trump odhalil, kam USA kráčejí",
@@ -663,7 +808,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Výrobce letadel Evektor se dostává z pasti, ovládnout ho může jihočeská strojírenská firma",
@@ -677,7 +822,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Proč Turkova nehoda nebyla trestný čin? A co mohl porušit řidič auta s majáčky? Co zatím o případu víme",
@@ -692,7 +837,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Zůna bez velkého vysvětlení zrušil nákup obrněnců za 25 miliard. Viní své předchůdce, Černochová to odmítá",
@@ -706,7 +851,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Bojte se a pak se vzdejte. Jak v ukrajinské válce funguje strach",
@@ -721,7 +866,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Maličkosti dělají život radostným. Tak proč na ně zapomínáme?",
@@ -735,7 +880,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Ve Špindlu to před volbami vře. Na starostu zaútočili diskreditačními letáky",
@@ -748,7 +893,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Miliardář Elon Musk se potichu vrací do vlády, bude radit armádě. Trumpův svět (619.–620. den)",
@@ -764,7 +909,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Cestujícímu z letu Flydubai při řízení letadla pomohl seriál. Jestli zastavil prudké klesání, byl to zázrak, míní pilot",
@@ -780,7 +925,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "„Spousta lidí tu dělá opravdu spoustu věcí zadarmo.“ Reportáž z místa, kde je komunita víc než jednotlivec",
@@ -797,7 +942,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Jáchym Topol: Havel lidi stále provokuje, klade nám totiž tu nejdůležitější otázku",
@@ -820,7 +965,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Stojí za českou firmou stále Putinův oligarcha? Úřady pátrají, kdo ovládá výrobce strategické slitiny",
@@ -839,7 +984,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "„Je to katastrofa, co chystají.“ Vojtěchova reforma může narazit u koaličních partnerů",
@@ -854,7 +999,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Víkend bez politiky: Proč se pořád bojíme, že nám něco uteče",
@@ -871,7 +1016,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Osobnost, která může zhatit prezidentský sen Marine Le Pen: Christine Lagarde",
@@ -886,7 +1031,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Po pár měsících se jako stavební inženýrka prosadila v USA. Když se vrátila do Čech, žádná firma ji nechtěla",
@@ -900,7 +1045,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Jan Hřebejk: Je ve mně kus Kodeta",
@@ -918,7 +1063,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Tváří se to jako literatura, protože jsou na stránkách písmenka, říká spisovatelka Denemarková o Hartlovi a Třeštíkové",
@@ -934,7 +1079,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Pražští politici v kampani řeší, co se stamiliardovou rezervou. Kolik lze reálně utratit?",
@@ -951,7 +1096,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     },
     {
       "title": "Proč evropský politický střed vydrží",
@@ -969,7 +1114,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-02T15:09:53.152785+00:00",
-      "last_seen": "2026-10-02T15:09:53.152785+00:00"
+      "last_seen": "2026-10-02T20:13:58.054399+00:00"
     }
   ]
 }
