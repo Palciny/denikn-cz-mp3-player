@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T14:03:21.361575+00:00",
+  "generated_at": "2026-10-03T18:53:11.209421+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 8,
-  "total_count": 3543,
+  "count": 10,
+  "total_count": 3545,
   "latest_day": "2026-10-03",
   "categories": [
     "(Ne)připravené Česko",
@@ -618,6 +618,36 @@
   ],
   "articles": [
     {
+      "title": "Špatná, nebo špatná volba? Vyhrocené brazilské volby ještě přiostřil skandál",
+      "url": "https://denikn.cz/2204019/spatna-nebo-spatna-volba-vyhrocene-brazilske-volby-jeste-priostril-skandal/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2204019-1.mp3",
+      "published": "2026-10-03T18:15:51+00:00",
+      "published_day": "2026-10-03",
+      "categories": [
+        "Svět",
+        "Latinská Amerika"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-03T18:53:01.497821+00:00",
+      "last_seen": "2026-10-03T18:53:01.497821+00:00"
+    },
+    {
+      "title": "Čínští žáci kralují testům PISA. O vzdělání čínských dětí to ale neříká mnoho",
+      "url": "https://denikn.cz/2202350/cinsti-zaci-kraluji-testum-pisa-o-vzdelani-cinskych-deti-to-ale-nerika-mnoho/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202350-2.mp3",
+      "published": "2026-10-03T14:57:23+00:00",
+      "published_day": "2026-10-03",
+      "categories": [
+        "Komentáře",
+        "Čína",
+        "Názor",
+        "Školství"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-03T18:53:01.497821+00:00",
+      "last_seen": "2026-10-03T18:53:01.497821+00:00"
+    },
+    {
       "title": "NATO by ho mohlo snadno odříznout a Putin to ví. Proč je Kaliningrad ruským slabým místem",
       "url": "https://denikn.cz/2203837/nato-by-ho-mohlo-snadno-odriznout-a-putin-to-vi-proc-je-kaliningrad-ruskym-slabym-mistem/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2203837-1.mp3",
@@ -631,7 +661,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T14:03:13.121895+00:00"
+      "last_seen": "2026-10-03T18:53:01.497821+00:00"
     },
     {
       "title": "„Uměl naslouchat druhým – člověk měl vedle něj pocit přirozenosti a respektu“",
@@ -645,7 +675,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T14:03:13.121895+00:00"
+      "last_seen": "2026-10-03T18:53:01.497821+00:00"
     },
     {
       "title": "V bolestech přežila dvě smrticí injekce. Nepovedená poprava, jež v USA znovu otevírá diskuzi o trestu smrti",
@@ -659,7 +689,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T14:03:13.121895+00:00"
+      "last_seen": "2026-10-03T18:53:01.497821+00:00"
     },
     {
       "title": "Psychiatrička: Lidé s OCD si roky myslí, že mají jen zlozvyk nebo takovou povahu",
@@ -675,7 +705,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T14:03:13.121895+00:00"
+      "last_seen": "2026-10-03T18:53:01.497821+00:00"
     },
     {
       "title": "„Naši vesnici to úplně rozdělilo.“ Referenda o větrných elektrárnách hýbají Českem",
@@ -691,7 +721,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T14:03:13.121895+00:00"
+      "last_seen": "2026-10-03T18:53:01.497821+00:00"
     },
     {
       "title": "Hrad vystaví zachovalou Havlovu pracovnu. U Opavy čekala schovaná 24 let",
@@ -708,7 +738,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T14:03:13.121895+00:00"
+      "last_seen": "2026-10-03T18:53:01.497821+00:00"
     },
     {
       "title": "Deset nových filmů v českých kinech: horory, které baví, a komedie, které děsí",
@@ -723,7 +753,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T14:03:13.121895+00:00"
+      "last_seen": "2026-10-03T18:53:01.497821+00:00"
     },
     {
       "title": "K hranicím jsem s kočárkem došla pěšky. Cizinka jsem v Česku a už i na Ukrajině, říká ukrajinská ředitelka české školy",
@@ -742,7 +772,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T14:03:13.121895+00:00"
+      "last_seen": "2026-10-03T18:53:01.497821+00:00"
     }
   ]
 }
