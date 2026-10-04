@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:53:11.209421+00:00",
+  "generated_at": "2026-10-04T14:29:45.069185+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,9 +11,9 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 10,
-  "total_count": 3545,
-  "latest_day": "2026-10-03",
+  "count": 6,
+  "total_count": 3551,
+  "latest_day": "2026-10-04",
   "categories": [
     "(Ne)připravené Česko",
     "250 let USA",
@@ -361,6 +361,7 @@
     "Životní prostředí"
   ],
   "published_days": [
+    "2026-10-04",
     "2026-10-03",
     "2026-10-02",
     "2026-10-01",
@@ -618,161 +619,94 @@
   ],
   "articles": [
     {
-      "title": "Špatná, nebo špatná volba? Vyhrocené brazilské volby ještě přiostřil skandál",
-      "url": "https://denikn.cz/2204019/spatna-nebo-spatna-volba-vyhrocene-brazilske-volby-jeste-priostril-skandal/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2204019-1.mp3",
-      "published": "2026-10-03T18:15:51+00:00",
-      "published_day": "2026-10-03",
+      "title": "Společný zpěv i zapálené školy. Studentský hněv ovládl francouzské ulice",
+      "url": "https://denikn.cz/2204349/spolecny-zpev-i-zapalene-skoly-studentsky-hnev-ovladl-francouzske-ulice/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2204349-1.mp3",
+      "published": "2026-10-04T13:00:38+00:00",
+      "published_day": "2026-10-04",
       "categories": [
         "Svět",
-        "Latinská Amerika"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-03T18:53:01.497821+00:00",
-      "last_seen": "2026-10-03T18:53:01.497821+00:00"
-    },
-    {
-      "title": "Čínští žáci kralují testům PISA. O vzdělání čínských dětí to ale neříká mnoho",
-      "url": "https://denikn.cz/2202350/cinsti-zaci-kraluji-testum-pisa-o-vzdelani-cinskych-deti-to-ale-nerika-mnoho/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202350-2.mp3",
-      "published": "2026-10-03T14:57:23+00:00",
-      "published_day": "2026-10-03",
-      "categories": [
-        "Komentáře",
-        "Čína",
-        "Názor",
+        "Francie",
         "Školství"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-03T18:53:01.497821+00:00",
-      "last_seen": "2026-10-03T18:53:01.497821+00:00"
+      "first_seen": "2026-10-04T14:29:33.877117+00:00",
+      "last_seen": "2026-10-04T14:29:33.877117+00:00"
     },
     {
-      "title": "NATO by ho mohlo snadno odříznout a Putin to ví. Proč je Kaliningrad ruským slabým místem",
-      "url": "https://denikn.cz/2203837/nato-by-ho-mohlo-snadno-odriznout-a-putin-to-vi-proc-je-kaliningrad-ruskym-slabym-mistem/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2203837-1.mp3",
-      "published": "2026-10-03T13:40:03+00:00",
-      "published_day": "2026-10-03",
+      "title": "Spekulanti s byty vyhodili babičku na ulici. Španělsko povstalo, na obzoru je stávka i volby",
+      "url": "https://denikn.cz/2204281/spekulanti-s-byty-vyhodili-babicku-na-ulici-spanelsko-povstalo-na-obzoru-je-stavka-i-volby/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2204281-1.mp3",
+      "published": "2026-10-04T11:57:59+00:00",
+      "published_day": "2026-10-04",
       "categories": [
         "Svět",
-        "NATO",
-        "Ruská válka na Ukrajině",
-        "Rusko"
+        "Jižní Evropa",
+        "Krize bydlení a nemovitosti"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T18:53:01.497821+00:00"
+      "first_seen": "2026-10-04T14:29:33.877117+00:00",
+      "last_seen": "2026-10-04T14:29:33.877117+00:00"
     },
     {
-      "title": "„Uměl naslouchat druhým – člověk měl vedle něj pocit přirozenosti a respektu“",
-      "url": "https://denikn.cz/1981947/umel-naslouchat-druhym-clovek-mel-vedle-nej-pocit-prirozenosti-a-respektu/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-1981947-1-1.mp3",
-      "published": "2026-10-03T10:26:52+00:00",
-      "published_day": "2026-10-03",
+      "title": "Svoboda je výzva. Psycholožka radí, jak si po příchodu na vysokou školu poradit s učením, sdíleným bydlením i pocity smutku",
+      "url": "https://denikn.cz/2200919/svoboda-je-vyzva-psycholozka-radi-jak-si-po-prichodu-na-vysokou-skolu-poradit-s-ucenim-sdilenym-bydlenim-i-pocity-smutku/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2200919-1.mp3",
+      "published": "2026-10-04T09:15:48+00:00",
+      "published_day": "2026-10-04",
+      "categories": [
+        "Lifestyle",
+        "Duševní zdraví",
+        "Rozhovory",
+        "Školství"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-04T14:29:33.877117+00:00",
+      "last_seen": "2026-10-04T14:29:33.877117+00:00"
+    },
+    {
+      "title": "„Měl přirozenou autoritu. Nevytvářel pocit, že jako osobnost musí být vážený a ctěný“",
+      "url": "https://denikn.cz/1981956/mel-prirozenou-autoritu-nevytvarel-pocit-ze-jako-osobnost-musi-byt-vazeny-a-cteny/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-1981956-1.mp3",
+      "published": "2026-10-04T07:55:34+00:00",
+      "published_day": "2026-10-04",
       "categories": [
         "Česko",
         "Havel 90"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T18:53:01.497821+00:00"
+      "first_seen": "2026-10-04T14:29:33.877117+00:00",
+      "last_seen": "2026-10-04T14:29:33.877117+00:00"
     },
     {
-      "title": "V bolestech přežila dvě smrticí injekce. Nepovedená poprava, jež v USA znovu otevírá diskuzi o trestu smrti",
-      "url": "https://denikn.cz/2203688/v-bolestech-prezila-dve-smrtici-injekce-nepovedena-poprava-jez-v-usa-znovu-otevira-diskusi-o-trestu-smrti/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2203688-2.mp3",
-      "published": "2026-10-03T08:53:34+00:00",
-      "published_day": "2026-10-03",
+      "title": "Co můžeme vědět? Ian McEwan ukazuje, jak se svět pomalu zotavuje po katastrofě",
+      "url": "https://denikn.cz/2178222/co-muzeme-vedet-ian-mcewan-ukazuje-jak-se-svet-pomalu-zotavuje-po-katastrofe/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2178222-1.mp3",
+      "published": "2026-10-04T04:30:43+00:00",
+      "published_day": "2026-10-04",
       "categories": [
-        "Svět",
-        "USA"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T18:53:01.497821+00:00"
-    },
-    {
-      "title": "Psychiatrička: Lidé s OCD si roky myslí, že mají jen zlozvyk nebo takovou povahu",
-      "url": "https://denikn.cz/2202313/psychiatricka-lide-s-ocd-si-roky-mysli-ze-maji-jen-zlozvyk-nebo-takovou-povahu/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202313-1.mp3",
-      "published": "2026-10-03T08:00:00+00:00",
-      "published_day": "2026-10-03",
-      "categories": [
-        "Lifestyle",
-        "Duševní zdraví",
-        "Publicistika",
-        "Rozhovory"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T18:53:01.497821+00:00"
-    },
-    {
-      "title": "„Naši vesnici to úplně rozdělilo.“ Referenda o větrných elektrárnách hýbají Českem",
-      "url": "https://denikn.cz/2201037/nasi-vesnici-to-uplne-rozdelilo-referenda-o-vetrnych-elektrarnach-hybaji-ceskem/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2201037-1.mp3",
-      "published": "2026-10-03T07:05:32+00:00",
-      "published_day": "2026-10-03",
-      "categories": [
-        "Česko",
-        "Energetika",
-        "Komunální volby",
-        "Reportáž"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T18:53:01.497821+00:00"
-    },
-    {
-      "title": "Hrad vystaví zachovalou Havlovu pracovnu. U Opavy čekala schovaná 24 let",
-      "url": "https://denikn.cz/2178811/hrad-vystavi-zachovalou-havlovu-pracovnu-u-opavy-cekala-schovana-24-let/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2178811-1.mp3",
-      "published": "2026-10-03T04:30:04+00:00",
-      "published_day": "2026-10-03",
-      "categories": [
-        "Kultura",
-        "Design",
-        "Divadlo",
-        "Historie",
-        "Newsletter live!"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T18:53:01.497821+00:00"
-    },
-    {
-      "title": "Deset nových filmů v českých kinech: horory, které baví, a komedie, které děsí",
-      "url": "https://denikn.cz/2199691/deset-novych-filmu-v-ceskych-kinech-horory-ktere-bavi-a-komedie-ktere-desi/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2199691-1.mp3",
-      "published": "2026-10-03T04:30:00+00:00",
-      "published_day": "2026-10-03",
-      "categories": [
-        "Kultura",
-        "Film",
-        "Mladá kritika"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T18:53:01.497821+00:00"
-    },
-    {
-      "title": "K hranicím jsem s kočárkem došla pěšky. Cizinka jsem v Česku a už i na Ukrajině, říká ukrajinská ředitelka české školy",
-      "url": "https://denikn.cz/2186626/k-hranicim-jsem-s-kocarkem-dosla-pesky-cizinka-jsem-v-cesku-a-uz-i-na-ukrajine-rika-ukrajinska-reditelka-ceske-skoly/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2186626-1-1.mp3",
-      "published": "2026-10-03T04:00:56+00:00",
-      "published_day": "2026-10-03",
-      "categories": [
-        "Česko",
         "Hlavní",
-        "Lifestyle",
-        "Rozhovory",
-        "Ruská válka na Ukrajině",
-        "Školství",
-        "Ukrajina"
+        "Kultura",
+        "Literatura"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-03T14:03:13.121895+00:00",
-      "last_seen": "2026-10-03T18:53:01.497821+00:00"
+      "first_seen": "2026-10-04T14:29:33.877117+00:00",
+      "last_seen": "2026-10-04T14:29:33.877117+00:00"
+    },
+    {
+      "title": "„Ještě jsem nebyl in a už jsem retro.“ Co sdělují hymny stárnoucích mužů v českém popu",
+      "url": "https://denikn.cz/2202634/pop-jako-sedativum-a-tri-pohledy-na-lasku-o-cem-doopravdy-zpivaji-marek-ztraceny-xindl-x-a-pokac/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202634-3.mp3",
+      "published": "2026-10-04T04:30:00+00:00",
+      "published_day": "2026-10-04",
+      "categories": [
+        "Kultura",
+        "Hudba",
+        "Plevel"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-04T14:29:33.877117+00:00",
+      "last_seen": "2026-10-04T14:29:33.877117+00:00"
     }
   ]
 }
