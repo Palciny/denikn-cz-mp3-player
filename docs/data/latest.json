@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T14:29:45.069185+00:00",
+  "generated_at": "2026-10-04T18:53:06.114492+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 6,
-  "total_count": 3551,
+  "count": 7,
+  "total_count": 3552,
   "latest_day": "2026-10-04",
   "categories": [
     "(Ne)připravené Česko",
@@ -619,6 +619,21 @@
   ],
   "articles": [
     {
+      "title": "Útoky na mosty mají rozdělit Kyjev. Rusko přitvrdilo už před zimou, vyzývá cizince k útěku",
+      "url": "https://denikn.cz/2204517/utoky-na-mosty-maji-rozdelit-kyjev-rusko-pritvrdilo-uz-pred-zimou-vyzyva-cizince-k-uteku/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2204517-1.mp3",
+      "published": "2026-10-04T18:50:15+00:00",
+      "published_day": "2026-10-04",
+      "categories": [
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Ukrajina"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-04T18:52:58.205838+00:00",
+      "last_seen": "2026-10-04T18:52:58.205838+00:00"
+    },
+    {
       "title": "Společný zpěv i zapálené školy. Studentský hněv ovládl francouzské ulice",
       "url": "https://denikn.cz/2204349/spolecny-zpev-i-zapalene-skoly-studentsky-hnev-ovladl-francouzske-ulice/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2204349-1.mp3",
@@ -631,7 +646,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-04T14:29:33.877117+00:00",
-      "last_seen": "2026-10-04T14:29:33.877117+00:00"
+      "last_seen": "2026-10-04T18:52:58.205838+00:00"
     },
     {
       "title": "Spekulanti s byty vyhodili babičku na ulici. Španělsko povstalo, na obzoru je stávka i volby",
@@ -646,7 +661,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-04T14:29:33.877117+00:00",
-      "last_seen": "2026-10-04T14:29:33.877117+00:00"
+      "last_seen": "2026-10-04T18:52:58.205838+00:00"
     },
     {
       "title": "Svoboda je výzva. Psycholožka radí, jak si po příchodu na vysokou školu poradit s učením, sdíleným bydlením i pocity smutku",
@@ -662,7 +677,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-04T14:29:33.877117+00:00",
-      "last_seen": "2026-10-04T14:29:33.877117+00:00"
+      "last_seen": "2026-10-04T18:52:58.205838+00:00"
     },
     {
       "title": "„Měl přirozenou autoritu. Nevytvářel pocit, že jako osobnost musí být vážený a ctěný“",
@@ -676,7 +691,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-04T14:29:33.877117+00:00",
-      "last_seen": "2026-10-04T14:29:33.877117+00:00"
+      "last_seen": "2026-10-04T18:52:58.205838+00:00"
     },
     {
       "title": "Co můžeme vědět? Ian McEwan ukazuje, jak se svět pomalu zotavuje po katastrofě",
@@ -691,7 +706,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-04T14:29:33.877117+00:00",
-      "last_seen": "2026-10-04T14:29:33.877117+00:00"
+      "last_seen": "2026-10-04T18:52:58.205838+00:00"
     },
     {
       "title": "„Ještě jsem nebyl in a už jsem retro.“ Co sdělují hymny stárnoucích mužů v českém popu",
@@ -706,7 +721,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-04T14:29:33.877117+00:00",
-      "last_seen": "2026-10-04T14:29:33.877117+00:00"
+      "last_seen": "2026-10-04T18:52:58.205838+00:00"
     }
   ]
 }
