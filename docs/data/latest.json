@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:53:32.495223+00:00",
+  "generated_at": "2026-10-08T15:56:43.498824+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,9 +11,9 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 33,
-  "total_count": 3632,
-  "latest_day": "2026-10-07",
+  "count": 25,
+  "total_count": 3657,
+  "latest_day": "2026-10-08",
   "categories": [
     "(Ne)připravené Česko",
     "250 let USA",
@@ -264,6 +264,7 @@
     "Sexualita",
     "Sexuální násilí a obtěžování",
     "Si Ťin-pching",
+    "Signal Festival",
     "Sjezd KDU-ČSL",
     "Skandinávie",
     "Slovensko",
@@ -363,6 +364,7 @@
     "Životní prostředí"
   ],
   "published_days": [
+    "2026-10-08",
     "2026-10-07",
     "2026-10-06",
     "2026-10-05",
@@ -624,526 +626,417 @@
   ],
   "articles": [
     {
-      "title": "Za školními protesty ve Francii stojí hlubší krize, nejen levicové skupiny, říká profesor ze Sciences Po",
-      "url": "https://denikn.cz/2208732/za-skolnimi-protesty-ve-francii-stoji-hlubsi-krize-nejen-levicove-skupiny-rika-profesor-ze-sciences-po/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208732-1.mp3",
-      "published": "2026-10-07T19:01:58+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Svět",
-        "Francie",
-        "Rozhovory"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T20:53:23.538846+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Vývoj bojů (1686. den): Jedním slovem – přišla svoboda. Jak generál Drapatyj mění ukrajinskou armádu",
-      "url": "https://denikn.cz/2208434/vyvoj-boju-1686-den-jednim-slovem-prisla-svoboda-jak-general-drapatyj-meni-ukrajinskou-armadu/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208434-1.mp3",
-      "published": "2026-10-07T18:18:55+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Komentáře",
-        "Svět",
-        "Ruská válka na Ukrajině",
-        "Vývoj bojů"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T20:53:23.538846+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Poslanec Motoristů znovu kandiduje v obci na Chrudimsku, kde nechal prodat byty hluboko pod cenou",
-      "url": "https://denikn.cz/2208579/poslanec-motoristu-znovu-kandiduje-v-obci-na-chrudimsku-kde-nechal-prodat-byty-hluboko-pod-cenou/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208579-1.mp3",
-      "published": "2026-10-07T17:47:36+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Česko",
-        "Motoristé sobě",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T20:53:23.538846+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Pointa N: Prezidentský pár udělal z voleb frašku a ministr obrany nám věší bulíky na nos",
-      "url": "https://denikn.cz/2208190/pointa-n-prezidentsky-par-udelal-z-voleb-frasku-a-ministr-obrany-nam-vesi-buliky-na-nos/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208190-1.mp3",
-      "published": "2026-10-07T17:24:29+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Komentáře",
-        "Armáda ČR",
-        "Názor",
-        "Petr Pavel",
-        "Pointa N",
-        "Veřejnoprávní média"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T20:53:23.538846+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Dvojí metr ministra zahraničí i České televize",
-      "url": "https://denikn.cz/2208696/dvoji-metr-ministra-zahranici-i-ceske-televize/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208696-1.mp3",
-      "published": "2026-10-07T17:02:53+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Komentáře",
-        "Názor",
-        "Petr Macinka",
-        "Veřejnoprávní média",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T20:53:23.538846+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Juchelka chce prosadit zastropování důchodového věku už příští rok. Pro rozpočet to bude zásadní problém",
-      "url": "https://denikn.cz/2208767/juchelka-chce-prosadit-zastropovani-duchodoveho-veku-uz-pristi-rok-pro-rozpocet-to-bude-zasadni-problem/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208767-1-1.mp3",
-      "published": "2026-10-07T16:14:11+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Česko",
-        "Ekonomika",
-        "Důchody",
-        "Veřejné finance",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T20:53:23.538846+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "„Lukáši, proč lžeš?“ Obří grafika na budově radnice Prahy 4 útočí na opozičního politika, už se k ní přihlásil autor",
-      "url": "https://denikn.cz/2208491/lukasi-proc-lzes-grafika-na-budove-radnice-prahy-4-utoci-na-opozicniho-politika-mestska-cast-se-od-ni-distancuje/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208491-5.mp3",
-      "published": "2026-10-07T16:11:27+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Česko",
-        "Komunální volby",
-        "Praha"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T20:53:23.538846+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Nemocný premiér agitoval z postele na Českolipsku. Babiš chce sebrat klíčový senátní obvod",
-      "url": "https://denikn.cz/2208353/nemocny-premier-agitoval-z-postele-na-ceskolipsku-babis-chce-sebrat-klicovy-senatni-obvod/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208353-2.mp3",
-      "published": "2026-10-07T16:05:34+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Česko",
-        "Andrej Babiš",
-        "Hnutí ANO",
-        "Reportáž",
-        "Senátní volby"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T20:53:23.538846+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Běžel jsem maraton jako vodič a viděl, jak se běžci připravují o lepší čas. Pozor na úvod, sluchátka i GPS",
-      "url": "https://denikn.cz/2204838/bezel-jsem-maraton-jako-vodic-a-videl-jak-se-bezci-pripravuji-o-lepsi-cas-pozor-na-uvod-sluchatka-i-gps/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2204838-1.mp3",
-      "published": "2026-10-07T15:55:45+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Lifestyle",
-        "Sport",
-        "Běhání",
-        "Zdraví"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T20:53:23.538846+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Předvolební boj o nemocnici. Město ji svěřilo Agelu na 35 let, teď z ní mizí část péče",
-      "url": "https://denikn.cz/2206086/predvolebni-boj-o-nemocnici-mesto-ji-sverilo-agelu-na-35-let-ted-z-ni-mizi-cast-pece/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2206086-1-2.mp3",
-      "published": "2026-10-07T15:12:16+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Česko",
-        "Komunální volby",
-        "Zdravotnictví"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Radoval se z hádky se Zelenským, lepil zlaté ozdoby na krb. Deset historek z bestselleru o Trumpovi",
-      "url": "https://denikn.cz/2208247/radoval-se-z-hadky-se-zelenskym-lepil-zlate-ozdoby-na-krb-deset-historek-z-bestselleru-o-trumpovi/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208247-1.mp3",
-      "published": "2026-10-07T14:11:30+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Svět",
-        "Donald Trump",
-        "Literatura",
-        "USA"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Ozbrojení převaděči útočili na lotyšské hranici. Ukradli kamery a zmizeli v Bělorusku",
-      "url": "https://denikn.cz/2208025/ozbrojeni-prevadeci-utocili-na-lotysske-hranici-ukradli-kamery-a-zmizeli-v-belorusku/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208025-2.mp3",
-      "published": "2026-10-07T14:00:24+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Svět",
-        "Bělorusko",
-        "Evropská unie",
-        "Migrace a uprchlíci",
-        "Pobaltí"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Kamarádí se od školky, teď chtějí nakopnout ves u obří jámy. Parta mladých je volebním unikátem",
-      "url": "https://denikn.cz/2205182/kamaradi-se-od-skolky-ted-chteji-nakopnout-ves-u-obri-jamy-parta-mladych-je-volebnim-unikatem/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2205182-1.mp3",
-      "published": "2026-10-07T13:49:47+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Česko",
-        "Komunální volby",
-        "Publicistika",
-        "Reportáž",
-        "Ústecký kraj"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Schillerová hrozí bankám kvůli drahým hypotékám. Na novou daň by doplatili klienti, varují experti",
-      "url": "https://denikn.cz/2208249/schillerova-hrozi-bankam-kvuli-drahym-hypotekam-na-novou-dan-by-doplatili-klienti-varuji-experti/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208249-1.mp3",
-      "published": "2026-10-07T13:08:16+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Ekonomika",
-        "Krize bydlení a nemovitosti",
-        "Osobní finance",
-        "Veřejné finance",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Pavel nedomyslel následky, svou neúčast u voleb komunikačně nezvládl, říká politolog",
-      "url": "https://denikn.cz/2208012/pavel-neodhadl-jak-silne-jeho-neucast-u-voleb-na-verejnost-zapusobi-rika-politolog-nevylucoval-by-prezidentuv-navrat/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208012-1-2.mp3",
-      "published": "2026-10-07T12:00:55+00:00",
-      "published_day": "2026-10-07",
+      "title": "„Nevědí, co s tím dělat.“ Hrad řeší, zda prezident před volbami učiní nějaký krok",
+      "url": "https://denikn.cz/2210028/nevedi-co-s-tim-delat-hrad-resi-zda-prezident-pred-volbami-ucini-nejaky-krok/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2210028-1.mp3",
+      "published": "2026-10-08T15:33:05+00:00",
+      "published_day": "2026-10-08",
       "categories": [
         "Česko",
         "Komunální volby",
         "Petr Pavel"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
     },
     {
-      "title": "Rubio uklidňuje Islanďany, Trumpa zaujaly ponorky jeho významného podporovatele. Trumpův svět (625. den)",
-      "url": "https://denikn.cz/2207709/rubio-uklidnuje-islandany-trumpa-zaujaly-ponorky-jeho-vyznamneho-podporovatele-trumpuv-svet-625-den/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2207709-1.mp3",
-      "published": "2026-10-07T11:31:26+00:00",
-      "published_day": "2026-10-07",
+      "title": "„Jako by promlouvala přímo k vám.“ Proč letošní Nobelovu cenu za literaturu získala Anne Carson",
+      "url": "https://denikn.cz/2210127/jako-by-promlouvala-primo-k-vam-proc-letosni-nobelovu-cenu-za-literaturu-ziskala-anne-carson/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2210127-1.mp3",
+      "published": "2026-10-08T14:56:32+00:00",
+      "published_day": "2026-10-08",
       "categories": [
+        "Kultura",
+        "Literatura",
+        "Nobelova cena"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "„Náklady si rozdělili.“ Prezident odcestoval na dovolenou letadlem miliardáře Hubáčka",
+      "url": "https://denikn.cz/2210120/naklady-si-rozdelili-prezident-odcestoval-na-dovolenou-soukromym-letadlem-miliardare-hubacka/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2210120-2.mp3",
+      "published": "2026-10-08T14:11:01+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Petr Pavel"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "„Její smrt je odrazem doby.“ Čtyřmi evropskými zeměmi naráz zmítají protesty",
+      "url": "https://denikn.cz/2208377/jeji-smrt-je-odrazem-doby-ctyrmi-evropskymi-zememi-naraz-zmitaji-protesty/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208377-1.mp3",
+      "published": "2026-10-08T13:54:38+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Svět",
+        "Balkán",
+        "Francie",
+        "Jižní Evropa",
+        "Krize bydlení a nemovitosti",
+        "Školství",
+        "Tohle je Evropa"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "„Jeho poselství mladým by mohla být pokora, která povzbuzuje empatii, lásku a otevřenost“",
+      "url": "https://denikn.cz/1979486/jeho-poselstvi-mladym-by-mohla-byt-pokora-ktera-povzbuzuje-empatii-lasku-a-otevrenost/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-1979486-1.mp3",
+      "published": "2026-10-08T13:47:23+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Česko",
+        "Havel 90"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Proč Amerika nedokázala ochránit Jane Doe?",
+      "url": "https://denikn.cz/2209532/proc-amerika-nedokazala-ochranit-jane-doe/",
+      "mp3_url": "https://static.novydenik.com/2026/10/uspod-8-10-full.mp3",
+      "published": "2026-10-08T13:41:51+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Audio",
+        "Podcast Amerika, bejby",
+        "Podcasty N",
+        "Amerika bejby",
+        "USA"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "„Snaží se zachránit člověka, aby mohl být usmrcen? To je psycho.“ Expertka na trest smrti o případu Christy Pike",
+      "url": "https://denikn.cz/2209005/dvakrat-se-ji-pokusili-zabit-a-ted-by-ji-chteli-popravit-znovu-expertka-na-trest-smrti-o-pripadu-christy-pike/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2209005-1-1.mp3",
+      "published": "2026-10-08T13:39:34+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Svět",
+        "Krimi",
+        "Rozhovory",
+        "USA"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Obrazem: Nejostudnější chodník v Praze? Osmdesát centimetrů nedůstojnosti u Karlova mostu",
+      "url": "https://denikn.cz/2207603/obrazem-nejostudnejsi-chodnik-v-praze-osmdesat-centimetru-nedustojnosti-u-karlova-mostu/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2207603-1.mp3",
+      "published": "2026-10-08T12:53:24+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Česko",
+        "Automobily",
+        "Doprava",
+        "Komunální volby",
+        "Obrazem",
+        "Praha"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Nejméně 30 mrtvých. Z autobusů v Kramatorsku zbyly po zásahu ruskou bombou ohořelé dráty a těla na ulici",
+      "url": "https://denikn.cz/2209766/nejmene-30-mrtvych-z-linkovych-autobusu-zbyly-po-zasahu-ruskou-bombou-ohorele-draty-a-tela-na-ulici/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2209766-2.mp3",
+      "published": "2026-10-08T12:44:16+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Rusko",
+        "Ukrajina"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Pocem, kotě! Saturnin jako svěží muzikálová poloparodie",
+      "url": "https://denikn.cz/2209274/pocem-kote-saturnin-jako-svezi-muzikalova-poloparodie/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2209274-1.mp3",
+      "published": "2026-10-08T12:31:17+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Kultura",
+        "Divadlo",
+        "Literatura"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Země, kde se nebude dát žít? Putin rozpoutal válku měst, experti říkají, jak ho zastavit",
+      "url": "https://denikn.cz/2209309/zeme-kde-se-nebude-dat-zit-putin-rozpoutal-valku-mest-experti-rikaji-jak-ho-zastavit/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2209309-1.mp3",
+      "published": "2026-10-08T11:56:32+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Ukrajina"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Vrtěti psem: Prezident stále chybí, návrat do kampaně hlásí Turek s lízátkem",
+      "url": "https://denikn.cz/2209421/vrteti-psem-prezident-stale-chybi-navrat-do-kampane-hlasi-turek-s-lizatkem/",
+      "mp3_url": "https://static.novydenik.com/2026/10/vrteti-psemFULL2610081.mp3",
+      "published": "2026-10-08T11:43:13+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Audio",
+        "Česko",
+        "Podcast Vrtěti psem",
+        "Podcasty N",
+        "Andrej Babiš",
+        "Filip Turek",
+        "Komunální volby",
+        "Petr Pavel",
+        "Senátní volby",
+        "Vrtěti psem"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Deset textů, které byste před volebním víkendem neměli minout",
+      "url": "https://denikn.cz/2207873/deset-textu-ktere-byste-pred-volebnim-vikendem-nemeli-minout/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2207873-1.mp3",
+      "published": "2026-10-08T10:23:00+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Senátní volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Prezident je v předvolební kampani republikánů spíš přítěží, senátorka z Maine se od něj už distancovala. Trumpův svět (626. den)",
+      "url": "https://denikn.cz/2209269/prezident-je-v-predvolebni-kampani-republikanu-spis-pritezi-senatorka-z-maine-se-od-nej-uz-distancovala-trumpuv-svet-626-den/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2209269-1.mp3",
+      "published": "2026-10-08T10:22:49+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Komentáře",
         "Svět",
         "Donald Trump",
         "Newsletter Trumpův svět",
         "USA"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
     },
     {
-      "title": "Poprvé od Göringa. Extrémní AfD má předsedu parlamentu. V Sasku-Anhaltsku zasednou i bizarní politici",
-      "url": "https://denikn.cz/2207866/poprve-od-goringa-extremni-afd-ma-predsedu-parlamentu-v-sasku-anhaltsku-zasednou-i-bizarni-politici/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2207866-2.mp3",
-      "published": "2026-10-07T11:28:39+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Svět",
-        "Německo"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Pavlová brání manžela na dovolené a kritizuje stát kvůli volbám. „Nekonzultovala to s námi,“ zní z Hradu",
-      "url": "https://denikn.cz/2207915/pavlova-brani-manzela-na-dovolene-a-kritizuje-stat-kvuli-volbam-nekonzultovala-to-s-nami-zni-z-hradu/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2207915-2.mp3",
-      "published": "2026-10-07T10:23:52+00:00",
-      "published_day": "2026-10-07",
+      "title": "Kampaň letos mobilizovala, ale nevysvětlovala. Voliči si dle ní mají vybrat stranu, ne program",
+      "url": "https://denikn.cz/2209324/kampan-letos-mobilizovala-ale-nevysvetlovala-volici-si-dle-ni-maji-vybrat-stranu-ne-program/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2209324-2.mp3",
+      "published": "2026-10-08T09:50:56+00:00",
+      "published_day": "2026-10-08",
       "categories": [
         "Česko",
+        "Komentáře",
         "Komunální volby",
-        "Petr Pavel"
+        "Názor",
+        "Senátní volby"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
     },
     {
-      "title": "Kde přesně jsou v mozku myšlenky a pocity? Cestu k odpovědi otevřela optogenetika",
-      "url": "https://denikn.cz/2207613/kde-presne-jsou-v-mozku-myslenky-a-pocity-cestu-k-odpovedi-otevrela-optogenetika/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2207613-3.mp3",
-      "published": "2026-10-07T10:01:18+00:00",
-      "published_day": "2026-10-07",
+      "title": "Henry Ford: génius pásové výroby, bůh konzumu i temný inspirátor Adolfa Hitlera",
+      "url": "https://denikn.cz/2206875/henry-ford-genius-pasove-vyroby-buh-konzumu-i-temny-inspirator-adolfa-hitlera/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2206875-2.mp3",
+      "published": "2026-10-08T06:55:10+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Historie",
+        "Vzkazy z minulosti"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Temu a Shein vytvořily lidem nakupovací návyk. Z toho teď těží i české obchody, říká šéf GLS",
+      "url": "https://denikn.cz/2207954/temu-a-shein-vytvorily-lidem-nakupovaci-navyk-z-toho-ted-tezi-i-ceske-obchody-rika-sef-gls/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2207954-1.mp3",
+      "published": "2026-10-08T06:42:41+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Ekonomika",
+        "Byznys",
+        "Rozhovory",
+        "Trh práce"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Získá letos Nobelovu cenu za literaturu žena? Přinášíme tipy sázkařů i tří českých spisovatelů",
+      "url": "https://denikn.cz/2207846/ziska-letos-nobelovu-cenu-za-literaturu-zena-prinasime-tipy-sazkaru-i-tri-ceskych-spisovatelu/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2207846-1.mp3",
+      "published": "2026-10-08T04:30:00+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Kultura",
+        "Literatura",
+        "Nobelova cena"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Umění se musí umět prodat. Když ale dáte prodej na první místo, půjde všechno do háje, říká Jan Kaláb",
+      "url": "https://denikn.cz/2197790/umeni-se-musi-umet-prodat-kdyz-ale-date-prodej-na-prvni-misto-pujde-vsechno-do-haje-rika-jan-kalab/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2197790-1.mp3",
+      "published": "2026-10-08T04:30:00+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Česko",
+        "Kultura",
+        "Publicistika",
+        "Rozhovory",
+        "Signal Festival",
+        "Výtvarné umění"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Detektivka z pražského Anděla vede slepými uličkami komunální protidrogové politiky",
+      "url": "https://denikn.cz/2202928/detektivka-z-prazskeho-andela-vede-slepymi-ulickami-komunalni-protidrogove-politiky/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202928-2.mp3",
+      "published": "2026-10-08T04:30:00+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Česko",
+        "Kultura",
+        "Hazard a návykové látky",
+        "Komunální volby",
+        "Literatura",
+        "Praha",
+        "Publicistika"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Asymetrické chemické reakce povedou k bezpečnějším lékům",
+      "url": "https://denikn.cz/2208270/asymetricke-chemicke-reakce-povedou-k-bezpecnejsim-lekum/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2208270-1.mp3",
+      "published": "2026-10-08T04:06:53+00:00",
+      "published_day": "2026-10-08",
       "categories": [
         "Věda",
         "Nobelova cena"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
     },
     {
-      "title": "Nepohodlná oběť: Ukrajina bojuje proti ruským střelám i požadavkům spojenců",
-      "url": "https://denikn.cz/2205650/nepohodlna-obet-ukrajina-bojuje-proti-ruskymi-strelam-i-pozadavkum-spojencu/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2205650-2.mp3",
-      "published": "2026-10-07T09:50:05+00:00",
-      "published_day": "2026-10-07",
+      "title": "Trhy jsou vysoko a bojím se, že přijdu o zisky. Mám prodat část akcií? Odpovídá pět odborníků",
+      "url": "https://denikn.cz/2206916/trhy-jsou-vysoko-a-bojim-se-ze-prijdu-o-zisky-mam-prodat-cast-akcii-odpovida-pet-odborniku/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2206916-1.mp3",
+      "published": "2026-10-08T04:05:42+00:00",
+      "published_day": "2026-10-08",
       "categories": [
-        "Komentáře",
-        "Názor",
-        "Ruská válka na Ukrajině",
-        "Ukrajina"
+        "Ekonomika",
+        "Osobní finance",
+        "Trhy"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
     },
     {
-      "title": "Jak ven z krize péče o duši dětí a mladých? „Není jedno zázračné řešení,“ říká Vojtěch",
-      "url": "https://denikn.cz/2202509/jak-ven-z-krize-pece-o-dusi-deti-a-mladych-neni-jedno-zazracne-reseni-rika-vojtech/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2202509-1.mp3",
-      "published": "2026-10-07T09:37:01+00:00",
-      "published_day": "2026-10-07",
+      "title": "Od trestních stíhání po zdvižené prostředníčky. Přinášíme kauzy koaličních politiků v kostce",
+      "url": "https://denikn.cz/2140068/od-trestnich-stihani-po-zdvizene-prostrednicky-prinasime-kauzy-koalicnich-politiku-v-kostce/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2140068-1.mp3",
+      "published": "2026-10-08T04:00:00+00:00",
+      "published_day": "2026-10-08",
       "categories": [
         "Česko",
-        "Duševní zdraví",
-        "Školství",
-        "Zdravotnictví"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Načeva: Experimentální hudbu ze sebe musíte vyzvracet. Nohavicu už neposlouchám, zklamal mě",
-      "url": "https://denikn.cz/2207417/naceva-experimentalni-hudbu-ze-sebe-musite-vyzvracet-nohavicu-uz-neposloucham-zklamal-me/",
-      "mp3_url": "https://static.novydenik.com/2026/10/Naceva-final.mp3",
-      "published": "2026-10-07T09:01:40+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Audio",
-        "Česko",
-        "Kultura",
-        "Podcast Studio N",
-        "Podcasty N",
-        "Hudba",
-        "Studio N"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "„V Bílém domě i na rockovém koncertě působil uvěřitelně“",
-      "url": "https://denikn.cz/1981966/v-bilem-dome-i-na-rockovem-koncerte-pusobil-uveritelne/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-1981966-1.mp3",
-      "published": "2026-10-07T08:26:42+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Historie",
-        "Havel 90"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "„Představy, že někomu ublížím, mě naprosto paralyzují.“ Život s OCD tak, jak jej z popkultury neznáte",
-      "url": "https://denikn.cz/2196003/predstavy-ze-nekomu-ublizim-me-naprosto-paralyzuji-zivot-s-ocd-tak-jak-jej-z-popkultury-neznate/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2196003-1.mp3",
-      "published": "2026-10-07T07:45:00+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Lifestyle",
-        "Duševní zdraví",
-        "Publicistika",
-        "Zdraví"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Senátní volby 2026: Sledujte, kdo zvítězí už v prvním kole a kdo postoupí do druhého",
-      "url": "https://denikn.cz/2191926/senatni-volby-2026-sledujte-kdo-zvitezi-uz-v-prvnim-kole-a-kdo-postoupi-do-druheho/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2191926-1.mp3",
-      "published": "2026-10-07T07:43:24+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Česko",
-        "Senátní volby"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Komunální volby 2026: Sledujte sčítání hlasů ve vaší obci",
-      "url": "https://denikn.cz/2193390/komunalni-volby-2026-sledujte-scitani-hlasu-ve-vasi-obci/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2193390-1.mp3",
-      "published": "2026-10-07T07:42:13+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Česko",
-        "Komunální volby"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Česká debata o Izraeli a Palestině o nás nevypovídá nic dobrého",
-      "url": "https://denikn.cz/2206314/ceska-debata-o-izraeli-a-palestine-o-nas-nevypovida-nic-dobreho/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2206314-1.mp3",
-      "published": "2026-10-07T07:11:23+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Komentáře",
-        "Blízký východ",
-        "Izrael",
-        "Názor",
-        "Palestinská území"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "„A vy jako jíte psy?“ Seznamte se u divadelního vývaru s bolestmi Češek s vietnamskými kořeny",
-      "url": "https://denikn.cz/2198136/a-vy-jako-jite-psy-seznamte-se-u-divadelniho-vyvaru-s-bolestmi-cesek-s-vietnamskymi-koreny/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2198136-2.mp3",
-      "published": "2026-10-07T07:10:00+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Kultura",
-        "Divadlo",
-        "Menšiny",
-        "Rodina a vztahy"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Když ideologie ustoupí chodníkům. Proč se v obcích spojuje SPD s komunisty a ODS s Kubou",
-      "url": "https://denikn.cz/2203259/kdyz-ideologie-ustoupi-chodnikum-proc-se-v-obcich-spojuje-spd-s-komunisty-a-ods-s-kubou/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2203259-1.mp3",
-      "published": "2026-10-07T06:53:23+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Česko",
+        "Hlavní",
+        "Filip Turek",
         "Hnutí ANO",
-        "Komunální volby",
-        "ODS",
-        "Piráti",
+        "Kauza Čapí hnízdo",
+        "Krize bydlení a nemovitosti",
+        "Motoristé sobě",
+        "Petr Macinka",
+        "Praha",
         "SPD",
-        "STAN"
+        "Střet zájmů Andreje Babiše",
+        "Vláda Andreje Babiše"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
     },
     {
-      "title": "Bývalý ředitel německé rozvědky je podezřelý ze špionáže. Únik může být historický",
-      "url": "https://denikn.cz/2207523/byvaly-reditel-nemecke-rozvedky-je-podezrely-ze-spionaze-unik-muze-byt-historicky/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2207523-2.mp3",
-      "published": "2026-10-07T06:52:36+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Svět",
-        "Německo"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Oslava s vůdci klanů, otazníky kolem Stalina i vyvlastňování tisíců bytů. Profil berlínské ultralevicové Linke",
-      "url": "https://denikn.cz/2204544/oslava-s-vudci-klanu-otazniky-kolem-stalina-i-vyvlastnovani-tisicu-bytu-profil-berlinske-ultralevicove-linke/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2204544-1.mp3",
-      "published": "2026-10-07T06:29:09+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Svět",
-        "Německo"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Jsme stejní jako Rusové?! Film Minotaur boří mýtus o ruské výjimečnosti",
-      "url": "https://denikn.cz/2201020/jsme-stejni-jako-rusove-film-minotaur-bori-mytus-o-ruske-vyjimecnosti/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2201020-1.mp3",
-      "published": "2026-10-07T04:30:00+00:00",
-      "published_day": "2026-10-07",
-      "categories": [
-        "Kultura",
-        "Svět",
-        "Film",
-        "Rusko"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
-    },
-    {
-      "title": "Portlíkův životní obchod: Peníze skončily u jeho společníka, který stál před soudem za obří tunelářskou kauzu",
-      "url": "https://denikn.cz/2206090/portlikuv-zivotni-obchod-penize-skoncily-u-jeho-spolecnika-ktery-stal-pred-soudem-za-obri-tunelarskou-kauzu/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2206090-2.mp3",
-      "published": "2026-10-07T04:27:18+00:00",
-      "published_day": "2026-10-07",
+      "title": "Nová výstavba, zastropování nájmů či Housing First. Jak chtějí politici zlepšit dostupnost bydlení v Brně?",
+      "url": "https://denikn.cz/2206217/nova-vystavba-zastropovani-najmu-ci-housing-first-jak-chteji-politici-zlepsit-dostupnost-bydleni-v-brne/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2206217-2.mp3",
+      "published": "2026-10-08T04:00:00+00:00",
+      "published_day": "2026-10-08",
       "categories": [
         "Česko",
-        "Investigativa",
-        "Praha"
+        "Brno",
+        "Jihomoravský kraj",
+        "Komunální volby",
+        "Krize bydlení a nemovitosti"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-07T15:53:35.097647+00:00",
-      "last_seen": "2026-10-07T20:53:23.538846+00:00"
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
+    },
+    {
+      "title": "Vlivná úřednice z ministerstva kandiduje v Třebíči. Bydliště má u rodiny bývalého starosty",
+      "url": "https://denikn.cz/2207638/vlivna-urednice-z-ministerstva-kandiduje-v-trebici-bydliste-ma-u-rodiny-byvaleho-starosty/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2207638-3.mp3",
+      "published": "2026-10-08T03:55:00+00:00",
+      "published_day": "2026-10-08",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Životní prostředí"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-08T15:56:32.676310+00:00",
+      "last_seen": "2026-10-08T15:56:32.676310+00:00"
     }
   ]
 }
