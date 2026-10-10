@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T14:54:14.607892+00:00",
+  "generated_at": "2026-10-10T19:37:53.043859+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 13,
-  "total_count": 3709,
+  "count": 25,
+  "total_count": 3721,
   "latest_day": "2026-10-10",
   "categories": [
     "(Ne)připravené Česko",
@@ -629,6 +629,189 @@
   ],
   "articles": [
     {
+      "title": "Karty v Praze bude nejspíš rozdávat Hlaváček. Tři cesty, jak mohou Starostové získat primátora",
+      "url": "https://denikn.cz/2213749/karty-v-praze-bude-nejspis-rozdavat-hlavacek-tri-cesty-jak-mohou-starostove-ziskat-primatora/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2213749-1.mp3",
+      "published": "2026-10-10T18:38:56+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Praha"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "Hraje se o rekord: až šest zvolených senátorů v prvním kole. Čeká se na Padevěta",
+      "url": "https://denikn.cz/2213362/hraje-se-o-rekord-az-sest-zvolenych-senatoru-v-prvnim-kole-ceka-se-na-padeveta/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2213362-1.mp3",
+      "published": "2026-10-10T18:36:58+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Senátní volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "ODS musí změnit program i styl, Starostům se vyplatila neagresivní kampaň, říká politolog",
+      "url": "https://denikn.cz/2213650/ods-musi-zmenit-program-i-styl-starostum-se-vyplatila-neagresivni-kampan-rika-politolog/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2213650-1.mp3",
+      "published": "2026-10-10T18:35:57+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "ODS",
+        "Rozhovory",
+        "Senátní volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "Po osmi letech změna? ODS v Brně propadá, primátora mohou mít lidovci",
+      "url": "https://denikn.cz/2213635/po-osmi-letech-zmena-ods-v-brne-propada-primatora-mohou-mit-lidovci/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2213635-2.mp3",
+      "published": "2026-10-10T18:18:53+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Brno",
+        "Komunální volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "Kampaň ANO nám ukázala, že mají strach, říká čerstvě zvolený senátor Grolich",
+      "url": "https://denikn.cz/2213343/kampan-ano-nam-ukazala-ze-meli-strach-rika-cerstve-zvoleny-senator-grolich/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2213343-1-1.mp3",
+      "published": "2026-10-10T17:25:07+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Rozhovory",
+        "Senátní volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "Kde byla ODS silná, tam teď ztrácí. Naděje upírá k Praze",
+      "url": "https://denikn.cz/2213359/kde-byla-ods-silna-tam-ted-ztraci-nadeje-upira-k-praze/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2213359-2.mp3",
+      "published": "2026-10-10T17:23:49+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Analýza",
+        "Komunální volby",
+        "ODS",
+        "Praha"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "Rakušanův triumf i Kupkova povolební kocovina. Pět hlavních zpráv z volebního klání",
+      "url": "https://denikn.cz/2213388/rakusanuv-triumf-i-kupkova-povolebni-kocovina-pet-hlavnich-zprav-z-komunalniho-klani/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2213388-1-2.mp3",
+      "published": "2026-10-10T17:19:19+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Analýza",
+        "Komunální volby",
+        "Senátní volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "STAN vede v Praze i Brně. „Jsme nejsilnější opoziční hnutí,“ říká Rakušan",
+      "url": "https://denikn.cz/2213412/stan-vede-v-praze-i-brne-jsme-nejsilnejsi-opozicni-hnuti-rika-rakusan/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2213412-2.mp3",
+      "published": "2026-10-10T17:17:31+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "STAN"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "Ve Špindlerově Mlýně vyškrtli z voličského seznamu jedenáct lidí. Přistěhovali se před volbami",
+      "url": "https://denikn.cz/2213240/ve-spindlerove-mlyne-vyskrtli-jedenact-lidi-z-volicskeho-seznamu-pristehovali-se-pred-volbami/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2213240-1-1.mp3",
+      "published": "2026-10-10T16:50:19+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Komunální volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "Motoristé mají svého prvního zastupitele. Uspěl v Pavlově Černoučku",
+      "url": "https://denikn.cz/2213128/motoriste-maji-sveho-prvniho-zastupitele-uspel-v-obci-prezidenta-pavla/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2213128-2.mp3",
+      "published": "2026-10-10T15:27:50+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Motoristé sobě",
+        "Petr Pavel"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "Kdo povládne Brnu? Sčítání hlasů na interaktivní mapě",
+      "url": "https://denikn.cz/2212643/kdo-povladne-brnu-scitani-hlasu-na-interaktivni-mape/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2212643-1.mp3",
+      "published": "2026-10-10T15:00:45+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Komunální volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
+      "title": "Jak volili vaši sousedé v Praze? Podívejte se na podrobnou mapu výsledků",
+      "url": "https://denikn.cz/2212613/jak-volili-vasi-sousede-v-praze-podivejte-se-na-podrobnou-mapu-vysledku/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2212613-1.mp3",
+      "published": "2026-10-10T14:56:50+00:00",
+      "published_day": "2026-10-10",
+      "categories": [
+        "Česko",
+        "Komunální volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-10T19:37:42.334987+00:00",
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
+    },
+    {
       "title": "Jak se volilo ve vaší obci? Podívejte se na podrobnou mapu",
       "url": "https://denikn.cz/2212842/jak-se-volilo-ve-vasi-obci-podivejte-se-na-podrobnou-mapu/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2212842-1.mp3",
@@ -640,7 +823,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "Volby v Ostravě přehledně. Jak se hlasovalo v jednotlivých okrscích?",
@@ -654,7 +837,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "„Deník N? Tak to asi neklapne.“ Motoristé nevpustili některé redakce do volebního štábu",
@@ -674,7 +857,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "Spoustu životů by zachránilo, kdybychom se nebrali tak vážně, říká komik Dylan Moran, který vystoupí v Praze",
@@ -691,7 +874,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "„Havlův odkaz je výzva k neustálému přemýšlení o tom, jak v životě morálně neselhat“",
@@ -705,7 +888,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "Trump se chová jako nepřítel. Slíbil to a dělá to. Čemu na tom pořád nerozumíte?",
@@ -721,7 +904,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "Trump a Putin se dohodli: válka pokračuje, sankce nikoliv. Američané drží Ukrajince v šachu",
@@ -738,7 +921,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "Je rozhodnuto, začíná složité a dlouhé sčítání hlasů. Kdy bude jasno o vítězích v Praze, Brně a Ostravě?",
@@ -753,7 +936,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "Designblok letos láká na výjimečné události. Je díky nim něčím víc než komerční prezentací?",
@@ -770,7 +953,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "Nestihli jste si koupit notebook před velkým zdražováním? Odborníci radí, jak pořídit stroj z druhé ruky",
@@ -784,7 +967,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "Čína závod s USA nevyhraje",
@@ -801,7 +984,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "„Jak jedna skupina lidí dopustí totální dehumanizaci skupiny jiné?“ Výbušný dokument míří do českých kin",
@@ -819,7 +1002,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     },
     {
       "title": "Lenny: Mám duši rockerky, umím říct ne i zařvat. Radili mi, ať si hraju na nedostupnou celebritu",
@@ -837,7 +1020,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-10T14:54:05.888971+00:00",
-      "last_seen": "2026-10-10T14:54:05.888971+00:00"
+      "last_seen": "2026-10-10T19:37:42.334987+00:00"
     }
   ]
 }
