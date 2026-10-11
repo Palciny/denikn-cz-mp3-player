@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:11:11.887243+00:00",
+  "generated_at": "2026-10-11T19:47:40.291004+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 16,
-  "total_count": 3752,
+  "count": 21,
+  "total_count": 3757,
   "latest_day": "2026-10-11",
   "categories": [
     "(Ne)připravené Česko",
@@ -631,6 +631,82 @@
   ],
   "articles": [
     {
+      "title": "ANO v Ostravě vyhrálo, primátora ale mít nemusí, říká politolog",
+      "url": "https://denikn.cz/2215248/ano-v-ostrave-vyhralo-primatora-ale-mit-nemusi-rika-politolog/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2215248-1.mp3",
+      "published": "2026-10-11T17:39:37+00:00",
+      "published_day": "2026-10-11",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Ostrava"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-11T19:47:32.362188+00:00",
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
+    },
+    {
+      "title": "V Praze bych chtěl koalici tří stran. Negativní vnímání Pirátů je strašně silné, říká Hlaváček",
+      "url": "https://denikn.cz/2215694/v-praze-bych-chtel-koalici-tri-stran-negativni-sentiment-k-vlade-s-piraty-je-obrovsky-rika-hlavacek/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2215694-1-2.mp3",
+      "published": "2026-10-11T17:21:56+00:00",
+      "published_day": "2026-10-11",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Praha",
+        "Rozhovory",
+        "STAN"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-11T19:47:32.362188+00:00",
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
+    },
+    {
+      "title": "„Zavřel se s týmem a začal řešit data.“ Jak Babiš vnímal výsledek ANO",
+      "url": "https://denikn.cz/2215142/zavrel-se-s-tymem-a-zacal-resit-data-jak-babis-vnimal-vysledek-ano/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2215142-1.mp3",
+      "published": "2026-10-11T16:33:31+00:00",
+      "published_day": "2026-10-11",
+      "categories": [
+        "Česko",
+        "Andrej Babiš",
+        "Komunální volby",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-11T19:47:32.362188+00:00",
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
+    },
+    {
+      "title": "Senátní dramata: kde rozhodl jediný hlas, exministrův trojskok a velká stíhací jízda",
+      "url": "https://denikn.cz/2215421/senatni-dramata-kde-rozhodl-jediny-hlas-exministruv-trojskok-a-velka-stihaci-jizda/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2215421-2.mp3",
+      "published": "2026-10-11T15:56:05+00:00",
+      "published_day": "2026-10-11",
+      "categories": [
+        "Česko",
+        "Senátní volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-11T19:47:32.362188+00:00",
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
+    },
+    {
+      "title": "Nejen Babiš. Kdo další ve volbách ztratil své pozice?",
+      "url": "https://denikn.cz/2215083/nejen-babis-kdo-dalsi-ve-volbach-ztratil-sve-pozice/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2215083-1.mp3",
+      "published": "2026-10-11T15:17:47+00:00",
+      "published_day": "2026-10-11",
+      "categories": [
+        "Česko",
+        "Komunální volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-11T19:47:32.362188+00:00",
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
+    },
+    {
       "title": "Grolich vyhrál zaslouženě. Úspěch Absolonové byl velmi nepravděpodobný, říká Havlíček",
       "url": "https://denikn.cz/2214830/grolich-vyhral-zaslouzene-uspech-absolonove-byl-velmi-nepravdepodobny-rika-havlicek/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2214830-1.mp3",
@@ -645,7 +721,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Babiš ani neví, co slovy o „progresivistech“ myslí. ANO nám antikampaní pomohlo, říká Rakušan",
@@ -661,7 +737,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "ODS ztrácí města. Kde všude pohořela a proč?",
@@ -676,7 +752,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Vítězové a poražení ve čtyřech grafech. Jak uspěly velké strany v krajských městech?",
@@ -690,7 +766,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Vrtěti psem: Triumf Starostů a Grolicha i zuřivý Babiš. Co přinesly volby",
@@ -712,7 +788,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Pět opravdu dobrých zpráv z těchto voleb",
@@ -728,7 +804,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Polská policie dopadla muže, který prý plánoval atentát na Tuska. Co o „smrtelně vážné” hrozbě víme?",
@@ -742,7 +818,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Takový propad ANO jsem nečekal. Vláda pro chudší regiony nic nedělá, říká sociolog Prokop",
@@ -761,7 +837,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "„Šílené. Mnohem závažnější než dříve.“ Babiš a Macinka podpořili Tuska, kterému prý hrozil atentát",
@@ -778,7 +854,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "„Vsadil dílo, důstojnost i svobodu na nepřetržitý boj proti životu ve lži“",
@@ -792,7 +868,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Tah se Zlatuškovou ODS nespasil, ANO na historickém minimu. Vítězové a poražení voleb v Brně",
@@ -809,7 +885,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Kdo uspěl, kdo překvapil a o čem se nemluvilo? Tomášek, Procházková, Tvrdoň a další hodnotí volby",
@@ -825,7 +901,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Dnes už AI musí ve vedení firem rozumět všichni, říká bývalá regionální šéfka Googlu",
@@ -841,7 +917,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Jak moc bychom měli řešit svůj dech? „Téma je někdy prezentováno přehnaně,“ míní pneumolog",
@@ -857,7 +933,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Zabij, nebo budeš zabit. Nový komiks o globální katastrofě je i po sedmdesáti letech nepříjemně aktuální",
@@ -872,7 +948,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     },
     {
       "title": "Její sestru zavraždil manipulátor. Držitelka Pulitzera píše o mužích, kteří ženám nedopřejí svobodu",
@@ -889,7 +965,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-11T15:10:56.742597+00:00",
-      "last_seen": "2026-10-11T15:10:56.742597+00:00"
+      "last_seen": "2026-10-11T19:47:32.362188+00:00"
     }
   ]
 }
