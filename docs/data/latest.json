@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:46:49.115565+00:00",
+  "generated_at": "2026-10-15T19:33:19.643583+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 14,
-  "total_count": 3854,
+  "count": 22,
+  "total_count": 3862,
   "latest_day": "2026-10-15",
   "categories": [
     "(Ne)připravené Česko",
@@ -639,6 +639,144 @@
   ],
   "articles": [
     {
+      "title": "Vývoj bojů (1694. den): Zelenskyj už toho má dost. Ukrajinci znovu útočí na rafinerie a nepotřebují k tomu Starlink",
+      "url": "https://denikn.cz/2220951/vyvoj-boju-1694-den-zelenskyj-uz-toho-ma-dost-ukrajinci-znovu-utoci-na-rafinerie-a-nepotrebuji-k-tomu-starlink/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2220951-1.mp3",
+      "published": "2026-10-15T17:53:32+00:00",
+      "published_day": "2026-10-15",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Donald Trump",
+        "Ruská válka na Ukrajině",
+        "USA",
+        "Vývoj bojů"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-15T19:33:08.821074+00:00",
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
+    },
+    {
+      "title": "Odvolejte šéfa kybernetických sil, nařídil Zůna. Podle šéfa armády má generál důvěru a zůstává",
+      "url": "https://denikn.cz/2221268/odvolejte-sefa-kybernetickych-sil-naridil-zuna-podle-sefa-armady-ma-general-duveru-a-zustava/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2221268-2.mp3",
+      "published": "2026-10-15T17:09:47+00:00",
+      "published_day": "2026-10-15",
+      "categories": [
+        "Česko",
+        "Armáda ČR"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-15T19:33:08.821074+00:00",
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
+    },
+    {
+      "title": "Turkovo velké vítězství? Třináct odpovědí k tomu, proč obce napříč Českem odmítly větrníky",
+      "url": "https://denikn.cz/2220939/turkovo-velke-vitezstvi-trinact-odpovedi-k-tomu-proc-obce-napric-ceskem-odmitly-vetrniky/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2220939-2.mp3",
+      "published": "2026-10-15T17:01:58+00:00",
+      "published_day": "2026-10-15",
+      "categories": [
+        "Česko",
+        "Analýza",
+        "Energetika",
+        "Filip Turek",
+        "Komunální volby",
+        "Příroda",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-15T19:33:08.821074+00:00",
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
+    },
+    {
+      "title": "Proces s „ničitelem Nord Streamu“ začal: byl to válečný zločin, nebo legitimní protiútok?",
+      "url": "https://denikn.cz/2219376/proces-s-nicitelem-nord-streamu-zacal-byl-to-valecny-zlocin-nebo-legitimni-protiutok/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2219376-1.mp3",
+      "published": "2026-10-15T16:16:28+00:00",
+      "published_day": "2026-10-15",
+      "categories": [
+        "Svět",
+        "Energetika",
+        "Německo",
+        "Ruská válka na Ukrajině",
+        "Rusko",
+        "Tohle je Evropa"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-15T19:33:08.821074+00:00",
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
+    },
+    {
+      "title": "Trumpovi už dochází šťáva, Amerika si teď vyzkouší (demokratický) socialismus",
+      "url": "https://denikn.cz/2219236/trumpovi-uz-dochazi-stava-amerika-si-ted-vyzkousi-demokraticky-socialismus/",
+      "mp3_url": "https://static.novydenik.com/2026/10/uspod-15-10-full.mp3",
+      "published": "2026-10-15T15:40:37+00:00",
+      "published_day": "2026-10-15",
+      "categories": [
+        "Audio",
+        "Podcast Amerika, bejby",
+        "Podcasty N",
+        "Amerika bejby",
+        "Donald Trump",
+        "USA"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-15T19:33:08.821074+00:00",
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
+    },
+    {
+      "title": "Pointa N: Jak ČT osloví náctileté a proč k tomu nebude stačit StarDance",
+      "url": "https://denikn.cz/2220592/pointa-n-jak-ct-oslovi-nactilete-a-proc-k-tomu-nebude-stacit-stardance/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2220592-1.mp3",
+      "published": "2026-10-15T15:23:28+00:00",
+      "published_day": "2026-10-15",
+      "categories": [
+        "Komentáře",
+        "Média",
+        "Názor",
+        "Pointa N",
+        "Televize",
+        "Veřejné finance",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-15T19:33:08.821074+00:00",
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
+    },
+    {
+      "title": "Chaos, zmatek, strach. Několik scénářů, jak může Trump rozmetat výsledky listopadových voleb",
+      "url": "https://denikn.cz/2220822/chaos-zmatek-strach-nekolik-scenaru-jak-muze-trump-rozmetat-vysledky-listopadovych-voleb/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2220822-1.mp3",
+      "published": "2026-10-15T14:41:09+00:00",
+      "published_day": "2026-10-15",
+      "categories": [
+        "Svět",
+        "Americké volby",
+        "Donald Trump",
+        "USA"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-15T19:33:08.821074+00:00",
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
+    },
+    {
+      "title": "Obava z „trojkolky“ i ODS na financích. Svižná vyjednávání v Praze komplikují dva sporné body",
+      "url": "https://denikn.cz/2220946/obava-z-trojkolky-i-ods-na-financich-svizna-vyjednavani-v-praze-komplikuji-dva-sporne-body/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2220946-2.mp3",
+      "published": "2026-10-15T14:04:00+00:00",
+      "published_day": "2026-10-15",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Praha"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-15T19:33:08.821074+00:00",
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
+    },
+    {
       "title": "Uvidíte, co jste ještě neviděli! Volby ukázaly, jak ještě pořád přemýšlíme o lidech s mentálním hendikepem",
       "url": "https://denikn.cz/2220006/uvidite-co-jste-jeste-nevideli-volby-ukazaly-jak-jeste-porad-premyslime-o-lidech-s-mentalnim-hendikepem/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2220006-1.mp3",
@@ -651,7 +789,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Američany trápí inflace. Kolik stojí běžnou domácnost válka s Íránem? Trumpův svět (633. den)",
@@ -667,7 +805,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Ohrožuje neúspěch SPD Okamurovu pozici? „Budeme se s členy bavit úplně o všem,“ říká místopředseda Fiala",
@@ -684,7 +822,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Punkevní jeskyně jako zlatý důl. Vedení chce zvýšit limity pro návštěvnost, i když tím může riskovat",
@@ -698,7 +836,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Vojenští atašé, kultura, cestovní ruch. Slovensko chystá jednání s ruskou vládou o spolupráci",
@@ -717,7 +855,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Peníze přinášejí štěstí, ale jsou jen jednou z jeho podmínek, říká psycholožka",
@@ -733,7 +871,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Fotogalerie: Signal Festival zve letos na dva videomappingy a ukáže, jak sní chemici",
@@ -751,7 +889,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Češi prodali do Ruska letadlo, soud je za obcházení sankcí potrestal pokutou",
@@ -765,7 +903,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Proč pivo zdražuje mnohem rychleji než víno? Odborníci za tím vidí tři důvody",
@@ -780,7 +918,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Proč už nechceme mít děti",
@@ -795,7 +933,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Jak se Sovětům podařilo ze Stepana Bandery udělat ukrajinského mučedníka",
@@ -809,7 +947,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Francouzská krajní levice se veze na vlně studentských protestů. Donese do Elyseje Mélenchona?",
@@ -824,7 +962,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "Jak truchlit v digitální době? Nový film ukazuje, jak se dnes vyrovnat se ztrátou našich milovaných",
@@ -839,7 +977,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     },
     {
       "title": "O cenzuru nejde. Chceme podporovat kulturu, ne byznys s ní, říká Klempíř k chystaným změnám",
@@ -857,7 +995,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-15T13:46:36.160455+00:00",
-      "last_seen": "2026-10-15T13:46:36.160455+00:00"
+      "last_seen": "2026-10-15T19:33:08.821074+00:00"
     }
   ]
 }
