@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:01:39.092081+00:00",
+  "generated_at": "2026-10-18T12:51:25.994514+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,9 +11,9 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 14,
-  "total_count": 3903,
-  "latest_day": "2026-10-17",
+  "count": 4,
+  "total_count": 3908,
+  "latest_day": "2026-10-18",
   "categories": [
     "(Ne)připravené Česko",
     "250 let USA",
@@ -371,6 +371,7 @@
     "Životní prostředí"
   ],
   "published_days": [
+    "2026-10-18",
     "2026-10-17",
     "2026-10-16",
     "2026-10-15",
@@ -642,235 +643,67 @@
   ],
   "articles": [
     {
-      "title": "Kamarád dostal od souseda dům zadarmo, ale život v Japonsku může být pro cizince náročný, říká filmař a spisovatel Chris Broad",
-      "url": "https://denikn.cz/2035896/kamarad-dostal-od-souseda-dum-zadarmo-ale-zivot-v-japonsku-muze-byt-pro-cizince-narocny-rika-filmar-a-spisovatel-chris-broad/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2035896-1.mp3",
-      "published": "2026-10-17T17:33:44+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Hlavní",
-        "Lifestyle",
-        "Svět",
-        "Cestování",
-        "Publicistika",
-        "Rozhovory",
-        "Východní Asie"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T18:01:27.705289+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Jediná zvolená žena je varování. Senát s osmdesáti procenty mužů je špatně, říká Šípová",
-      "url": "https://denikn.cz/2223193/jedina-zvolena-zena-je-varovani-senat-s-osmdesati-procenty-muzu-je-spatne-rika-sipova/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2223193-1-1.mp3",
-      "published": "2026-10-17T16:09:43+00:00",
-      "published_day": "2026-10-17",
+      "title": "Po Frankfurtu čelím výhrůžkám smrtí, říká Denemarková. „Nejsme vyžírky,“ kritizují Klempíře literáti",
+      "url": "https://denikn.cz/2222848/po-frankfurtu-celim-vyhruzkam-smrti-rika-denemarkova-nejsme-vyzirky-kritizuji-klempire-literati/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2222848-1.mp3",
+      "published": "2026-10-18T10:02:08+00:00",
+      "published_day": "2026-10-18",
       "categories": [
         "Česko",
-        "Piráti",
-        "Rozhovory",
-        "Senátní volby"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T18:01:27.705289+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Babiš: Výsledek voleb je pro ANO katastrofální, hnutí čeká restart",
-      "url": "https://denikn.cz/2223241/babis-vysledek-voleb-je-pro-ano-katastrofalni-hnuti-ceka-restart/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2223241-2.mp3",
-      "published": "2026-10-17T16:00:38+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Česko",
-        "Motoristé sobě",
-        "Senátní volby",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T18:01:27.705289+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Volby prohrál, v průzkumech ztrácí. Babiš začíná hrát o vše",
-      "url": "https://denikn.cz/2222912/volby-prohral-v-pruzkumech-ztraci-babis-zacina-hrat-o-vse/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2222912-2.mp3",
-      "published": "2026-10-17T15:54:54+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Česko",
-        "Analýza",
-        "Andrej Babiš",
-        "Komunální volby",
-        "Senátní volby",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T18:01:27.705289+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Tři závěry z těchto voleb a jeden velký otazník pro Babiše i Česko",
-      "url": "https://denikn.cz/2223171/tri-zavery-z-techto-voleb-a-jeden-velky-otaznik-pro-babise-i-cesko/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2223171-1-1.mp3",
-      "published": "2026-10-17T15:18:46+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Komentáře",
-        "Glosa",
-        "Senátní volby"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T18:01:27.705289+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Stál jsem proti všem. Útoky Pirátů byly nenávistné, říká znovuzvolený senátor Láska",
-      "url": "https://denikn.cz/2223062/stal-jsem-proti-vsem-utoky-piratu-byly-nenavistne-rika-znovuzvoleny-senator-laska/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2223062-1-1.mp3",
-      "published": "2026-10-17T14:46:49+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Česko",
-        "Rozhovory",
-        "Senátní volby"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T18:01:27.705289+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Šéf divadla nečekaně porazil favoritku z ANO. „Úspěch je slabé slovo,“ hodnotí svou výhru",
-      "url": "https://denikn.cz/2223074/sef-divadla-porazil-favoritku-z-ano-uspech-je-slabe-slovo-hodnoti-svou-vyhru/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2223074-1-1.mp3",
-      "published": "2026-10-17T14:30:16+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Česko",
-        "Komunální volby",
-        "Moravskoslezský kraj",
-        "Rozhovory",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T18:01:27.705289+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Babišova potupa. Finalisté ANO zcela pohořeli, Senát zůstává opoziční baštou",
-      "url": "https://denikn.cz/2222889/babisova-potupa-finaliste-ano-zcela-pohoreli-senat-zustava-opozicni-bastou/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2222889-2.mp3",
-      "published": "2026-10-17T13:12:38+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Česko",
-        "Hnutí ANO",
-        "KDU-ČSL",
-        "ODS",
-        "Senát",
-        "Senátní volby",
-        "STAN"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T18:01:27.705289+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Putin ani ruská nafta Trumpovi ve volbách nepomohou",
-      "url": "https://denikn.cz/2221365/putin-ani-ruska-nafta-trumpovi-ve-volbach-nepomohou/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2221365-1.mp3",
-      "published": "2026-10-17T09:05:24+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Ekonomika",
-        "Komentáře",
-        "Energetika",
-        "Názor",
-        "Rusko",
-        "Trhy",
-        "USA"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T12:33:43.606926+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Proč Ukrajinci nechtějí uzavřít mír, i když „mírotvorci“ se objevují i v tamní politice?",
-      "url": "https://denikn.cz/2222057/proc-ukrajinci-nechteji-uzavrit-mir-i-kdyz-mirotvorci-se-objevuji-i-v-tamni-politice/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2222057-2.mp3",
-      "published": "2026-10-17T08:27:29+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Komentáře",
-        "Názor",
-        "Ruská válka na Ukrajině",
-        "Ukrajina"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T12:33:43.606926+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "R5M: Politik Přísahy chtěl peníze za podporu senátního kandidáta ANO | Babiš nechce ručit za nové půjčky Ukrajině | Pavel oznámil, že dovolenou v Maroku platil ze svých peněz",
-      "url": "https://denikn.cz/2222779/r5m-politik-prisahy-chtel-penize-za-podporu-senatniho-kandidata-ano-babis-nechce-rucit-za-nove-pujcky-ukrajine-pavel-oznamil-ze-dovolenou-v-maroku-platil-ze-svych-penez/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2222779-2.mp3",
-      "published": "2026-10-17T06:11:34+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Nezařazené"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T12:33:43.606926+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Pavel Kohout v 98 letech vydává novou knihu. Slibuje „největší ostudu někdejší kulturní elity“",
-      "url": "https://denikn.cz/2206186/pavel-kohout-v-98-letech-vydava-novou-knihu-slibuje-nejvetsi-ostudu-nekdejsi-kulturni-elity/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2206186-1.mp3",
-      "published": "2026-10-17T04:30:00+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
         "Kultura",
-        "Historie",
         "Literatura",
-        "Newsletter live!"
+        "Německo",
+        "Oto Klempíř"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T12:33:43.606926+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
+      "first_seen": "2026-10-18T12:51:18.425443+00:00",
+      "last_seen": "2026-10-18T12:51:18.425443+00:00"
     },
     {
-      "title": "Medvídek Pú slaví sté narozeniny (a Íjáčkovi a Prasátku by se hodila kvalitní psychoterapie)",
-      "url": "https://denikn.cz/2219927/medvidek-pu-slavi-ste-narozeniny-a-ijackovi-a-prasatku-by-se-hodila-kvalitni-psychoterapie/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2219927-1.mp3",
-      "published": "2026-10-17T04:30:00+00:00",
-      "published_day": "2026-10-17",
-      "categories": [
-        "Kultura",
-        "Dětské knihy",
-        "Literatura"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T12:33:43.606926+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
-    },
-    {
-      "title": "Putina zlomí teprve obava, že dopadne jako Kaddáfí, míní šéf Sergeje Magnitského",
-      "url": "https://denikn.cz/2220421/putina-zlomi-teprve-obava-ze-dopadne-jako-kaddafi-mini-sef-sergeje-magnitskeho/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2220421-1.mp3",
-      "published": "2026-10-17T04:00:00+00:00",
-      "published_day": "2026-10-17",
+      "title": "Dva extrémy, dvě vize. Jedna slibuje Francouze na prvním místě, druhý bije kladivem a otvírá dveře",
+      "url": "https://denikn.cz/2221341/dva-extremy-dve-vize-jedna-slibuje-francouze-na-prvnim-miste-druhy-bije-kladivem-a-otvira-dvere/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2221341-1.mp3",
+      "published": "2026-10-18T07:00:00+00:00",
+      "published_day": "2026-10-18",
       "categories": [
         "Svět",
-        "Rozhovory",
-        "Ruská válka na Ukrajině",
-        "Rusko",
-        "Ukrajina"
+        "Francie"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-17T12:33:43.606926+00:00",
-      "last_seen": "2026-10-17T18:01:27.705289+00:00"
+      "first_seen": "2026-10-18T12:51:18.425443+00:00",
+      "last_seen": "2026-10-18T12:51:18.425443+00:00"
+    },
+    {
+      "title": "„Bude to jako usnout. A usnout přece umíš.“ Jak se připravit na smrt v době, kdy hovořit o ní je neslušné",
+      "url": "https://denikn.cz/2211795/bude-to-jako-usnout-a-usnout-prece-umis-jak-se-pripravit-na-smrt-v-dobe-kdy-hovorit-o-ni-je-neslusne/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2211795-1.mp3",
+      "published": "2026-10-18T04:30:00+00:00",
+      "published_day": "2026-10-18",
+      "categories": [
+        "Kultura",
+        "Duševní zdraví",
+        "Literatura",
+        "Zdraví"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-18T12:51:18.425443+00:00",
+      "last_seen": "2026-10-18T12:51:18.425443+00:00"
+    },
+    {
+      "title": "I povinná četba má dnešku co říct. Seriál Na východ od ráje řeší sexuální práci i nepřítomné otce",
+      "url": "https://denikn.cz/2220353/i-povinna-cetba-ma-co-rict-k-dnesku-serial-na-vychod-od-raje-resi-sexualni-praci-i-nepritomne-otce/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2220353-1.mp3",
+      "published": "2026-10-18T04:30:00+00:00",
+      "published_day": "2026-10-18",
+      "categories": [
+        "Kultura",
+        "Plevel",
+        "Rodina a vztahy",
+        "Televize"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-18T12:51:18.425443+00:00",
+      "last_seen": "2026-10-18T12:51:18.425443+00:00"
     }
   ]
 }
