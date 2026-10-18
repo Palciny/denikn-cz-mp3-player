@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T12:51:25.994514+00:00",
+  "generated_at": "2026-10-18T18:21:02.635260+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 4,
-  "total_count": 3908,
+  "count": 7,
+  "total_count": 3911,
   "latest_day": "2026-10-18",
   "categories": [
     "(Ne)připravené Česko",
@@ -643,6 +643,56 @@
   ],
   "articles": [
     {
+      "title": "Chirurgyně, kterou sarkom připravil o ruku: Přijít o možnost operovat bolelo víc",
+      "url": "https://denikn.cz/2221045/chirurgyne-kterou-sarkom-pripravil-o-ruku-prijit-o-moznost-operovat-bolelo-vic/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2221045-1.mp3",
+      "published": "2026-10-18T15:03:28+00:00",
+      "published_day": "2026-10-18",
+      "categories": [
+        "Lifestyle",
+        "Duševní zdraví",
+        "Publicistika",
+        "Rodina a vztahy",
+        "Rozhovory",
+        "Zdraví"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-18T18:20:55.325154+00:00",
+      "last_seen": "2026-10-18T18:20:55.325154+00:00"
+    },
+    {
+      "title": "TikTok děti nudil, tak si posílají videa s vraždami. Proč bychom měli věnovat pozornost Discordu, WhatsAppu či Robloxu",
+      "url": "https://denikn.cz/2219184/tiktok-deti-nudil-tak-si-posilaji-videa-s-vrazdami-proc-bychom-meli-venovat-pozornost-discordu-whatsappu-ci-robloxu/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2219184-1.mp3",
+      "published": "2026-10-18T13:30:00+00:00",
+      "published_day": "2026-10-18",
+      "categories": [
+        "Lifestyle",
+        "Duševní zdraví",
+        "Hackeři a kyberbezpečnost",
+        "Krimi",
+        "Rodina a vztahy",
+        "Sociální sítě"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-18T18:20:55.325154+00:00",
+      "last_seen": "2026-10-18T18:20:55.325154+00:00"
+    },
+    {
+      "title": "„Nefilmuj, nebo tě zabiju.“ Francouzské protesty se zvrhly v rabování a násilí",
+      "url": "https://denikn.cz/2223629/nefilmuj-nebo-te-zabiju-francouzske-protesty-se-zvrhly-v-rabovani-a-nasili/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2223629-2.mp3",
+      "published": "2026-10-18T13:06:10+00:00",
+      "published_day": "2026-10-18",
+      "categories": [
+        "Svět",
+        "Francie"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-18T18:20:55.325154+00:00",
+      "last_seen": "2026-10-18T18:20:55.325154+00:00"
+    },
+    {
       "title": "Po Frankfurtu čelím výhrůžkám smrtí, říká Denemarková. „Nejsme vyžírky,“ kritizují Klempíře literáti",
       "url": "https://denikn.cz/2222848/po-frankfurtu-celim-vyhruzkam-smrti-rika-denemarkova-nejsme-vyzirky-kritizuji-klempire-literati/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2222848-1.mp3",
@@ -657,7 +707,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-18T12:51:18.425443+00:00",
-      "last_seen": "2026-10-18T12:51:18.425443+00:00"
+      "last_seen": "2026-10-18T18:20:55.325154+00:00"
     },
     {
       "title": "Dva extrémy, dvě vize. Jedna slibuje Francouze na prvním místě, druhý bije kladivem a otvírá dveře",
@@ -671,7 +721,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-18T12:51:18.425443+00:00",
-      "last_seen": "2026-10-18T12:51:18.425443+00:00"
+      "last_seen": "2026-10-18T18:20:55.325154+00:00"
     },
     {
       "title": "„Bude to jako usnout. A usnout přece umíš.“ Jak se připravit na smrt v době, kdy hovořit o ní je neslušné",
@@ -687,7 +737,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-18T12:51:18.425443+00:00",
-      "last_seen": "2026-10-18T12:51:18.425443+00:00"
+      "last_seen": "2026-10-18T18:20:55.325154+00:00"
     },
     {
       "title": "I povinná četba má dnešku co říct. Seriál Na východ od ráje řeší sexuální práci i nepřítomné otce",
@@ -703,7 +753,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-18T12:51:18.425443+00:00",
-      "last_seen": "2026-10-18T12:51:18.425443+00:00"
+      "last_seen": "2026-10-18T18:20:55.325154+00:00"
     }
   ]
 }
