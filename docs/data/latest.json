@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:59:53.551970+00:00",
+  "generated_at": "2026-10-19T20:54:28.782355+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 16,
-  "total_count": 3927,
+  "count": 21,
+  "total_count": 3932,
   "latest_day": "2026-10-19",
   "categories": [
     "(Ne)připravené Česko",
@@ -645,6 +645,87 @@
   ],
   "articles": [
     {
+      "title": "„Bylo to jako válečná zóna, dostal jsem se do oblaku slzného plynu.“ Student o francouzských protestech",
+      "url": "https://denikn.cz/2224782/bylo-to-jako-valecna-zona-dostal-jsem-se-do-oblaku-slzneho-plynu-student-o-francouzskych-protestech/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2224782-1.mp3",
+      "published": "2026-10-19T19:17:17+00:00",
+      "published_day": "2026-10-19",
+      "categories": [
+        "Rozhovory",
+        "Svět",
+        "Francie",
+        "Školství"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-19T20:54:20.679608+00:00",
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
+    },
+    {
+      "title": "Macinka označil redaktora Seznam Zpráv za blba. „Já tak asi nemluvím,“ reagoval Babiš",
+      "url": "https://denikn.cz/2224676/macinka-oznacil-redaktora-seznam-zprav-za-blba-ja-tak-asi-nemluvim-reagoval-babis/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2224676-1.mp3",
+      "published": "2026-10-19T17:30:59+00:00",
+      "published_day": "2026-10-19",
+      "categories": [
+        "Česko",
+        "Petr Macinka",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-19T20:54:20.679608+00:00",
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
+    },
+    {
+      "title": "Vývoj bojů (1698. den): Předobraz války ve vesmíru: ruská vojenská družice pronásleduje špionážní satelit",
+      "url": "https://denikn.cz/2224490/vyvoj-boju-1698-den-predobraz-valky-ve-vesmiru-ruska-vojenska-druzice-pronasleduje-spionazni-satelit/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2224490-1.mp3",
+      "published": "2026-10-19T17:11:38+00:00",
+      "published_day": "2026-10-19",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Vývoj bojů"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-19T20:54:20.679608+00:00",
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
+    },
+    {
+      "title": "Nesvalujme vše na Trumpa. Za spoustu aktuálních problémů si Evropa může sama",
+      "url": "https://denikn.cz/2224411/nesvalujme-vse-na-trumpa-za-spoustu-aktualnich-problemu-si-evropa-muze-sama/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2224411-1.mp3",
+      "published": "2026-10-19T16:31:36+00:00",
+      "published_day": "2026-10-19",
+      "categories": [
+        "Komentáře",
+        "Názor",
+        "Ruská válka na Ukrajině"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-19T20:54:20.679608+00:00",
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
+    },
+    {
+      "title": "Pointa N: Evropa zachraňuje spalováky. Zachrání s nimi i automobilky?",
+      "url": "https://denikn.cz/2224586/pointa-n-evropa-zachranuje-spalovaky-zachrani-s-nimi-i-automobilky/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2224586-1.mp3",
+      "published": "2026-10-19T15:58:53+00:00",
+      "published_day": "2026-10-19",
+      "categories": [
+        "Česko",
+        "Ekonomika",
+        "Komentáře",
+        "Automobily",
+        "Názor",
+        "Pointa N",
+        "Senátní volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-19T20:54:20.679608+00:00",
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
+    },
+    {
       "title": "Na hlavách helmy, v rukou černé deštníky. Kdo jsou Black bloc, radikálové rabující francouzské obchody",
       "url": "https://denikn.cz/2224713/na-hlavach-helmy-v-rukou-cerne-destniky-kdo-jsou-black-bloc-radikalove-rabujici-francouzske-obchody/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2224713-1.mp3",
@@ -656,7 +737,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Vrtěti psem: Babiš po debaklu přitvrdí. Bát se mohou lidé v ANO i ve vládní koalici",
@@ -678,7 +759,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Americké průzkumy: předvolební skluzavka vede doprava, ale ne tolik, kolik Trump potřebuje",
@@ -694,7 +775,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Situace ve Francii je kritická. Zcela se jim to vymklo, říká expertka o násilných protestech",
@@ -708,7 +789,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Boj o inkluzi zatím skončil ve vládě smírem, Motoristé čekají na druhé kolo",
@@ -724,7 +805,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Člověku mohou selhávat ledviny a ani jeho blízcí nemusí tušit, že je vážně nemocný, říká nefroložka",
@@ -741,7 +822,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Teror 7. října? Válka? Skrytým klíčovým tématem izraelských voleb jsou životní náklady",
@@ -754,7 +835,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Proč nám vládnou malí sobci? Konfucius tne do živého i po 2500 letech",
@@ -774,7 +855,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Zelenskyj přešel do mediálního protiútoku, reakcí na Trumpa rozesmál sál. Bude jeho strategie úspěšná? Trumpův svět (635.–637. den)",
@@ -792,7 +873,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Evropa má vlastní satelity, od Muska se ale nedokáže odpoutat. Co jí chybí k náhradě Starlinku?",
@@ -811,7 +892,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Brexitový scénář v Kanadě? Provincie Alberta dnes hlasuje o nezávislosti",
@@ -826,7 +907,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Jsem hodně specifická příchuť zmrzliny. Dělám lidem život těžší, říká fyzioterapeutka",
@@ -843,7 +924,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Milion pro Motoristy, dluhy a vazba na firmu, které pomohlo ministerstvo",
@@ -859,7 +940,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Nový Street Fighter sliboval, že bude úplně crazy. Bohužel by měl být mnohem víc",
@@ -873,7 +954,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Můžeme mít pocit, že existují různé typy krásy. Algoritmus nám ale stejně doporučí Dominiku Alagiu, říká Adéla Šponerová",
@@ -892,7 +973,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     },
     {
       "title": "Jak Babiš probudí ANO? Ustojí Rakušan tlak? Čtyři klíčové otázky z voleb",
@@ -912,7 +993,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-19T15:59:40.930367+00:00",
-      "last_seen": "2026-10-19T15:59:40.930367+00:00"
+      "last_seen": "2026-10-19T20:54:20.679608+00:00"
     }
   ]
 }
