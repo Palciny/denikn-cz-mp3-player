@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:57:06.589911+00:00",
+  "generated_at": "2026-10-20T19:43:32.265624+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 12,
-  "total_count": 3944,
+  "count": 21,
+  "total_count": 3953,
   "latest_day": "2026-10-20",
   "categories": [
     "(Ne)připravené Česko",
@@ -646,6 +646,149 @@
   ],
   "articles": [
     {
+      "title": "„V ANO budou padat hlavy.“ Co Babiš plánuje a koho může vyměnit",
+      "url": "https://denikn.cz/2225986/v-ano-budou-padat-hlavy-co-babis-planuje-a-koho-muze-vymenit/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2225986-1.mp3",
+      "published": "2026-10-20T17:39:43+00:00",
+      "published_day": "2026-10-20",
+      "categories": [
+        "Česko",
+        "Andrej Babiš",
+        "Hnutí ANO",
+        "Komunální volby",
+        "Senátní volby"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-20T19:43:22.574954+00:00",
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
+    },
+    {
+      "title": "Vývoj bojů (1699. den): Ukrajinci poprvé evakuovali vojáka pomocí leteckého dronu. Na frontě strávil pět set dní",
+      "url": "https://denikn.cz/2225686/vyvoj-boju-1699-den-ukrajinci-poprve-evakuovali-vojaka-pomoci-leteckeho-dronu-na-fronte-stravil-pet-set-dni/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2225686-1.mp3",
+      "published": "2026-10-20T17:22:03+00:00",
+      "published_day": "2026-10-20",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Vývoj bojů"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-20T19:43:22.574954+00:00",
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
+    },
+    {
+      "title": "Pointa N: Babiš jako hladový vlk a Macinka s uchem u moskevského rozhlasu",
+      "url": "https://denikn.cz/2225700/pointa-n-babis-jako-hladovy-vlk-a-macinka-s-uchem-u-moskevskeho-rozhlasu/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2225700-1.mp3",
+      "published": "2026-10-20T15:59:42+00:00",
+      "published_day": "2026-10-20",
+      "categories": [
+        "Česko",
+        "Komentáře",
+        "Pointa N",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-20T19:43:22.574954+00:00",
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
+    },
+    {
+      "title": "„U nás ANO toxické není, má i výsledky.“ Lídr STAN v Praze 8 vysvětluje, proč složil koalici s Babišovým hnutím",
+      "url": "https://denikn.cz/2225820/u-nas-ano-toxicke-neni-ma-i-vysledky-lidr-stan-v-praze-8-vysvetluje-proc-slozil-koalici-s-babisovym-hnutim/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2225820-1.mp3",
+      "published": "2026-10-20T15:38:27+00:00",
+      "published_day": "2026-10-20",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Praha",
+        "Rozhovory",
+        "STAN"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-20T19:43:22.574954+00:00",
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
+    },
+    {
+      "title": "Grolichovi věřím, v topce jsem se vařil jako žába, říká šéf jihomoravské TOP 09 o odchodu k lidovcům",
+      "url": "https://denikn.cz/2225890/grolichovi-verim-v-topce-jsem-se-varil-jako-zaba-rika-sef-jihomoravske-top-09-o-odchodu-k-lidovcum/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2225890-1-1.mp3",
+      "published": "2026-10-20T15:33:19+00:00",
+      "published_day": "2026-10-20",
+      "categories": [
+        "Česko",
+        "Jan Grolich",
+        "Jihomoravský kraj",
+        "KDU-ČSL",
+        "Regiony",
+        "Rozhovory"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-20T19:43:22.574954+00:00",
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
+    },
+    {
+      "title": "Mají dobrou práci, přesto bydlí u rodičů. Regulace nájemného vytlačuje drobné pronajímatele, říká irský profesor",
+      "url": "https://denikn.cz/2211736/maji-dobrou-praci-presto-bydli-u-rodicu-regulace-najemneho-vytlacuje-drobne-pronajimatele-rika-irsky-profesor/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2211736-1.mp3",
+      "published": "2026-10-20T15:25:30+00:00",
+      "published_day": "2026-10-20",
+      "categories": [
+        "Ekonomika",
+        "Kontext N",
+        "Rozhovory",
+        "Krize bydlení a nemovitosti"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-20T19:43:22.574954+00:00",
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
+    },
+    {
+      "title": "Vučićova one-man show v Srbsku se chýlí ke konci. Anebo ne",
+      "url": "https://denikn.cz/2224561/vucicova-one-man-show-v-srbsku-se-chyli-ke-konci-anebo-ne/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2224561-1.mp3",
+      "published": "2026-10-20T14:47:47+00:00",
+      "published_day": "2026-10-20",
+      "categories": [
+        "Svět",
+        "Balkán"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-20T19:43:22.574954+00:00",
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
+    },
+    {
+      "title": "Peníze investorům vypláceli z vkladů dalších klientů. Analýza ukázala fungování padlé kryptoměnové firmy",
+      "url": "https://denikn.cz/2225717/penize-investorum-vyplaceli-z-vkladu-dalsich-klientu-analyza-ukazala-fungovani-padle-kryptomenove-firmy/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2225717-2.mp3",
+      "published": "2026-10-20T14:04:37+00:00",
+      "published_day": "2026-10-20",
+      "categories": [
+        "Ekonomika",
+        "Investigativa",
+        "Kryptoměny"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-20T19:43:22.574954+00:00",
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
+    },
+    {
+      "title": "Svlečení senioři z AI i tři roky stará videa. Politici šíří o Francii hoaxy",
+      "url": "https://denikn.cz/2225835/svleceni-seniori-z-ai-i-tri-roky-stara-videa-politici-siri-o-francii-hoaxy/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2225835-2.mp3",
+      "published": "2026-10-20T14:01:01+00:00",
+      "published_day": "2026-10-20",
+      "categories": [
+        "Svět",
+        "Francie"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-20T19:43:22.574954+00:00",
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
+    },
+    {
       "title": "„Nesmírně politováníhodné.“ Japonsko se opřelo do Ruska, které vězní japonského novináře jako špeha",
       "url": "https://denikn.cz/2225230/nesmirne-politovanihodne-japonsko-se-oprelo-do-ruska-ktere-vezni-japonskeho-novinare-jako-speha/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2225230-1.mp3",
@@ -659,7 +802,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "Arcibiskup napsal dopis Babišovi. Zastal se právníka spojeného s Hnutím pro život",
@@ -674,7 +817,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "Byl jsem v Paříži a viděl jsem, jak ve městě světel zavládla tma",
@@ -689,7 +832,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "„Můžeme prakticky zavřít.“ Státní zdravotní ústav nemá dost peněz na laboratoře, které odhalují nebezpečné infekce",
@@ -705,7 +848,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "Na kolagen ani hořčík se při bolestech zad nespoléhejte, upozorňuje výživový poradce. Příčina může být úplně jinde",
@@ -722,7 +865,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "Velký přehled: bydlení, školy, škrty. Proč mladí napříč Evropou protestují a kdo může získat jejich hlasy",
@@ -739,7 +882,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "„Nebezpečná hra Jana Grolicha.“ Lidovci na jihu Moravy přetáhli dvacet členů TOP 09",
@@ -757,7 +900,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "Kdo vydělá na nových platbách? Tři změny hrají do karet soukromým nemocnicím včetně Babišovy",
@@ -775,7 +918,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "S Ruskem je to celkem v klidu, myslí si prezident. Chce s Putinem řešit budoucnost světa. Trumpův svět (638. den)",
@@ -794,7 +937,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "Z oběti se stal kat. Pro Izraelce je velmi těžké si to připustit, říká dokumentaristka Dudinski",
@@ -810,7 +953,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "Kvůli filmu o Facebooku jsme museli jet do Rakouska. Mark Zuckerberg z něj určitě radost nemá",
@@ -826,7 +969,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     },
     {
       "title": "David Ondříček: Moje generace měla jasného nepřítele. Dnes každý stojí na jiné straně barikády",
@@ -844,7 +987,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-20T13:56:57.550419+00:00",
-      "last_seen": "2026-10-20T13:56:57.550419+00:00"
+      "last_seen": "2026-10-20T19:43:22.574954+00:00"
     }
   ]
 }
