@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:59:31.462797+00:00",
+  "generated_at": "2026-10-24T18:26:20.815854+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 15,
-  "total_count": 4058,
+  "count": 23,
+  "total_count": 4066,
   "latest_day": "2026-10-24",
   "categories": [
     "(Ne)připravené Česko",
@@ -651,6 +651,144 @@
   ],
   "articles": [
     {
+      "title": "„Celá opozice se zlobí. Vláda to bude mít složité,“ varuje Benda. Změny jednacího řádu nelituje",
+      "url": "https://denikn.cz/2231987/cela-opozice-se-zlobi-vlada-to-bude-mit-slozite-varuje-benda-zmeny-jednaciho-radu-nelituje/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2231987-1.mp3",
+      "published": "2026-10-24T18:15:14+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Česko",
+        "Rozhovory",
+        "ODS",
+        "Sněmovna",
+        "Veřejné finance",
+        "Veřejnoprávní média"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-24T18:26:11.701096+00:00",
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
+    },
+    {
+      "title": "„Ruce pryč od médií!“ Tisíce lidí v Brně demonstrovaly proti rušení poplatků",
+      "url": "https://denikn.cz/2232029/ruce-pryc-od-medii-tisice-lidi-v-brne-demonstrovaly-proti-ruseni-poplatku/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2232029-1.mp3",
+      "published": "2026-10-24T17:32:37+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Česko",
+        "Brno",
+        "Fotografie",
+        "Média",
+        "Regiony",
+        "Veřejnoprávní média"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-24T18:26:11.701096+00:00",
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
+    },
+    {
+      "title": "Je překvapivé noční jednání v pořádku? A porušila vládní většina práva opozice? Expert o tom, jak by věc posuzoval Ústavní soud",
+      "url": "https://denikn.cz/2231920/je-prekvapive-nocni-jednani-v-poradku-a-porusila-vladni-vetsina-prava-opozice-expert-o-tom-jak-by-vec-posuzoval-ustavni-soud/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2231920-1-1.mp3",
+      "published": "2026-10-24T17:00:46+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Česko",
+        "Rozhovory",
+        "Televize",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-24T18:26:11.701096+00:00",
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
+    },
+    {
+      "title": "„Omezení svobody slova.“ Na literární dotace ministerstva kultury nedosáhnou ti, kdo píšou o politice",
+      "url": "https://denikn.cz/2231003/omezeni-svobody-slova-na-literarni-dotace-ministerstva-kultury-nedosahnou-ti-kdo-pisou-o-politice/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2231003-1.mp3",
+      "published": "2026-10-24T15:10:45+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Česko",
+        "Kultura",
+        "Kulturní politika",
+        "Kulturní provoz",
+        "Literatura",
+        "Oto Klempíř",
+        "Veřejné finance"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-24T18:26:11.701096+00:00",
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
+    },
+    {
+      "title": "Chtěli vyjádřit nesouhlas před poslanci a skončili na kolenou",
+      "url": "https://denikn.cz/2231828/chteli-klidne-vyjadrit-nesouhlas-pred-poslanci-a-skoncili-na-kolenou/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2231828-4.mp3",
+      "published": "2026-10-24T14:07:44+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Česko",
+        "Sněmovna",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-24T18:26:11.701096+00:00",
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
+    },
+    {
+      "title": "„Ani během nejvyhrocenějších obstrukcí se tohle nestalo.“ Na vlastní oči jsme viděli noční jednání Sněmovny",
+      "url": "https://denikn.cz/2231781/ani-behem-nejvyhrocenejsich-obstrukci-se-tohle-nestalo-na-vlastni-oci-jsme-videli-nocni-jednani-snemovny/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2231781-2.mp3",
+      "published": "2026-10-24T13:33:18+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Česko",
+        "Média",
+        "Sněmovna",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-24T18:26:11.701096+00:00",
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
+    },
+    {
+      "title": "Babiš přirovnal protest u Sněmovny k útoku na Kapitol. „Vyhrožujete mi smrtí, já to beru,“ tvrdí",
+      "url": "https://denikn.cz/2231730/babis-prirovnal-protest-u-snemovny-k-utoku-na-kapitol-vyhrozujete-mi-smrti-ja-to-beru-tvrdi/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2231730-2.mp3",
+      "published": "2026-10-24T13:19:43+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Česko",
+        "Andrej Babiš",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-24T18:26:11.701096+00:00",
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
+    },
+    {
+      "title": "Jak ulice o páteční noci porazila parlament. A je to dobře",
+      "url": "https://denikn.cz/2231791/jak-ulice-o-patecni-noci-porazila-parlament-a-je-to-dobre/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2231791-1.mp3",
+      "published": "2026-10-24T13:00:03+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Komentáře",
+        "Andrej Babiš",
+        "Názor",
+        "Sněmovna",
+        "Veřejnoprávní média"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-24T18:26:11.701096+00:00",
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
+    },
+    {
       "title": "Pavel prolomil mlčení. Koalici a opozici vyzývá ke vzájemnému respektu",
       "url": "https://denikn.cz/2231777/pavel-prolomil-mlceni-zpusob-jednani-o-zruseni-poplatku-podkopava-viru-v-dobre-umysly-tvrdi/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2231777-1.mp3",
@@ -664,7 +802,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "Dnes je to mnohem brutálnější než v roce 2000, je to příprava na puč, říká tvář tehdejší krize Komers",
@@ -680,7 +818,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "Lidi rozeštval, pak ke klidu vyzval. Jak Babiš z tepláků splnil slib",
@@ -699,7 +837,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "„Prasárna. Rozpoutal válku a zalezl. Bojí se,“ tepe opozice Babiše za změnu financování médií",
@@ -717,7 +855,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "Paříž před bouří: Macron ukazuje sílu. S čím ale přijdou Francouzi?",
@@ -733,7 +871,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "První překážku Babiš překonal, šest dalších ho čeká. Otázky a odpovědi k rušení poplatků",
@@ -750,7 +888,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "Bleskový útok na ČT a rozhlas ukazuje pravou tvář vlády",
@@ -766,7 +904,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "Zažíváme renesanci zájmu o smrt. V pohřebnictví je přetlak uchazečů, lidé chtějí práci, která dává smysl",
@@ -781,7 +919,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "R5M: Koalice v noci protlačila zrušení poplatků za ČT a ČRo | Malostranské náměstí v Praze zaplnili demonstranti | Šéf pražského letiště Lašák rezignoval",
@@ -795,7 +933,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "Piráti z Cologny. Novináři provádějí po stopách peněz a finančních skandálů v nejbohatší části Ženevy",
@@ -808,7 +946,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "Před Sněmovnou nad ránem zněl hlasitý pískot. Demonstranti se nerozešli ani v noci",
@@ -825,7 +963,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "„Čekat už nemohu. Snad mi to táta odpustí.“ Unikátní vzpomínky Antonína Špáty vychází knižně",
@@ -841,7 +979,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "Slyšel plakat miminka, přesto nařídil útok. Co izraelští vojáci prozrazují v dokumentu NAZA",
@@ -860,7 +998,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "Netflixifikace literatury a postmoderna pro začátečníky: Co skrývá plážové čtení Radky Třeštíkové",
@@ -874,7 +1012,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     },
     {
       "title": "Babišova koalice v noci protlačila zrušení poplatků za ČT a rozhlas. Vládní poslanci hlasovali jako jeden muž",
@@ -893,7 +1031,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-24T12:59:21.347743+00:00",
-      "last_seen": "2026-10-24T12:59:21.347743+00:00"
+      "last_seen": "2026-10-24T18:26:11.701096+00:00"
     }
   ]
 }
