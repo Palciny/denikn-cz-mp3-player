@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:26:19.964325+00:00",
+  "generated_at": "2026-10-25T18:36:42.616668+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 7,
-  "total_count": 4074,
+  "count": 9,
+  "total_count": 4076,
   "latest_day": "2026-10-25",
   "categories": [
     "(Ne)připravené Česko",
@@ -652,6 +652,37 @@
   ],
   "articles": [
     {
+      "title": "Zaplněný Staromák jako trénink na Letnou. Desítky tisíc lidí přišly podpořit veřejnoprávní média",
+      "url": "https://denikn.cz/2232850/zaplneny-staromak-jako-trenink-na-letnou-desitky-tisic-lidi-prisly-podporit-verejnopravni-media/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2232850-1.mp3",
+      "published": "2026-10-25T17:44:49+00:00",
+      "published_day": "2026-10-25",
+      "categories": [
+        "Česko",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-25T18:36:34.359515+00:00",
+      "last_seen": "2026-10-25T18:36:34.359515+00:00"
+    },
+    {
+      "title": "Pět poučení, která nám může dát rozbouřená Paříž",
+      "url": "https://denikn.cz/2232645/pet-pouceni-ktera-nam-muze-dat-rozbourena-pariz/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2232645-1.mp3",
+      "published": "2026-10-25T17:01:35+00:00",
+      "published_day": "2026-10-25",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Francie",
+        "Názor"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-25T18:36:34.359515+00:00",
+      "last_seen": "2026-10-25T18:36:34.359515+00:00"
+    },
+    {
       "title": "Dojde jim to, ale pozdě. Lidé si mnohdy ani nedokážou přiznat, že jsou vyčerpaní, říká psycholožka",
       "url": "https://denikn.cz/2219266/dojde-jim-to-ale-pozde-lide-si-mnohdy-ani-nedokazou-priznat-ze-jsou-vycerpani-rika-psycholozka/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2219266-1.mp3",
@@ -664,7 +695,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-25T13:26:11.757757+00:00",
-      "last_seen": "2026-10-25T13:26:11.757757+00:00"
+      "last_seen": "2026-10-25T18:36:34.359515+00:00"
     },
     {
       "title": "Vrtěti psem: Proč Babiš spustil útok na Českou televizi",
@@ -683,7 +714,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-25T13:26:11.757757+00:00",
-      "last_seen": "2026-10-25T13:26:11.757757+00:00"
+      "last_seen": "2026-10-25T18:36:34.359515+00:00"
     },
     {
       "title": "Tři dny příprav, varianty a konzultace s právníky. Okamura přiznal, jak se chystal na noční hlasování o poplatcích",
@@ -699,7 +730,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-25T13:26:11.757757+00:00",
-      "last_seen": "2026-10-25T13:26:11.757757+00:00"
+      "last_seen": "2026-10-25T18:36:34.359515+00:00"
     },
     {
       "title": "Obrazem: Bitva o Paříž zblízka",
@@ -715,7 +746,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-25T13:26:11.757757+00:00",
-      "last_seen": "2026-10-25T13:26:11.757757+00:00"
+      "last_seen": "2026-10-25T18:36:34.359515+00:00"
     },
     {
       "title": "R5M: Prezident Pavel: Způsob jednání o poplatcích budí pochyby o záměrech předkladatelů | Opozice tepe Babiše za změnu financování médií | Pařížský protest přerostl v násilné střety",
@@ -729,7 +760,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-25T13:26:11.757757+00:00",
-      "last_seen": "2026-10-25T13:26:11.757757+00:00"
+      "last_seen": "2026-10-25T18:36:34.359515+00:00"
     },
     {
       "title": "Vítěz seriálového podzimu? Hec, v němž herečka Petra Hřebíčková dokázala udržet vážnou tvář",
@@ -743,7 +774,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-25T13:26:11.757757+00:00",
-      "last_seen": "2026-10-25T13:26:11.757757+00:00"
+      "last_seen": "2026-10-25T18:36:34.359515+00:00"
     },
     {
       "title": "Fontaines D.C. vás lapí do dopaminové komory. Proč jsou nejúspěšnější irskou kapelou od dob U2?",
@@ -758,7 +789,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-25T13:26:11.757757+00:00",
-      "last_seen": "2026-10-25T13:26:11.757757+00:00"
+      "last_seen": "2026-10-25T18:36:34.359515+00:00"
     }
   ]
 }
