@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:00:35.301995+00:00",
+  "generated_at": "2026-10-27T20:18:20.491763+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 12,
-  "total_count": 4112,
+  "count": 18,
+  "total_count": 4118,
   "latest_day": "2026-10-27",
   "categories": [
     "(Ne)připravené Česko",
@@ -655,6 +655,101 @@
   ],
   "articles": [
     {
+      "title": "Vývoj bojů (1706. den): V ruských skladech se hromadí nové tanky. Rusové si je možná šetří na jinou válku",
+      "url": "https://denikn.cz/2234974/vyvoj-boju-1706-den-v-ruskych-skladech-se-hromadi-nove-tanky-rusove-si-je-mozna-setri-na-jinou-valku/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2234974-1.mp3",
+      "published": "2026-10-27T18:44:48+00:00",
+      "published_day": "2026-10-27",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Vývoj bojů"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-27T20:18:09.356074+00:00",
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
+    },
+    {
+      "title": "Cílem je imunizovat konkrétní osoby, psala Unie státních zástupců k Tejcově novele",
+      "url": "https://denikn.cz/2234953/cilem-je-imunizovat-konkretni-osoby-napsala-unie-statnich-zastupcu-k-tejcove-novele/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2234953-3.mp3",
+      "published": "2026-10-27T17:22:32+00:00",
+      "published_day": "2026-10-27",
+      "categories": [
+        "Česko",
+        "Justice",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-27T20:18:09.356074+00:00",
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
+    },
+    {
+      "title": "Hvězdný Mbappé se musel Číně omluvit za „diktátora“ Maa. Vážně ho k tomu donutili „uražení Číňané“?",
+      "url": "https://denikn.cz/2234603/hvezdny-mbappe-se-musel-cine-omluvit-za-diktatora-maa-vazne-ho-k-tomu-donutili-urazeni-cinane/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2234603-1.mp3",
+      "published": "2026-10-27T17:19:32+00:00",
+      "published_day": "2026-10-27",
+      "categories": [
+        "Sport",
+        "Svět",
+        "Čína",
+        "Fotbal",
+        "Lidská práva"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-27T20:18:09.356074+00:00",
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
+    },
+    {
+      "title": "Pointa N: Jak mediální novela překryla útok na justici",
+      "url": "https://denikn.cz/2235003/pointa-n-jak-medialni-novela-prekryla-utok-na-justici/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2235003-1-1.mp3",
+      "published": "2026-10-27T16:13:44+00:00",
+      "published_day": "2026-10-27",
+      "categories": [
+        "Česko",
+        "Andrej Babiš",
+        "Pointa N",
+        "Veřejnoprávní média"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-27T20:18:09.356074+00:00",
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
+    },
+    {
+      "title": "Konečně brambory! Zbraně v příměří ztichly a někteří se chystají opustit frontové ukrajinské Olešky",
+      "url": "https://denikn.cz/2234689/konecne-brambory-zbrane-v-primeri-ztichly-a-lide-zacinaji-opoustet-frontove-ukrajinske-olesky/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2234689-1-2.mp3",
+      "published": "2026-10-27T16:04:06+00:00",
+      "published_day": "2026-10-27",
+      "categories": [
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "USA"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-27T20:18:09.356074+00:00",
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
+    },
+    {
+      "title": "Stávka České televizi a rozhlasu může uškodit. Demonstrace mohou vládu dovést k ústupkům, říkají experti",
+      "url": "https://denikn.cz/2234813/stavka-ceske-televizi-a-rozhlasu-muze-uskodit-demonstrace-mohou-vladu-dovest-k-ustupkum-rikaji-experti/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2234813-2.mp3",
+      "published": "2026-10-27T15:58:14+00:00",
+      "published_day": "2026-10-27",
+      "categories": [
+        "Česko",
+        "Andrej Babiš",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-27T20:18:09.356074+00:00",
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
+    },
+    {
       "title": "Vrtěti psem: Z Babišova boje proti ČT se nejvíc raduje Okamura",
       "url": "https://denikn.cz/2234660/vrteti-psem-z-babisova-boje-proti-ct-se-nejvic-raduje-okamura/",
       "mp3_url": "https://static.novydenik.com/2026/10/vrtetipsemFULL261027.mp3",
@@ -674,7 +769,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "Klempíř odvolá exšéfa ČT z Fondu audiovize. „Nejsem zaskočen ani překvapen,“ reaguje Dvořák",
@@ -690,7 +785,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "Zabránil bývalý komunistický špion Putinovi v použití jaderné zbraně? Kdo jsou muži, kteří našli cestu do Kremlu",
@@ -708,7 +803,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "Zůnova koncepce zaostávání armády. Podle klíčového dokumentu je na posílení vojska času dost",
@@ -724,7 +819,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "Potetovaná duše: Válka jako extrémní stresor",
@@ -744,7 +839,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "Norsko stojí za h****, chudoba je dnes nejlepší v historii. Výběr posledních výroků prezidenta. Trumpův svět (645. den)",
@@ -760,7 +855,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "„I love Bibi.“ Vše, co potřebujete vědět o dnešních volbách v Izraeli",
@@ -777,7 +872,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "Průlom v léčbě rakoviny kůže: nová mRNA vakcína snižuje riziko návratu léčeného melanomu téměř o polovinu",
@@ -791,7 +886,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "„Nástroj politického tlaku.“ Expertka popisuje rizika zrušení mediálních poplatků",
@@ -808,7 +903,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "Vyšly dva příběhy z dob, kdy si Pratchett dělal legraci ze sci-fi. Co mají společného se Zeměplochou?",
@@ -822,7 +917,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "Bejby, jsi nádherná! Petra Nesvačilová o StarDance a natáčení s Petrem Macinkou",
@@ -839,7 +934,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     },
     {
       "title": "Babiš dělá taktickou chybu. Z boje proti poplatkům těží Okamura",
@@ -856,7 +951,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-27T15:00:12.866997+00:00",
-      "last_seen": "2026-10-27T15:00:12.866997+00:00"
+      "last_seen": "2026-10-27T20:18:09.356074+00:00"
     }
   ]
 }
