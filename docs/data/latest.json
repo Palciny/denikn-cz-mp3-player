@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:36:28.199896+00:00",
+  "generated_at": "2026-10-28T20:40:26.586806+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,13 +11,14 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 11,
-  "total_count": 4132,
+  "count": 16,
+  "total_count": 4137,
   "latest_day": "2026-10-28",
   "categories": [
     "(Ne)připravené Česko",
     "17. listopad",
     "250 let USA",
+    "28. říjen",
     "Afrika",
     "Americko-íránský konflikt",
     "Americké volby",
@@ -658,6 +659,87 @@
   ],
   "articles": [
     {
+      "title": "Přehledně: Čáslavská, stateční v uniformě i bez ní, pomoc dětem i hlas žen. Koho prezident vyznamenal",
+      "url": "https://denikn.cz/2236239/prehledne-caslavska-statecni-v-uniforme-i-bez-ni-pomoc-detem-i-hlas-zen-koho-prezident-vyznamenal/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2236239-1.mp3",
+      "published": "2026-10-28T20:07:02+00:00",
+      "published_day": "2026-10-28",
+      "categories": [
+        "Česko",
+        "Petr Pavel"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-28T20:40:18.738313+00:00",
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
+    },
+    {
+      "title": "Nerozbít média, dbát o krajinu i bezpečnost země. Pavel v projevu k 28. říjnu mířil do současnosti",
+      "url": "https://denikn.cz/2236253/nerozbit-media-dbat-o-krajinu-i-bezpecnost-zeme-pavel-v-projevu-k-28-rijnu-miril-do-soucasnosti/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2236253-1.mp3",
+      "published": "2026-10-28T19:27:13+00:00",
+      "published_day": "2026-10-28",
+      "categories": [
+        "Česko",
+        "28. říjen",
+        "Petr Pavel"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-28T20:40:18.738313+00:00",
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
+    },
+    {
+      "title": "Vývoj bojů (1707. den): Ukrajinští vojáci jsou stále v Kosťantynivce. Platí za to tragickou daň",
+      "url": "https://denikn.cz/2236313/vyvoj-boju-1707-den-ukrajinsti-vojaci-jsou-stale-v-kostantynivce-plati-za-to-tragickou-dan/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2236313-1.mp3",
+      "published": "2026-10-28T17:42:50+00:00",
+      "published_day": "2026-10-28",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Vývoj bojů"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-28T20:40:18.738313+00:00",
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
+    },
+    {
+      "title": "Laskavá překvapení, ale i méně tlaku na výkon. Odborníci radí, jak zvládnout podzimní útlum a úzkosti",
+      "url": "https://denikn.cz/2233343/laskava-prekvapeni-ale-i-mene-tlaku-na-vykon-odbornici-radi-jak-zvladnout-podzimni-utlum-a-uzkosti/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2233343-1.mp3",
+      "published": "2026-10-28T17:15:43+00:00",
+      "published_day": "2026-10-28",
+      "categories": [
+        "Lifestyle",
+        "Duševní zdraví",
+        "Zdraví"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-28T20:40:18.738313+00:00",
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
+    },
+    {
+      "title": "Moláček: Babišovi to bouchlo do ksichtu, vláda se absolutně přepočítala. Na Letnou přijde půl milionu lidí",
+      "url": "https://denikn.cz/2236348/molacek-babisovi-to-bouchlo-do-ksichtu-vlada-se-absolutne-prepocitala-na-letnou-prijde-pul-milionu-lidi/",
+      "mp3_url": "https://static.novydenik.com/2026/10/Molacek-final.mp3",
+      "published": "2026-10-28T16:47:20+00:00",
+      "published_day": "2026-10-28",
+      "categories": [
+        "Audio",
+        "Česko",
+        "Podcast Studio N",
+        "Podcasty N",
+        "Média",
+        "Studio N",
+        "Televize",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-28T20:40:18.738313+00:00",
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
+    },
+    {
       "title": "Obrazem: „Nikdy se nedáme!“ Studenti zaplnili centrum Brna na podporu rozhlasu a televize",
       "url": "https://denikn.cz/2236251/obrazem-nikdy-se-nedame-studenti-zaplnili-centrum-brna-na-podporu-rozhlasu-a-televize/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2236251-1.mp3",
@@ -672,7 +754,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     },
     {
       "title": "Po srážce rychlovlaků ve Španělsku zemřely desítky lidí. Patří k nejtragičtějším vlakovým nehodám v dějinách země",
@@ -688,7 +770,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     },
     {
       "title": "Straší vypálením Detroitu i transgenderovým mrzačením. Trump a Vance varují před vítězstvím demokratů. Trumpův svět (646. den)",
@@ -705,7 +787,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     },
     {
       "title": "Jak se žije v zemi, kde je tenista Federer slavnější než prezident",
@@ -720,7 +802,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     },
     {
       "title": "Povolební Izrael postrádá vítěze. Změnu i demokracii podkopává odmítání arabských hlasů",
@@ -737,7 +819,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     },
     {
       "title": "Deník N slaví osm let své existence",
@@ -753,7 +835,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     },
     {
       "title": "Válečná stezka: Ukrajinský „Vivaldi“ úspěšně dokoncertoval, finsko-ruský telefonát ale budí otázky",
@@ -770,7 +852,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     },
     {
       "title": "„Došlo mi, že je ze mě vrah.“ Nový dokument ukazuje, jak nebezpečné může být „normální“ řízení",
@@ -788,7 +870,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     },
     {
       "title": "Nejpopulárnější knihy v Česku? Hlavně co nejvíc temnoty a toxicity. A sem tam trochu komunismu",
@@ -802,7 +884,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     },
     {
       "title": "Skutečnosti, na které by měl pamatovat ten, kdo se v jednáních postaví proti Putinovi",
@@ -818,7 +900,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     },
     {
       "title": "Sousedé a jejich Češi. Jak se vyvíjely naše názory na okolní země a pohled jejich obyvatel na nás",
@@ -832,7 +914,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-28T15:36:17.277095+00:00",
-      "last_seen": "2026-10-28T15:36:17.277095+00:00"
+      "last_seen": "2026-10-28T20:40:18.738313+00:00"
     }
   ]
 }
