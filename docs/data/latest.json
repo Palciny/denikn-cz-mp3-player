@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:42:47.083987+00:00",
+  "generated_at": "2026-10-29T20:43:55.462506+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 18,
-  "total_count": 4155,
+  "count": 25,
+  "total_count": 4162,
   "latest_day": "2026-10-29",
   "categories": [
     "(Ne)připravené Česko",
@@ -660,6 +660,126 @@
   ],
   "articles": [
     {
+      "title": "Pointa N: Jestli chce Babiš splnit slovo, měl by ČT a rozhlas vyslyšet",
+      "url": "https://denikn.cz/2237042/pointa-n-jestli-chce-babis-splnit-slovo-mel-by-ct-a-rozhlas-vyslyset/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2237042-1.mp3",
+      "published": "2026-10-29T19:22:03+00:00",
+      "published_day": "2026-10-29",
+      "categories": [
+        "Česko",
+        "Komentáře",
+        "Andrej Babiš",
+        "Hnutí ANO",
+        "Média",
+        "Názor",
+        "Pointa N",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-29T20:43:47.190857+00:00",
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
+    },
+    {
+      "title": "Pokračování Netanjahua, nebo dohoda s arabskými stranami. Jinou volbu dosavadní opozice v Izraeli nemá",
+      "url": "https://denikn.cz/2237924/pokracovani-netanjahua-nebo-dohoda-s-arabskymi-stranami-jinou-volbu-dosavadni-opozice-v-izraeli-nema/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2237924-1.mp3",
+      "published": "2026-10-29T19:06:19+00:00",
+      "published_day": "2026-10-29",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Blízký východ",
+        "Izrael",
+        "Názor"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-29T20:43:47.190857+00:00",
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
+    },
+    {
+      "title": "Vývoj bojů (1708. den): Rusové rozpoutali teror v ukrajinských městech. Útočili na vlak a autobus, zabíjeli i děti",
+      "url": "https://denikn.cz/2237427/vyvoj-boju-1708-den-rusove-rozpoutali-teror-v-ukrajinskych-mestech-utocili-na-vlak-a-autobus-zabijeli-i-deti/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2237427-1.mp3",
+      "published": "2026-10-29T18:31:59+00:00",
+      "published_day": "2026-10-29",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Vývoj bojů"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-29T20:43:47.190857+00:00",
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
+    },
+    {
+      "title": "„Taková akčnost nás překvapila.“ Vlnu protestů táhnou studentské iniciativy",
+      "url": "https://denikn.cz/2237774/takova-akcnost-nas-prekvapila-vlnu-protestu-tahnou-studentske-iniciativy/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2237774-2.mp3",
+      "published": "2026-10-29T17:48:12+00:00",
+      "published_day": "2026-10-29",
+      "categories": [
+        "Česko",
+        "Školství",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-29T20:43:47.190857+00:00",
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
+    },
+    {
+      "title": "Pojizerská revoluce. Babiš přichází o členy svého hnutí",
+      "url": "https://denikn.cz/2237763/pojizerska-revoluce-babis-prichazi-o-cleny-sveho-hnuti/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2237763-1.mp3",
+      "published": "2026-10-29T17:16:48+00:00",
+      "published_day": "2026-10-29",
+      "categories": [
+        "Česko",
+        "Andrej Babiš",
+        "Komunální volby",
+        "SPD",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-29T20:43:47.190857+00:00",
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
+    },
+    {
+      "title": "„Kritika vyplývá z neznalosti.“ Poslanci jednají o financování ČT a rozhlasu, přišla stovka lidí",
+      "url": "https://denikn.cz/2237771/kritika-vyplyva-z-neznalosti-poslanci-jednali-o-financovani-ct-a-rozhlasu-prisla-stovka-lidi/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2237771-2.mp3",
+      "published": "2026-10-29T17:03:07+00:00",
+      "published_day": "2026-10-29",
+      "categories": [
+        "Česko",
+        "Veřejnoprávní média"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-29T20:43:47.190857+00:00",
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
+    },
+    {
+      "title": "Dobří Američané táhnou na miliardáře. Demokraté se rozhodli porazit Donalda Trumpa vlastním populismem",
+      "url": "https://denikn.cz/2236957/dobri-americane-tahnou-na-miliardare-demokrate-se-rozhodli-porazit-donalda-trumpa-vlastnim-populismem/",
+      "mp3_url": "https://static.novydenik.com/2026/10/uspod-29-10-full.mp3",
+      "published": "2026-10-29T16:34:14+00:00",
+      "published_day": "2026-10-29",
+      "categories": [
+        "Audio",
+        "Podcast Amerika, bejby",
+        "Podcasty N",
+        "Amerika bejby",
+        "Francie",
+        "USA"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-29T20:43:47.190857+00:00",
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
+    },
+    {
       "title": "Revoluce v Londýně. Z rušné Oxford Street vytlačili auta a vznikla pěší zóna, kam nesmí ani cyklistka a koloběžkář",
       "url": "https://denikn.cz/2237507/revoluce-v-londyne-z-rusne-oxford-street-vytlacili-auta-a-vznikla-pesi-zona-kam-nesmi-ani-cyklistka-a-kolobezkar/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2237507-1.mp3",
@@ -671,7 +791,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Ikona fastfoodu McDonald’s se trápí, padají jí akcie. Plánuje přestavět restaurace",
@@ -686,7 +806,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Co bylo příčinou smrtící tragédie na španělské železnici? V Česku by se nestala, míní expert",
@@ -703,7 +823,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "„Alespoň zpochybnit situaci.“ Proč nikdo z bratrstva na Cornellově univerzitě nezasáhl?",
@@ -720,7 +840,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Babiš chybuje. Odchody z ANO mohou být předzvěst hlubší krize, říká politolog",
@@ -737,7 +857,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Komu patří 28. říjen? Z vyznamenání se stala další fronta mezi vládou a Hradem",
@@ -753,7 +873,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Blízkost ke Kremlu, slova o neonacistech a předsedkyně s dvojí tváří. Z AfD unikly statisíce e-mailů",
@@ -767,7 +887,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Více kontroly, méně peněz na válku s Íránem a více pro Ukrajinu. Co se stane, když demokraté vyhrají volby. Trumpův svět (647. den)",
@@ -783,7 +903,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Scrollování je jen iluze odpočinku. Psycholožka vysvětluje, jak skutečně vypnout v záplavě notifikací",
@@ -799,7 +919,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Co bude dál v Izraeli? Tři povolební scénáře",
@@ -814,7 +934,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Volby, které mohou přetvořit Evropu",
@@ -832,7 +952,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Teď musí všichni trošku zariskovat, jinak nám to tu zešedne do totality, říká herec Orozovič k protestům v ND",
@@ -849,7 +969,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Temné vyhlídky pro ČT i rozhlas. S vládou nastavenými příjmy budou čím dál slabší",
@@ -864,7 +984,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Policie obvinila známého lékaře z dalších sexuálních trestných činů. Soud mu zajistil majetek",
@@ -880,7 +1000,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Jak si geniální spisovatel H. G. Wells představoval svět v roce 2036 a proč byl příliš velký optimista",
@@ -897,7 +1017,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "„Ukliď si po sobě, já už nemůžu“: Co říká norská spisovatelka o vzteku žen a druhé směně",
@@ -912,7 +1032,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Mám publikum od plín do plín, říká písničkář Michal Horák před „největším koncertem nejmenšího písničkáře“",
@@ -928,7 +1048,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     },
     {
       "title": "Tři miliony v hotovosti výměnou za firmu v dluzích. Jak zmizely peníze z Portlíkova životního obchodu",
@@ -944,7 +1064,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-29T15:42:37.161226+00:00",
-      "last_seen": "2026-10-29T15:42:37.161226+00:00"
+      "last_seen": "2026-10-29T20:43:47.190857+00:00"
     }
   ]
 }
