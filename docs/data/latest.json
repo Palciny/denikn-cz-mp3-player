@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:25:11.373270+00:00",
+  "generated_at": "2026-10-30T20:15:20.578652+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 19,
-  "total_count": 4184,
+  "count": 29,
+  "total_count": 4194,
   "latest_day": "2026-10-30",
   "categories": [
     "(Ne)připravené Česko",
@@ -661,6 +661,175 @@
   ],
   "articles": [
     {
+      "title": "To není možné, říkali k objevu chemika Pavla Hobzy. Musíte mít kuráž a věřit si, že máte pravdu, říká vědec",
+      "url": "https://denikn.cz/2237973/to-neni-mozne-rikali-k-objevu-chemika-pavla-hobzy-musite-mit-kuraz-a-verit-si-ze-mate-pravdu-rika-vedec/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2237973-1.mp3",
+      "published": "2026-10-30T19:03:56+00:00",
+      "published_day": "2026-10-30",
+      "categories": [
+        "Česko",
+        "Věda",
+        "Příroda",
+        "Publicistika",
+        "Rozhovory"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-30T20:15:08.403357+00:00",
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
+    },
+    {
+      "title": "ANO zřejmě skončí na radnici Faltýnkova města. Pocítí to i tenisový boss Černošek",
+      "url": "https://denikn.cz/2238791/ano-zrejme-skonci-na-radnici-faltynkova-mesta-pociti-to-i-tenisovy-boss-cernosek/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2238791-1.mp3",
+      "published": "2026-10-30T18:27:59+00:00",
+      "published_day": "2026-10-30",
+      "categories": [
+        "Česko",
+        "Komunální volby",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-30T20:15:08.403357+00:00",
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
+    },
+    {
+      "title": "V hokeji se točí ruské peníze, bylo jasné, že se dřív nebo později vrátí. Potíž je i v tom, jak se to provedlo, říká sociolog sportu",
+      "url": "https://denikn.cz/2238926/v-hokeji-se-toci-ruske-penize-bylo-jasne-ze-se-driv-nebo-pozdeji-vrati-potiz-je-i-v-tom-jak-se-to-provedlo-rika-sociolog-sportu/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2238926-1.mp3",
+      "published": "2026-10-30T18:00:11+00:00",
+      "published_day": "2026-10-30",
+      "categories": [
+        "Sport",
+        "Hokej",
+        "Rusko"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-30T20:15:08.403357+00:00",
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
+    },
+    {
+      "title": "Vývoj bojů (1709. den): Nová statistika ukazuje, že kurská operace i Krynky skončily pro Ukrajince katastrofou",
+      "url": "https://denikn.cz/2238927/vyvoj-boju-1709-den-nova-statistika-ukazuje-ze-kurska-operace-i-krynky-skoncily-pro-ukrajince-katastrofou/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2238927-1.mp3",
+      "published": "2026-10-30T17:40:14+00:00",
+      "published_day": "2026-10-30",
+      "categories": [
+        "Komentáře",
+        "Svět",
+        "Ruská válka na Ukrajině",
+        "Vývoj bojů"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-30T20:15:08.403357+00:00",
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
+    },
+    {
+      "title": "„Bojí se jich – a já také.“ Aspirantka na starostku Berlína odhalila strach ze sympatizantů teroristů",
+      "url": "https://denikn.cz/2238475/boji-se-jich-a-ja-take-aspirantka-na-starostku-berlina-odhalila-strach-ze-sympatizantu-teroristu/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2238475-1.mp3",
+      "published": "2026-10-30T17:06:04+00:00",
+      "published_day": "2026-10-30",
+      "categories": [
+        "Svět",
+        "Extremismus",
+        "Německo"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-30T20:15:08.403357+00:00",
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
+    },
+    {
+      "title": "Pointa N: Klempířův úlet i Babišovo kličkování. Jak vláda pokračuje s rušením poplatků",
+      "url": "https://denikn.cz/2238925/pointa-n-klempiruv-ulet-i-babisovo-klickovani-jak-vlada-pokracuje-s-rusenim-poplatku/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2238925-1.mp3",
+      "published": "2026-10-30T16:32:28+00:00",
+      "published_day": "2026-10-30",
+      "categories": [
+        "Česko",
+        "Andrej Babiš",
+        "Motoristé sobě",
+        "Pointa N",
+        "Sněmovna",
+        "Tomio Okamura",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-30T20:15:08.403357+00:00",
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
+    },
+    {
+      "title": "„V Oxfordu bych se profesorkou stala snáz než v Praze.“ Expertka o tom, co brzdí vědu v Česku",
+      "url": "https://denikn.cz/2237016/v-oxfordu-bych-se-profesorkou-stala-snaz-nez-v-praze-expertka-o-tom-co-brzdi-vedu-v-cesku/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2237016-1.mp3",
+      "published": "2026-10-30T16:10:28+00:00",
+      "published_day": "2026-10-30",
+      "categories": [
+        "Česko",
+        "Věda",
+        "Matematika",
+        "Rozhovory",
+        "Školství",
+        "Umělá inteligence"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-30T20:15:08.403357+00:00",
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
+    },
+    {
+      "title": "Z Cambridge na Albertov: Příběhy českých vědců, kteří bourají hranice mezi obory",
+      "url": "https://denikn.cz/2226929/z-cambridge-na-albertov-pribehy-ceskych-vedcu-kteri-bouraji-hranice-mezi-obory/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2226929-1.mp3",
+      "published": "2026-10-30T16:10:17+00:00",
+      "published_day": "2026-10-30",
+      "categories": [
+        "Česko",
+        "Věda",
+        "Historie",
+        "Příroda",
+        "Školství",
+        "Veřejné finance",
+        "Zdravotnictví",
+        "Životní prostředí"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-30T20:15:08.403357+00:00",
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
+    },
+    {
+      "title": "Velkolepě děsivý kyberútok na Binance: z KLDR je hackerská supervelmoc. A není to k smíchu",
+      "url": "https://denikn.cz/2238499/velkolepe-desivy-kyberutok-na-binance-z-kldr-je-hackerska-supervelmoc-a-neni-to-k-smichu/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2238499-2.mp3",
+      "published": "2026-10-30T15:54:16+00:00",
+      "published_day": "2026-10-30",
+      "categories": [
+        "Ekonomika",
+        "Svět",
+        "Hackeři a kyberbezpečnost",
+        "Kryptoměny",
+        "Východní Asie"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-30T20:15:08.403357+00:00",
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
+    },
+    {
+      "title": "Senátor Mohamed míří do Washingtonu a éra Donalda Trumpa nejspíš končí",
+      "url": "https://denikn.cz/2238960/socialista-populista-kapitalista-americke-volby-napovi-o-budoucnosti-zeme-vic-nez-se-pred-rokem-cekalo/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2238960-2.mp3",
+      "published": "2026-10-30T15:24:51+00:00",
+      "published_day": "2026-10-30",
+      "categories": [
+        "Kontext N",
+        "Svět",
+        "Analýza",
+        "Donald Trump",
+        "USA"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-30T20:15:08.403357+00:00",
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
+    },
+    {
       "title": "Kdy praskne AI bublina a co to bude znamenat?",
       "url": "https://denikn.cz/2234459/kdy-praskne-ai-bublina-a-co-to-bude-znamenat/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2234459-1.mp3",
@@ -676,7 +845,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Studio N: Francouzi v ulicích, Vučić na kolenou. Co se stane, když mladým dojde trpělivost",
@@ -695,7 +864,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Doufám, že start ruských hokejistů politici zakážou. Měli to udělat už dávno, říká Hašek",
@@ -713,7 +882,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Šťastný: Nemám nic proti tomu, aby Rusové startovali pod neutrální vlajkou",
@@ -731,7 +900,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Do voleb zbývá pět dní. Trump musí zachraňovat i tradičně „republikánské“ státy. Trumpův svět (648. den)",
@@ -748,7 +917,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Rusové se mohou vrátit do světového hokeje. Přelomový verdikt se dotkne i turnaje v Česku",
@@ -765,7 +934,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Hadamczik k návratu Rusů na mistrovství: „Pokud evropské země z šampionátu odstoupí, Česko nemůže být výjimkou“",
@@ -783,7 +952,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Babiš vrací do hry dobrovolné příspěvky pro ČT a ČRo. „Nezávislost tím nezajistí,“ varují experti",
@@ -800,7 +969,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Žijeme v oligarchické demokracii, kde si jen volíme mocnou menšinu, říká politoložka",
@@ -815,7 +984,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Tesco v Česku připadne majiteli Albertu. Zákazníci na tom můžou vydělat, míní experti",
@@ -830,7 +999,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Elektroauto má levnější servis, ale dražší pojistku. Expert porovnává náklady se spalovákem",
@@ -846,7 +1015,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Elitní běžec Vích: Zlepšil jsem se, když jsem přibral. Jíst tolik je občas boj, ale vím, že musím",
@@ -860,7 +1029,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Přijde vystřízlivění z AI? Analytici radí, čeho si všímat a co patří mezi bezpečnější alternativy",
@@ -876,7 +1045,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Neviditelná tvář české egyptologie. Příběh nenápadné učitelky, která Čechům přiblížila zemi na Nilu",
@@ -890,7 +1059,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Víkend bez politiky: Vydejte se do podzimní přírody dříve, než opadá listí. Nebo Klempíř",
@@ -907,7 +1076,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Proč bychom měli chtít zemřít?",
@@ -921,7 +1090,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Deštník a slunečník napříč světem a staletími: předmět všední i pohádkový",
@@ -935,7 +1104,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Chcete slyšet skladbu pro všechny klavíry v obchodě? Praha poctí devadesátiletého Stevea Reicha",
@@ -949,7 +1118,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     },
     {
       "title": "Co o české národní identitě prozrazují naši skladatelé a jejich láska k cizímu",
@@ -966,7 +1135,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-30T15:25:00.487207+00:00",
-      "last_seen": "2026-10-30T15:25:00.487207+00:00"
+      "last_seen": "2026-10-30T20:15:08.403357+00:00"
     }
   ]
 }
