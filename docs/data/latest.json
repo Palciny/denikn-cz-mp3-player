@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T14:53:46.927097+00:00",
+  "generated_at": "2026-10-31T19:37:28.119507+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 4,
-  "total_count": 4198,
+  "count": 6,
+  "total_count": 4200,
   "latest_day": "2026-10-31",
   "categories": [
     "(Ne)připravené Česko",
@@ -662,6 +662,41 @@
   ],
   "articles": [
     {
+      "title": "„Proti AI nemáme šanci, můžeme jen vyvinout stroje, které zápas s ní vybojují za nás,“ říká matematik",
+      "url": "https://denikn.cz/2234730/proti-ai-nemame-sanci-muzeme-jen-vyvinout-stroje-ktere-zapas-s-ni-vybojuji-za-nas-rika-matematik/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2234730-1.mp3",
+      "published": "2026-10-31T16:56:15+00:00",
+      "published_day": "2026-10-31",
+      "categories": [
+        "Lifestyle",
+        "Věda",
+        "Duševní zdraví",
+        "Příroda",
+        "Publicistika",
+        "Rozhovory",
+        "Umělá inteligence"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-31T19:37:19.988235+00:00",
+      "last_seen": "2026-10-31T19:37:19.988235+00:00"
+    },
+    {
+      "title": "Jak budou vypadat světová ekonomika a akciové trhy v roce 2050. USA budou menší, jejich burza možná ne",
+      "url": "https://denikn.cz/2234662/jak-budou-vypadat-svetova-ekonomika-a-akciove-trhy-v-roce-2050-usa-budou-mensi-jejich-burza-mozna-ne/",
+      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2234662-1.mp3",
+      "published": "2026-10-31T15:33:07+00:00",
+      "published_day": "2026-10-31",
+      "categories": [
+        "Ekonomika",
+        "Komentáře",
+        "Byznys",
+        "Trhy"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-10-31T19:37:19.988235+00:00",
+      "last_seen": "2026-10-31T19:37:19.988235+00:00"
+    },
+    {
       "title": "My že jsme darmožrouti? Letošní Ji.hlava žila nejen filmem, ale i protivládními protesty",
       "url": "https://denikn.cz/2239214/my-ze-jsme-darmozrouti-letosni-ji-hlava-zila-nejen-filmem-ale-i-protivladnimi-protesty/",
       "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2239214-1.mp3",
@@ -679,7 +714,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-31T14:53:36.583941+00:00",
-      "last_seen": "2026-10-31T14:53:36.583941+00:00"
+      "last_seen": "2026-10-31T19:37:19.988235+00:00"
     },
     {
       "title": "Polský prezident dobývající se do budovy ústavního soudu? Nepřekvapuje mě to, říká analytik a vysvětluje proč",
@@ -694,7 +729,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-31T14:53:36.583941+00:00",
-      "last_seen": "2026-10-31T14:53:36.583941+00:00"
+      "last_seen": "2026-10-31T19:37:19.988235+00:00"
     },
     {
       "title": "Field, Romancov a spol. live: Historii nemůžeme ignorovat, naše vztahy definuje i Mnichov",
@@ -715,7 +750,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-31T14:53:36.583941+00:00",
-      "last_seen": "2026-10-31T14:53:36.583941+00:00"
+      "last_seen": "2026-10-31T19:37:19.988235+00:00"
     },
     {
       "title": "Čtyři české galerie slaví svá kulatá výročí: zvou do cizích pokojíčků i k sázení stromů",
@@ -730,7 +765,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-10-31T14:53:36.583941+00:00",
-      "last_seen": "2026-10-31T14:53:36.583941+00:00"
+      "last_seen": "2026-10-31T19:37:19.988235+00:00"
     }
   ]
 }
