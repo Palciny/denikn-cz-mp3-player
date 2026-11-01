@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T19:37:28.119507+00:00",
+  "generated_at": "2026-11-01T15:33:34.543167+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -12,8 +12,8 @@
     "https://denikn.cz/audio/feed"
   ],
   "count": 6,
-  "total_count": 4200,
-  "latest_day": "2026-10-31",
+  "total_count": 4206,
+  "latest_day": "2026-11-01",
   "categories": [
     "(Ne)připravené Česko",
     "17. listopad",
@@ -100,6 +100,7 @@
     "Hlavní",
     "Hnutí ANO",
     "Hokej",
+    "Hokejové mistrovství světa",
     "Hradní schůzky",
     "Hubnutí",
     "Hudba",
@@ -377,6 +378,7 @@
     "Životní prostředí"
   ],
   "published_days": [
+    "2026-11-01",
     "2026-10-31",
     "2026-10-30",
     "2026-10-29",
@@ -662,110 +664,109 @@
   ],
   "articles": [
     {
-      "title": "„Proti AI nemáme šanci, můžeme jen vyvinout stroje, které zápas s ní vybojují za nás,“ říká matematik",
-      "url": "https://denikn.cz/2234730/proti-ai-nemame-sanci-muzeme-jen-vyvinout-stroje-ktere-zapas-s-ni-vybojuji-za-nas-rika-matematik/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2234730-1.mp3",
-      "published": "2026-10-31T16:56:15+00:00",
-      "published_day": "2026-10-31",
+      "title": "Rusové zpět na MS? Může to přinést šílenou situaci, říká Dusík",
+      "url": "https://denikn.cz/2240200/rusove-zpet-na-ms-muze-to-prinest-silenou-situaci-rika-dusik/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2240200-1.mp3",
+      "published": "2026-11-01T14:48:04+00:00",
+      "published_day": "2026-11-01",
       "categories": [
-        "Lifestyle",
-        "Věda",
-        "Duševní zdraví",
-        "Příroda",
-        "Publicistika",
+        "Česko",
         "Rozhovory",
-        "Umělá inteligence"
+        "Sport",
+        "Hokej",
+        "Hokejové mistrovství světa",
+        "Ruská válka na Ukrajině",
+        "Rusko"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-31T19:37:19.988235+00:00",
-      "last_seen": "2026-10-31T19:37:19.988235+00:00"
+      "first_seen": "2026-11-01T15:33:25.273336+00:00",
+      "last_seen": "2026-11-01T15:33:25.273336+00:00"
     },
     {
-      "title": "Jak budou vypadat světová ekonomika a akciové trhy v roce 2050. USA budou menší, jejich burza možná ne",
-      "url": "https://denikn.cz/2234662/jak-budou-vypadat-svetova-ekonomika-a-akciove-trhy-v-roce-2050-usa-budou-mensi-jejich-burza-mozna-ne/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2234662-1.mp3",
-      "published": "2026-10-31T15:33:07+00:00",
-      "published_day": "2026-10-31",
+      "title": "V zajetí nekonečného přerušování. Mozek jsme naučili reagovat už i na upozornění, která vůbec nejsou pro nás, říká vědec",
+      "url": "https://denikn.cz/2228353/v-zajeti-nekonecneho-prerusovani-mozek-jsme-naucili-reagovat-uz-i-na-upozorneni-ktera-vubec-nejsou-pro-nas-rika-vedec/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2228353-1.mp3",
+      "published": "2026-11-01T10:00:30+00:00",
+      "published_day": "2026-11-01",
       "categories": [
         "Ekonomika",
-        "Komentáře",
-        "Byznys",
-        "Trhy"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-31T19:37:19.988235+00:00",
-      "last_seen": "2026-10-31T19:37:19.988235+00:00"
-    },
-    {
-      "title": "My že jsme darmožrouti? Letošní Ji.hlava žila nejen filmem, ale i protivládními protesty",
-      "url": "https://denikn.cz/2239214/my-ze-jsme-darmozrouti-letosni-ji-hlava-zila-nejen-filmem-ale-i-protivladnimi-protesty/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2239214-1.mp3",
-      "published": "2026-10-31T13:39:24+00:00",
-      "published_day": "2026-10-31",
-      "categories": [
-        "Česko",
-        "Kultura",
-        "Festivaly",
-        "Film",
-        "Kulturní politika",
-        "Reportáž",
-        "Televize",
-        "Veřejnoprávní média"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-31T14:53:36.583941+00:00",
-      "last_seen": "2026-10-31T19:37:19.988235+00:00"
-    },
-    {
-      "title": "Polský prezident dobývající se do budovy ústavního soudu? Nepřekvapuje mě to, říká analytik a vysvětluje proč",
-      "url": "https://denikn.cz/2239720/polsko-by-dnes-nesplnilo-podminky-k-prijeti-do-eu-soudy-jsou-dlouhodobe-zpolitizovane-rika-analytik/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2239720-1-2.mp3",
-      "published": "2026-10-31T12:12:47+00:00",
-      "published_day": "2026-10-31",
-      "categories": [
         "Rozhovory",
-        "Svět",
-        "Polsko"
+        "Věda",
+        "Sociální sítě"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-31T14:53:36.583941+00:00",
-      "last_seen": "2026-10-31T19:37:19.988235+00:00"
+      "first_seen": "2026-11-01T15:33:25.273336+00:00",
+      "last_seen": "2026-11-01T15:33:25.273336+00:00"
     },
     {
-      "title": "Field, Romancov a spol. live: Historii nemůžeme ignorovat, naše vztahy definuje i Mnichov",
-      "url": "https://denikn.cz/2237212/field-romancov-a-spol-live-historii-nemuzeme-ignorovat-nase-vztahy-definuje-i-mnichov/",
-      "mp3_url": "https://static.novydenik.com/2026/10/rAS-31-10-special-full.mp3",
-      "published": "2026-10-31T09:00:00+00:00",
-      "published_day": "2026-10-31",
+      "title": "„To aby ten pískot nebyl tak hlasitý.“ Dnešní udílení kulturních státních cen proběhne bez publika a médií",
+      "url": "https://denikn.cz/2239131/to-aby-ten-piskot-nebyl-tak-hlasity-dnesni-udileni-kulturnich-statnich-cen-probehne-bez-publika-a-medii/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2239131-2.mp3",
+      "published": "2026-11-01T09:15:06+00:00",
+      "published_day": "2026-11-01",
       "categories": [
-        "Audio",
         "Česko",
-        "Historie",
-        "Podcast Romancov & spol.",
-        "Podcasty N",
-        "Brexit",
-        "Británie",
-        "Diplomacie",
-        "Romancov & spol."
+        "Kultura",
+        "Kulturní politika",
+        "Kulturní provoz",
+        "Literatura",
+        "Oto Klempíř"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-31T14:53:36.583941+00:00",
-      "last_seen": "2026-10-31T19:37:19.988235+00:00"
+      "first_seen": "2026-11-01T15:33:25.273336+00:00",
+      "last_seen": "2026-11-01T15:33:25.273336+00:00"
     },
     {
-      "title": "Čtyři české galerie slaví svá kulatá výročí: zvou do cizích pokojíčků i k sázení stromů",
-      "url": "https://denikn.cz/2227199/ctyri-ceske-galerie-slavi-sva-kulata-vyroci-zvou-do-cizich-pokojicku-i-k-sazeni-stromu/",
-      "mp3_url": "https://static.novydenik.com/2026/10/neural-audio-elevenlabs-2227199-1.mp3",
-      "published": "2026-10-31T05:30:00+00:00",
-      "published_day": "2026-10-31",
+      "title": "Když jste rezignovaní, musíte začít tím nejhorším. Já uklízel záchody na ubytovně, říká oceněný Vishwanathan",
+      "url": "https://denikn.cz/2238823/s-ceskem-jsem-totalne-provazany-verim-mu-rika-oceneny-vishwanathan/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2238823-2.mp3",
+      "published": "2026-11-01T07:00:00+00:00",
+      "published_day": "2026-11-01",
+      "categories": [
+        "Česko",
+        "Rozhovory",
+        "LGBTQ",
+        "Menšiny",
+        "Petr Pavel",
+        "Publicistika",
+        "Romové",
+        "Školství",
+        "Sociální politika"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-01T15:33:25.273336+00:00",
+      "last_seen": "2026-11-01T15:33:25.273336+00:00"
+    },
+    {
+      "title": "Poťouchlost mimořádné Marty léčí naši posedlost krvavým true crime",
+      "url": "https://denikn.cz/2239184/potouchlost-mimoradne-marty-leci-nasi-posedlost-krvavym-true-crime/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2239184-1.mp3",
+      "published": "2026-11-01T06:00:00+00:00",
+      "published_day": "2026-11-01",
       "categories": [
         "Kultura",
-        "Newsletter live!",
-        "Výtvarné umění"
+        "Plevel",
+        "Recenze",
+        "Televize"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-10-31T14:53:36.583941+00:00",
-      "last_seen": "2026-10-31T19:37:19.988235+00:00"
+      "first_seen": "2026-11-01T15:33:25.273336+00:00",
+      "last_seen": "2026-11-01T15:33:25.273336+00:00"
+    },
+    {
+      "title": "Zavařit mozek, uchechtat se i něco se dozvědět. Deset (+ třicet) nových knih pro děti od čtyř do čtrnácti let",
+      "url": "https://denikn.cz/2210491/zavarit-mozek-uchechtat-se-i-neco-se-dozvedet-deset-tricet-novych-knih-pro-deti-od-ctyr-do-ctrnacti-let/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2210491-1.mp3",
+      "published": "2026-11-01T05:30:00+00:00",
+      "published_day": "2026-11-01",
+      "categories": [
+        "Kultura",
+        "Dětské knihy",
+        "Literatura"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-01T15:33:25.273336+00:00",
+      "last_seen": "2026-11-01T15:33:25.273336+00:00"
     }
   ]
 }
