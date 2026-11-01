@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:33:34.543167+00:00",
+  "generated_at": "2026-11-01T19:57:22.465283+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 6,
-  "total_count": 4206,
+  "count": 7,
+  "total_count": 4207,
   "latest_day": "2026-11-01",
   "categories": [
     "(Ne)připravené Česko",
@@ -664,6 +664,25 @@
   ],
   "articles": [
     {
+      "title": "„Temnotu drží na uzdě malé skutky obyčejných lidí.“ Ministerstvo kultury udělilo státní ceny, bez médií i bez Klempíře",
+      "url": "https://denikn.cz/2240448/temnotu-drzi-na-uzde-male-skutky-obycejnych-lidi-ministerstvo-kultury-udelilo-statni-ceny-bez-medii-i-bez-klempire/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2240448-2.mp3",
+      "published": "2026-11-01T18:03:37+00:00",
+      "published_day": "2026-11-01",
+      "categories": [
+        "Česko",
+        "Kultura",
+        "Divadlo",
+        "Hudba",
+        "Kulturní politika",
+        "Literatura",
+        "Oto Klempíř"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-01T19:57:11.988932+00:00",
+      "last_seen": "2026-11-01T19:57:11.988932+00:00"
+    },
+    {
       "title": "Rusové zpět na MS? Může to přinést šílenou situaci, říká Dusík",
       "url": "https://denikn.cz/2240200/rusove-zpet-na-ms-muze-to-prinest-silenou-situaci-rika-dusik/",
       "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2240200-1.mp3",
@@ -680,7 +699,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-01T15:33:25.273336+00:00",
-      "last_seen": "2026-11-01T15:33:25.273336+00:00"
+      "last_seen": "2026-11-01T19:57:11.988932+00:00"
     },
     {
       "title": "V zajetí nekonečného přerušování. Mozek jsme naučili reagovat už i na upozornění, která vůbec nejsou pro nás, říká vědec",
@@ -696,7 +715,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-01T15:33:25.273336+00:00",
-      "last_seen": "2026-11-01T15:33:25.273336+00:00"
+      "last_seen": "2026-11-01T19:57:11.988932+00:00"
     },
     {
       "title": "„To aby ten pískot nebyl tak hlasitý.“ Dnešní udílení kulturních státních cen proběhne bez publika a médií",
@@ -714,7 +733,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-01T15:33:25.273336+00:00",
-      "last_seen": "2026-11-01T15:33:25.273336+00:00"
+      "last_seen": "2026-11-01T19:57:11.988932+00:00"
     },
     {
       "title": "Když jste rezignovaní, musíte začít tím nejhorším. Já uklízel záchody na ubytovně, říká oceněný Vishwanathan",
@@ -735,7 +754,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-01T15:33:25.273336+00:00",
-      "last_seen": "2026-11-01T15:33:25.273336+00:00"
+      "last_seen": "2026-11-01T19:57:11.988932+00:00"
     },
     {
       "title": "Poťouchlost mimořádné Marty léčí naši posedlost krvavým true crime",
@@ -751,7 +770,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-01T15:33:25.273336+00:00",
-      "last_seen": "2026-11-01T15:33:25.273336+00:00"
+      "last_seen": "2026-11-01T19:57:11.988932+00:00"
     },
     {
       "title": "Zavařit mozek, uchechtat se i něco se dozvědět. Deset (+ třicet) nových knih pro děti od čtyř do čtrnácti let",
@@ -766,7 +785,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-01T15:33:25.273336+00:00",
-      "last_seen": "2026-11-01T15:33:25.273336+00:00"
+      "last_seen": "2026-11-01T19:57:11.988932+00:00"
     }
   ]
 }
