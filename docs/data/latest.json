@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T15:15:46.262917+00:00",
+  "generated_at": "2026-11-07T19:43:14.407383+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 4,
-  "total_count": 4347,
+  "count": 7,
+  "total_count": 4350,
   "latest_day": "2026-11-07",
   "categories": [
     "(Ne)připravené Česko",
@@ -672,6 +672,53 @@
   ],
   "articles": [
     {
+      "title": "Šest obětí v Krakově. Zadržený Polák střílel upravenou puškou",
+      "url": "https://denikn.cz/2249402/sest-obeti-v-krakove-zadrzeny-polak-strilel-upravenou-puskou/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2249402-1.mp3",
+      "published": "2026-11-07T19:04:52+00:00",
+      "published_day": "2026-11-07",
+      "categories": [
+        "Svět",
+        "Polsko"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-07T19:43:06.646929+00:00",
+      "last_seen": "2026-11-07T19:43:06.646929+00:00"
+    },
+    {
+      "title": "„Že milujete svou skupinu, neznamená, že musíte nenávidět jiné,“ říká vědkyně, která zkoumá, jak spojit rozdělenou společnost",
+      "url": "https://denikn.cz/2245144/ze-milujete-svou-skupinu-neznamena-ze-musite-nenavidet-jine-rika-vedkyne-ktera-zkouma-jak-spojit-rozdelenou-spolecnost/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2245144-1.mp3",
+      "published": "2026-11-07T17:31:46+00:00",
+      "published_day": "2026-11-07",
+      "categories": [
+        "Lifestyle",
+        "Věda",
+        "Publicistika",
+        "Rodina a vztahy",
+        "Rozhovory"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-07T19:43:06.646929+00:00",
+      "last_seen": "2026-11-07T19:43:06.646929+00:00"
+    },
+    {
+      "title": "Čínský špion odletěl z Česka. Vláda čeká, jestli teď Peking propustí zadržovaného Čecha",
+      "url": "https://denikn.cz/2249182/cinsky-spion-odletel-z-ceska-vlada-ceka-jestli-peking-propusti-zadrzovaneho-cecha/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2249182-2.mp3",
+      "published": "2026-11-07T16:17:57+00:00",
+      "published_day": "2026-11-07",
+      "categories": [
+        "Česko",
+        "Čínský vliv v ČR",
+        "Investigativa",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-07T19:43:06.646929+00:00",
+      "last_seen": "2026-11-07T19:43:06.646929+00:00"
+    },
+    {
       "title": "Tady jsem pořád cizinka, ale domů už nepatřím. Cena za emigraci je vysoká, popisuje učitelka z Běloruska",
       "url": "https://denikn.cz/2183896/tady-jsem-porad-cizinka-ale-domu-uz-nepatrim-cena-za-emigraci-je-vysoka-popisuje-ucitelka-z-beloruska/",
       "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2183896-1.mp3",
@@ -686,7 +733,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-07T15:15:37.186168+00:00",
-      "last_seen": "2026-11-07T15:15:37.186168+00:00"
+      "last_seen": "2026-11-07T19:43:06.646929+00:00"
     },
     {
       "title": "Proč (nejen) na Broumovsku tolik dětí nedokončí ani základní školu?",
@@ -703,7 +750,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-07T15:15:37.186168+00:00",
-      "last_seen": "2026-11-07T15:15:37.186168+00:00"
+      "last_seen": "2026-11-07T19:43:06.646929+00:00"
     },
     {
       "title": "Proč „snažit se více“ zkrátka někdy doopravdy nestačí",
@@ -717,7 +764,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-07T15:15:37.186168+00:00",
-      "last_seen": "2026-11-07T15:15:37.186168+00:00"
+      "last_seen": "2026-11-07T19:43:06.646929+00:00"
     },
     {
       "title": "Půjde to smazat, mami? Nová kniha účinně upozorňuje na nebezpečí z dětských pokojíčků",
@@ -735,7 +782,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-07T15:15:37.186168+00:00",
-      "last_seen": "2026-11-07T15:15:37.186168+00:00"
+      "last_seen": "2026-11-07T19:43:06.646929+00:00"
     }
   ]
 }
