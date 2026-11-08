@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T15:39:26.537406+00:00",
+  "generated_at": "2026-11-08T20:01:44.015075+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 6,
-  "total_count": 4356,
+  "count": 7,
+  "total_count": 4357,
   "latest_day": "2026-11-08",
   "categories": [
     "(Ne)připravené Česko",
@@ -673,6 +673,20 @@
   ],
   "articles": [
     {
+      "title": "Je Oldřich Kaiser odpůrce ČT, nebo geniální provokatér? Jasno v tom nemá ani Lábus",
+      "url": "https://denikn.cz/2249707/je-oldrich-kaiser-odpurce-ct-nebo-genialni-provokater-jasno-v-tom-nema-ani-labus/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2249707-3.mp3",
+      "published": "2026-11-08T16:16:21+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Česko",
+        "Veřejnoprávní média"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-08T20:01:35.048569+00:00",
+      "last_seen": "2026-11-08T20:01:35.048569+00:00"
+    },
+    {
       "title": "„Projev arogance i vlastní nadřazenosti.“ Macinka urazil hokejistky a schytal tvrdou kritiku i v koalici",
       "url": "https://denikn.cz/2249812/projev-arogance-i-vlastni-nadrazenosti-macinka-urazil-hokejistky-sportovkyn-se-zastal-i-stastny/",
       "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2249812-2.mp3",
@@ -686,7 +700,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-08T15:39:17.675021+00:00",
-      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+      "last_seen": "2026-11-08T20:01:35.048569+00:00"
     },
     {
       "title": "Starostové raketově posilují a nečekaně dýchají Babišovi na záda, ukazuje průzkum",
@@ -703,7 +717,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-08T15:39:17.675021+00:00",
-      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+      "last_seen": "2026-11-08T20:01:35.048569+00:00"
     },
     {
       "title": "Umělkyně, která odmítla cenu od Klempíře: Jsme svědky fašizace, není čas váhat",
@@ -720,7 +734,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-08T15:39:17.675021+00:00",
-      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+      "last_seen": "2026-11-08T20:01:35.048569+00:00"
     },
     {
       "title": "Lekce Heleny Vondráčkové: co její novinka Stříbrný vítr říká o ní a o naší současnosti",
@@ -735,7 +749,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-08T15:39:17.675021+00:00",
-      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+      "last_seen": "2026-11-08T20:01:35.048569+00:00"
     },
     {
       "title": "Komiksový debut Pavla Mandyse je pro děti nad 35 let: Mohl v Rakousku-Uhersku golem honit čerty?",
@@ -750,7 +764,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-08T15:39:17.675021+00:00",
-      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+      "last_seen": "2026-11-08T20:01:35.048569+00:00"
     },
     {
       "title": "„Hrdinové.“ Poláci vzdávají hold zraněným policistům, kteří se nezalekli střelce",
@@ -764,7 +778,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-08T15:39:17.675021+00:00",
-      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+      "last_seen": "2026-11-08T20:01:35.048569+00:00"
     }
   ]
 }
