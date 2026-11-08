@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:43:14.407383+00:00",
+  "generated_at": "2026-11-08T15:39:26.537406+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,9 +11,9 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 7,
-  "total_count": 4350,
-  "latest_day": "2026-11-07",
+  "count": 6,
+  "total_count": 4356,
+  "latest_day": "2026-11-08",
   "categories": [
     "(Ne)připravené Česko",
     "17. listopad",
@@ -380,6 +380,7 @@
     "Životní prostředí"
   ],
   "published_days": [
+    "2026-11-08",
     "2026-11-07",
     "2026-11-06",
     "2026-11-05",
@@ -672,117 +673,98 @@
   ],
   "articles": [
     {
-      "title": "Šest obětí v Krakově. Zadržený Polák střílel upravenou puškou",
-      "url": "https://denikn.cz/2249402/sest-obeti-v-krakove-zadrzeny-polak-strilel-upravenou-puskou/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2249402-1.mp3",
-      "published": "2026-11-07T19:04:52+00:00",
-      "published_day": "2026-11-07",
+      "title": "„Projev arogance i vlastní nadřazenosti.“ Macinka urazil hokejistky a schytal tvrdou kritiku i v koalici",
+      "url": "https://denikn.cz/2249812/projev-arogance-i-vlastni-nadrazenosti-macinka-urazil-hokejistky-sportovkyn-se-zastal-i-stastny/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2249812-2.mp3",
+      "published": "2026-11-08T14:21:22+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Česko",
+        "Hokej",
+        "Motoristé sobě",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-08T15:39:17.675021+00:00",
+      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+    },
+    {
+      "title": "Starostové raketově posilují a nečekaně dýchají Babišovi na záda, ukazuje průzkum",
+      "url": "https://denikn.cz/2249722/starostove-raketove-posiluji-a-necekane-dychaji-babisovi-na-zada-ukazuje-pruzkum/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2249722-2-1.mp3",
+      "published": "2026-11-08T12:08:28+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Česko",
+        "Analýza",
+        "Hnutí ANO",
+        "Průzkum veřejného mínění",
+        "STAN"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-08T15:39:17.675021+00:00",
+      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+    },
+    {
+      "title": "Umělkyně, která odmítla cenu od Klempíře: Jsme svědky fašizace, není čas váhat",
+      "url": "https://denikn.cz/2249113/umelkyne-ktera-odmitla-cenu-od-klempire-jsme-svedky-fasizace-neni-cas-vahat/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2249113-1-1.mp3",
+      "published": "2026-11-08T09:24:26+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Česko",
+        "Kultura",
+        "Oto Klempíř",
+        "Vláda Andreje Babiše",
+        "Výtvarné umění"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-08T15:39:17.675021+00:00",
+      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+    },
+    {
+      "title": "Lekce Heleny Vondráčkové: co její novinka Stříbrný vítr říká o ní a o naší současnosti",
+      "url": "https://denikn.cz/2248411/lekce-heleny-vondrackove-co-jeji-novinka-rika-o-ni-a-o-nasi-soucasnosti/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2248411-2.mp3",
+      "published": "2026-11-08T05:30:00+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Kultura",
+        "Hudba",
+        "Plevel"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-08T15:39:17.675021+00:00",
+      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+    },
+    {
+      "title": "Komiksový debut Pavla Mandyse je pro děti nad 35 let: Mohl v Rakousku-Uhersku golem honit čerty?",
+      "url": "https://denikn.cz/2246901/komiksovy-debut-pavla-mandyse-je-pro-deti-nad-35-let-mohl-v-rakousku-uhersku-golem-honit-certy/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2246901-1.mp3",
+      "published": "2026-11-08T05:30:00+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Kultura",
+        "Komiks",
+        "Literatura"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-08T15:39:17.675021+00:00",
+      "last_seen": "2026-11-08T15:39:17.675021+00:00"
+    },
+    {
+      "title": "„Hrdinové.“ Poláci vzdávají hold zraněným policistům, kteří se nezalekli střelce",
+      "url": "https://denikn.cz/2249502/hrdina-polaci-vzdavaji-hold-policistovi-ktery-se-nezalekl-strelce/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2249502-1-1.mp3",
+      "published": "2026-11-08T04:42:00+00:00",
+      "published_day": "2026-11-08",
       "categories": [
         "Svět",
         "Polsko"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-07T19:43:06.646929+00:00",
-      "last_seen": "2026-11-07T19:43:06.646929+00:00"
-    },
-    {
-      "title": "„Že milujete svou skupinu, neznamená, že musíte nenávidět jiné,“ říká vědkyně, která zkoumá, jak spojit rozdělenou společnost",
-      "url": "https://denikn.cz/2245144/ze-milujete-svou-skupinu-neznamena-ze-musite-nenavidet-jine-rika-vedkyne-ktera-zkouma-jak-spojit-rozdelenou-spolecnost/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2245144-1.mp3",
-      "published": "2026-11-07T17:31:46+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Lifestyle",
-        "Věda",
-        "Publicistika",
-        "Rodina a vztahy",
-        "Rozhovory"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-07T19:43:06.646929+00:00",
-      "last_seen": "2026-11-07T19:43:06.646929+00:00"
-    },
-    {
-      "title": "Čínský špion odletěl z Česka. Vláda čeká, jestli teď Peking propustí zadržovaného Čecha",
-      "url": "https://denikn.cz/2249182/cinsky-spion-odletel-z-ceska-vlada-ceka-jestli-peking-propusti-zadrzovaneho-cecha/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2249182-2.mp3",
-      "published": "2026-11-07T16:17:57+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Česko",
-        "Čínský vliv v ČR",
-        "Investigativa",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-07T19:43:06.646929+00:00",
-      "last_seen": "2026-11-07T19:43:06.646929+00:00"
-    },
-    {
-      "title": "Tady jsem pořád cizinka, ale domů už nepatřím. Cena za emigraci je vysoká, popisuje učitelka z Běloruska",
-      "url": "https://denikn.cz/2183896/tady-jsem-porad-cizinka-ale-domu-uz-nepatrim-cena-za-emigraci-je-vysoka-popisuje-ucitelka-z-beloruska/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2183896-1.mp3",
-      "published": "2026-11-07T08:00:00+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Česko",
-        "Svět",
-        "Bělorusko",
-        "Očima Bělorusů v Česku",
-        "Rozhovory"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-07T15:15:37.186168+00:00",
-      "last_seen": "2026-11-07T19:43:06.646929+00:00"
-    },
-    {
-      "title": "Proč (nejen) na Broumovsku tolik dětí nedokončí ani základní školu?",
-      "url": "https://denikn.cz/2245315/proc-nejen-na-broumovsku-tolik-deti-nedokonci-ani-zakladni-skolu/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2245315-1.mp3",
-      "published": "2026-11-07T07:34:35+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Česko",
-        "Chudoba",
-        "Královéhradecký kraj",
-        "Publicistika",
-        "Školství"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-07T15:15:37.186168+00:00",
-      "last_seen": "2026-11-07T19:43:06.646929+00:00"
-    },
-    {
-      "title": "Proč „snažit se více“ zkrátka někdy doopravdy nestačí",
-      "url": "https://denikn.cz/2248270/proc-snazit-se-vice-zkratka-nekdy-doopravdy-nestaci/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2248270-1.mp3",
-      "published": "2026-11-07T06:00:00+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Kontext N",
-        "Duševní zdraví"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-07T15:15:37.186168+00:00",
-      "last_seen": "2026-11-07T19:43:06.646929+00:00"
-    },
-    {
-      "title": "Půjde to smazat, mami? Nová kniha účinně upozorňuje na nebezpečí z dětských pokojíčků",
-      "url": "https://denikn.cz/2232790/pujde-to-smazat-mami-nova-kniha-ucinne-upozornuje-na-nebezpeci-z-detskych-pokojicku/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2232790-1-1.mp3",
-      "published": "2026-11-07T05:30:00+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Kultura",
-        "Krimi",
-        "Literatura",
-        "Newsletter live!",
-        "Sexuální násilí a obtěžování",
-        "Sociální sítě"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-07T15:15:37.186168+00:00",
-      "last_seen": "2026-11-07T19:43:06.646929+00:00"
+      "first_seen": "2026-11-08T15:39:17.675021+00:00",
+      "last_seen": "2026-11-08T15:39:17.675021+00:00"
     }
   ]
 }
