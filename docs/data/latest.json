@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T15:24:23.113011+00:00",
+  "generated_at": "2026-11-14T20:13:57.226915+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -12,7 +12,7 @@
     "https://denikn.cz/audio/feed"
   ],
   "count": 4,
-  "total_count": 4485,
+  "total_count": 4486,
   "latest_day": "2026-11-14",
   "categories": [
     "(Ne)připravené Česko",
@@ -696,7 +696,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-14T15:24:15.087771+00:00",
-      "last_seen": "2026-11-14T15:24:15.087771+00:00"
+      "last_seen": "2026-11-14T20:13:49.872418+00:00"
     },
     {
       "title": "Vývoj jednotné městské aplikace se Brnu komplikuje, neúspěšná firma si stěžuje na netransparentnost",
@@ -713,7 +713,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-14T15:24:15.087771+00:00",
-      "last_seen": "2026-11-14T15:24:15.087771+00:00"
+      "last_seen": "2026-11-14T20:13:49.872418+00:00"
     },
     {
       "title": "Šest nových kuchařek prozrazuje tajemství glutamátu, šumajstrů, oxymelu a sena ze zverimexu",
@@ -728,7 +728,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-14T15:24:15.087771+00:00",
-      "last_seen": "2026-11-14T15:24:15.087771+00:00"
+      "last_seen": "2026-11-14T20:13:49.872418+00:00"
     },
     {
       "title": "Národ sobě. Ministr Klempíř letošní oslavy 17. listopadu nepodpořil, veřejnost ano",
@@ -746,7 +746,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-14T15:24:15.087771+00:00",
-      "last_seen": "2026-11-14T15:24:15.087771+00:00"
+      "last_seen": "2026-11-14T20:13:49.872418+00:00"
     }
   ]
 }
