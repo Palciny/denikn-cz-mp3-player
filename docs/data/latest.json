@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:50:46.588068+00:00",
+  "generated_at": "2026-11-14T15:24:23.113011+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,9 +11,9 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 21,
-  "total_count": 4476,
-  "latest_day": "2026-11-13",
+  "count": 4,
+  "total_count": 4485,
+  "latest_day": "2026-11-14",
   "categories": [
     "(Ne)připravené Česko",
     "17. listopad",
@@ -383,6 +383,7 @@
     "Životní prostředí"
   ],
   "published_days": [
+    "2026-11-14",
     "2026-11-13",
     "2026-11-12",
     "2026-11-11",
@@ -681,360 +682,71 @@
   ],
   "articles": [
     {
-      "title": "Pointa N: ODS bloudí na cestě z krize",
-      "url": "https://denikn.cz/2256669/pointa-n-ods-bloudi-na-ceste-z-krize/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2256669-1.mp3",
-      "published": "2026-11-13T16:11:49+00:00",
-      "published_day": "2026-11-13",
+      "title": "Deset ran Okamurových. Jak SPD za necelý rok podkopala českou obranu",
+      "url": "https://denikn.cz/2254845/deset-ran-okamurovych-jak-spd-za-necely-rok-podkopala-ceskou-obranu/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2254845-1.mp3",
+      "published": "2026-11-14T11:03:59+00:00",
+      "published_day": "2026-11-14",
       "categories": [
         "Česko",
-        "Komunální volby",
-        "ODS",
-        "Pointa N",
-        "Sněmovna",
-        "Veřejnoprávní média",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "„Jalta 2“ na summitu APEC? Putinův sen, jak skáče do Trumpova a Si Ťin-pchingova vlaku",
-      "url": "https://denikn.cz/2255024/jalta-2-na-summitu-apec-putinuv-sen-jak-skace-do-trumpova-a-si-tin-pchingova-vlaku/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2255024-1.mp3",
-      "published": "2026-11-13T16:11:12+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Svět",
-        "Analýza",
-        "Čína",
-        "Donald Trump",
+        "Armáda ČR",
+        "NATO",
         "Ruská válka na Ukrajině",
-        "Rusko",
-        "Si Ťin-pching",
-        "USA",
-        "Vladimir Putin"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Z běhu se stala strašná věda, míní bývalý elitní běžec Róbert Štefko",
-      "url": "https://denikn.cz/2253087/z-behu-se-stala-strasna-veda-mini-byvaly-elitni-bezec-robert-stefko/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2253087-1.mp3",
-      "published": "2026-11-13T16:02:18+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Lifestyle",
-        "Sport",
-        "Atletika",
-        "Běhání",
-        "Publicistika",
-        "Rozhovory",
-        "Zdraví"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Evropský hlavolam: komu Putin na jednáních nezabouchne dveře? Lídři zvažují tři možnosti",
-      "url": "https://denikn.cz/2256289/evropsky-hlavolam-komu-putin-na-jednanich-nezabouchne-dvere-lidri-zvazuji-tri-moznosti/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2256289-2.mp3",
-      "published": "2026-11-13T14:32:38+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Svět",
-        "Evropská unie",
-        "Evropské politické společenství",
-        "Ruská válka na Ukrajině",
-        "Ukrajina"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Bulovka odmítla lékařce proplatit dovolenou. Ustoupila až během soudního řízení",
-      "url": "https://denikn.cz/2253597/bulovka-odmitla-lekarce-proplatit-dovolenou-ustoupila-az-behem-soudniho-rizeni/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2253597-1.mp3",
-      "published": "2026-11-13T14:32:30+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Česko",
-        "Zdravotnictví"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Přehledně: Jak se v neděli dostanete na Letnou a co vás může zaskočit",
-      "url": "https://denikn.cz/2256504/prehledne-jak-se-v-nedeli-dostanete-na-letnou-a-co-vas-muze-zaskocit/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2256504-2.mp3",
-      "published": "2026-11-13T14:26:09+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Česko",
-        "Veřejnoprávní média",
         "Vláda Andreje Babiše"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
+      "first_seen": "2026-11-14T15:24:15.087771+00:00",
+      "last_seen": "2026-11-14T15:24:15.087771+00:00"
     },
     {
-      "title": "Život soustavně promýšlet a opravovat sám sebe. Šest aktuálních poučení ze čtení Václava Havla",
-      "url": "https://denikn.cz/2246894/zivot-soustavne-promyslet-a-opravovat-sam-sebe-sest-aktualnich-pouceni-ze-cteni-vaclava-havla/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2246894-1.mp3",
-      "published": "2026-11-13T14:18:57+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Česko",
-        "Kontext N",
-        "17. listopad",
-        "Esej",
-        "Havel 90",
-        "Názor"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Nepostradatelná Nvidia. V čem spočívá výjimečnost firmy, kterou musel opustit Jensen Huang?",
-      "url": "https://denikn.cz/2256576/nepostradatelna-nvidia-v-cem-spociva-vyjimecnost-firmy-kterou-musel-opustit-jensen-huang/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2256576-1.mp3",
-      "published": "2026-11-13T14:18:24+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Věda",
-        "Technologie",
-        "Umělá inteligence"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Průhledný a zpomalený. iOS 27 ukazuje, jak moc Apple dává přednost kráse před funkcí",
-      "url": "https://denikn.cz/2255508/pruhledny-a-zpomaleny-ios-27-ukazuje-jak-moc-apple-dava-prednost-krase-pred-funkci/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2255508-1.mp3",
-      "published": "2026-11-13T13:13:59+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Věda",
-        "Technologie"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Pád šéfa Nvidie může být příležitostí k restartu. Ve firmě panoval Huangův kult, popisují zaměstnanci",
-      "url": "https://denikn.cz/2256177/pad-sefa-nvidie-muze-byt-prilezitosti-k-restartu-ve-firme-panoval-huanguv-kult-popisuji-zamestnanci/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2256177-3.mp3",
-      "published": "2026-11-13T13:04:16+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Ekonomika",
-        "Byznys",
-        "Technologie",
-        "Trhy",
-        "Umělá inteligence"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Do Francie nesměl, v Česku našel podporu. Radikální izraelský osadník jednal s politiky ANO i ODS",
-      "url": "https://denikn.cz/2256173/do-francie-nesmel-v-cesku-nasel-podporu-radikalni-izraelsky-osadnik-jednal-s-politiky-ano-i-ods/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2256173-1.mp3",
-      "published": "2026-11-13T12:22:50+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Česko",
-        "Svět",
-        "Arabský svět",
-        "Blízký východ",
-        "Hnutí ANO",
-        "Izrael",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Měl přízeň Zemana, Babiše a ministrů napříč stranami. Za Mlsnou zůstávají sporné verdikty o miliardových zakázkách",
-      "url": "https://denikn.cz/2255364/mel-prizen-zemana-babise-a-ministru-napric-stranami-za-mlsnou-zustavaji-sporne-verdikty-o-miliardovych-zakazkach/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2255364-2.mp3",
-      "published": "2026-11-13T12:11:57+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Česko",
-        "Byznys",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Prezident chce, aby se J. D. Vance přestal věnovat Íránu a začal řešit „masivní korupci v modrých státech“. Trumpův svět (662. den)",
-      "url": "https://denikn.cz/2255850/prezident-chce-aby-se-j-d-vance-prestal-venovat-iranu-a-zacal-resit-masivni-korupci-v-modrych-statech-trumpuv-svet-662-den/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2255850-1.mp3",
-      "published": "2026-11-13T11:09:52+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Svět",
-        "Donald Trump",
-        "Newsletter Trumpův svět",
-        "USA"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Šolcová: Babišova vláda vtahuje Čechy do konfliktu, který nechtějí. Může zradikalizovat i dosud klidnou společnost",
-      "url": "https://denikn.cz/2255845/solcova-babisova-vlada-vtahuje-cechy-do-konfliktu-ktery-nechteji-muze-zradikalizovat-i-dosud-klidnou-spolecnost/",
-      "mp3_url": "https://static.novydenik.com/2026/11/Solcova-final.mp3",
-      "published": "2026-11-13T10:46:45+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Audio",
-        "Česko",
-        "Podcast Studio N",
-        "Podcasty N",
-        "Duševní zdraví",
-        "Petr Macinka",
-        "Rodina a vztahy",
-        "Studio N"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Právník, konzervativec a „homo politicus“. Kdo je nový šéf ODS v Brně",
-      "url": "https://denikn.cz/2251861/pravnik-konzervativec-a-homo-politicus-kdo-je-novy-sef-ods-v-brne/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2251861-1.mp3",
-      "published": "2026-11-13T09:44:53+00:00",
-      "published_day": "2026-11-13",
+      "title": "Vývoj jednotné městské aplikace se Brnu komplikuje, neúspěšná firma si stěžuje na netransparentnost",
+      "url": "https://denikn.cz/2255634/vyvoj-jednotne-mestske-aplikace-se-brnu-komplikuje-neuspesna-firma-si-stezuje-na-netransparentnost/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2255634-1-1.mp3",
+      "published": "2026-11-14T10:02:04+00:00",
+      "published_day": "2026-11-14",
       "categories": [
         "Česko",
         "Brno",
-        "ODS",
-        "Profil"
+        "Jihomoravský kraj",
+        "Komunální volby",
+        "Regiony"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
+      "first_seen": "2026-11-14T15:24:15.087771+00:00",
+      "last_seen": "2026-11-14T15:24:15.087771+00:00"
     },
     {
-      "title": "Víkend bez politiky: Mateřství, nemateřství a tisíc otázek u rodinného stolu. Jak o nich mluvit citlivě",
-      "url": "https://denikn.cz/2248093/vikend-bez-politiky-materstvi-nematerstvi-a-tisic-otazek-u-rodinneho-stolu-jak-o-nich-mluvit-citlive/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2248093-1.mp3",
-      "published": "2026-11-13T09:00:26+00:00",
-      "published_day": "2026-11-13",
+      "title": "Šest nových kuchařek prozrazuje tajemství glutamátu, šumajstrů, oxymelu a sena ze zverimexu",
+      "url": "https://denikn.cz/2248611/sest-novych-kucharek-prozrazuje-tajemstvi-glutamatu-sumajstru-oxymelu-a-sena-ze-zverimexu/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2248611-2.mp3",
+      "published": "2026-11-14T09:30:00+00:00",
+      "published_day": "2026-11-14",
       "categories": [
+        "Kultura",
         "Lifestyle",
-        "Duševní zdraví",
-        "Feminismus",
-        "Publicistika",
-        "Rodina a vztahy",
-        "Víkend bez politiky",
-        "Zdraví"
+        "Jídlo a gastronomie"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
+      "first_seen": "2026-11-14T15:24:15.087771+00:00",
+      "last_seen": "2026-11-14T15:24:15.087771+00:00"
     },
     {
-      "title": "Od vídeňské bohémky k první dámě české hračky. Proslavila ji v půlce Evropy",
-      "url": "https://denikn.cz/2250613/od-videnske-bohemky-k-prvni-dame-ceske-hracky-proslavila-ji-v-pulce-evropy/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2250613-2.mp3",
-      "published": "2026-11-13T05:33:00+00:00",
-      "published_day": "2026-11-13",
+      "title": "Národ sobě. Ministr Klempíř letošní oslavy 17. listopadu nepodpořil, veřejnost ano",
+      "url": "https://denikn.cz/2245631/narod-sobe-ministr-klempir-letosni-oslavy-17-listopadu-nepodporil-verejnost-ano/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2245631-1.mp3",
+      "published": "2026-11-14T05:30:00+00:00",
+      "published_day": "2026-11-14",
       "categories": [
+        "Kultura",
+        "17. listopad",
         "Historie",
-        "Neprávem zapomenuté ženy"
+        "Kulturní politika",
+        "Newsletter live!",
+        "Oto Klempíř"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "„Vždyť je to takovej knedlík.“ Jakub Prachař je sériový manžel, který vás vyděsí",
-      "url": "https://denikn.cz/2251774/vzdyt-je-to-takovej-knedlik-jakub-prachar-je-seriovy-manzel-ktery-vas-vydesi/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2251774-3.mp3",
-      "published": "2026-11-13T05:30:00+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Kultura",
-        "Krimi",
-        "Rodina a vztahy",
-        "Televize"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Taky jsem bojovala za lásku, ale moje sokyně byla lahev vína, říká Martina Preissová",
-      "url": "https://denikn.cz/2250569/taky-jsem-bojovala-za-lasku-ale-moje-sokyne-byla-lahev-vina-rika-martina-preissova/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2250569-1-1.mp3",
-      "published": "2026-11-13T05:30:00+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Kultura",
-        "Lifestyle",
-        "Divadlo",
-        "Duševní zdraví",
-        "Publicistika",
-        "Rodina a vztahy",
-        "Rozhovory",
-        "Televize"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "Co má dělat Babiš, až budou protestovat stovky tisíc lidí? Data ukazují, jakou reakci čekají jeho příznivci",
-      "url": "https://denikn.cz/2251960/co-ma-delat-babis-az-budou-protestovat-stovky-tisic-lidi-data-ukazuji-jakou-reakci-cekaji-jeho-priznivci/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2251960-1.mp3",
-      "published": "2026-11-13T05:10:04+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Česko",
-        "Analýza",
-        "Andrej Babiš",
-        "Protivládní protesty"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
-    },
-    {
-      "title": "U odchodu náměstka KRNAP asistoval muž z Topolánkovy éry. Ředitel ho právě najal",
-      "url": "https://denikn.cz/2255401/u-odchodu-namestka-krnap-asistoval-muz-z-topolankovy-ery-reditel-ho-prave-najal/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2255401-2.mp3",
-      "published": "2026-11-13T05:00:00+00:00",
-      "published_day": "2026-11-13",
-      "categories": [
-        "Česko",
-        "Motoristé sobě",
-        "Příroda",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-13T16:50:34.187129+00:00",
-      "last_seen": "2026-11-13T16:50:34.187129+00:00"
+      "first_seen": "2026-11-14T15:24:15.087771+00:00",
+      "last_seen": "2026-11-14T15:24:15.087771+00:00"
     }
   ]
 }
