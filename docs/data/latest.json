@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:57:34.974658+00:00",
+  "generated_at": "2026-11-15T20:45:11.956783+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,8 +11,8 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 6,
-  "total_count": 4492,
+  "count": 12,
+  "total_count": 4498,
   "latest_day": "2026-11-15",
   "categories": [
     "(Ne)připravené Česko",
@@ -683,6 +683,100 @@
   ],
   "articles": [
     {
+      "title": "Obrazem: Největší demonstrace v dějinách Česka",
+      "url": "https://denikn.cz/2258543/obrazem-nejvetsi-demonstrace-v-dejinach-ceska/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2258543-1.mp3",
+      "published": "2026-11-15T19:42:47+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Česko",
+        "Obrazem",
+        "Praha"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-15T20:45:02.558707+00:00",
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
+    },
+    {
+      "title": "„Někdy to vypadalo až nesměle.“ Osobní dojmy z největší polistopadové demonstrace",
+      "url": "https://denikn.cz/2258365/nekdy-to-vypadalo-az-nesmele-osobni-dojmy-z-nejvetsi-polistopadove-demonstrace/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2258365-2.mp3",
+      "published": "2026-11-15T19:28:10+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Česko",
+        "Reportáž",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-15T20:45:02.558707+00:00",
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
+    },
+    {
+      "title": "Z Krkonoš na pódium na Letné. „Babiš dal Motoristům životní prostředí jako hračku,“ říká odvolaný expert",
+      "url": "https://denikn.cz/2258445/z-krkonos-na-podium-na-letne-babis-dal-motoristum-zivotni-prostredi-jako-hracku-rika-odvolany-expert/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2258445-1-1.mp3",
+      "published": "2026-11-15T19:00:28+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Česko",
+        "Motoristé sobě",
+        "Rozhovory",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše",
+        "Životní prostředí"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-15T20:45:02.558707+00:00",
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
+    },
+    {
+      "title": "„Nikdy by mě nenapadlo, že tu budu znovu.“ Na Letnou přišli i lidé, kteří tu stáli v roce 1989. Mnozí přivedli vnoučata",
+      "url": "https://denikn.cz/2258385/nikdy-by-me-nenapadlo-ze-tu-budu-znovu-na-letnou-prisli-i-lide-kteri-tu-stali-v-roce-1989-mnozi-privedli-vnoucata/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2258385-2.mp3",
+      "published": "2026-11-15T18:49:51+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Česko",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-15T20:45:02.558707+00:00",
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
+    },
+    {
+      "title": "Babiš se trochu bojí, říká politolog Kopeček. S protesty se dá fungovat, ale příjemné nejsou",
+      "url": "https://denikn.cz/2258386/babis-se-trochu-boji-rika-politolog-kopecek-s-protesty-se-da-fungovat-ale-prijemne-nejsou/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2258386-1-1.mp3",
+      "published": "2026-11-15T18:00:00+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Česko",
+        "Rozhovory",
+        "Protivládní protesty",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-15T20:45:02.558707+00:00",
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
+    },
+    {
+      "title": "„Český národ povstal.“ Na Letnou přišlo nejvíce lidí od roku 1989",
+      "url": "https://denikn.cz/2258384/cesky-narod-povstal-na-letnou-prislo-nejvice-lidi-od-roku-1989/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2258384-3.mp3",
+      "published": "2026-11-15T17:39:49+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Česko",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-15T20:45:02.558707+00:00",
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
+    },
+    {
       "title": "Deset způsobů, jimiž letenská demonstrace prospívá Česku",
       "url": "https://denikn.cz/2257988/deset-zpusobu-jimiz-letenska-demonstrace-prospiva-cesku/",
       "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2257988-1.mp3",
@@ -697,7 +791,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-15T15:57:25.861798+00:00",
-      "last_seen": "2026-11-15T15:57:25.861798+00:00"
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
     },
     {
       "title": "„Stáhněte Klempířův zákon, odvolejte Okamuru.“ Zaplněná Letná chce od Babiše konkrétní kroky",
@@ -713,7 +807,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-15T15:57:25.861798+00:00",
-      "last_seen": "2026-11-15T15:57:25.861798+00:00"
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
     },
     {
       "title": "„Tohle už nejde vymlčet.“ Reportáž z autobusu, který z Liberce na Letnou vezl transparenty i řízky s chlebem",
@@ -728,7 +822,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-15T15:57:25.861798+00:00",
-      "last_seen": "2026-11-15T15:57:25.861798+00:00"
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
     },
     {
       "title": "Napadnou chytré vysavače, kamery, čerpadla, ale i erotické hračky. Jako kdybyste měli doma dveře dokořán, varuje etický hacker",
@@ -747,7 +841,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-15T15:57:25.861798+00:00",
-      "last_seen": "2026-11-15T15:57:25.861798+00:00"
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
     },
     {
       "title": "Lajky nedělají člověka. Když nemůžeš, uber a když už vyhoříš, zkus ten zápal zase najít",
@@ -765,7 +859,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-15T15:57:25.861798+00:00",
-      "last_seen": "2026-11-15T15:57:25.861798+00:00"
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
     },
     {
       "title": "Kam zve přehlídka mladého umění Pokoje? Vyrazte do bytu s Alzheimerem nebo do lesbického baru",
@@ -779,7 +873,7 @@
       ],
       "feed_url": "https://denikn.cz/feed",
       "first_seen": "2026-11-15T15:57:25.861798+00:00",
-      "last_seen": "2026-11-15T15:57:25.861798+00:00"
+      "last_seen": "2026-11-15T20:45:02.558707+00:00"
     }
   ]
 }
