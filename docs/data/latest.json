@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T20:13:57.226915+00:00",
+  "generated_at": "2026-11-15T15:57:34.974658+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,9 +11,9 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 4,
-  "total_count": 4486,
-  "latest_day": "2026-11-14",
+  "count": 6,
+  "total_count": 4492,
+  "latest_day": "2026-11-15",
   "categories": [
     "(Ne)připravené Česko",
     "17. listopad",
@@ -383,6 +383,7 @@
     "Životní prostředí"
   ],
   "published_days": [
+    "2026-11-15",
     "2026-11-14",
     "2026-11-13",
     "2026-11-12",
@@ -682,71 +683,103 @@
   ],
   "articles": [
     {
-      "title": "Deset ran Okamurových. Jak SPD za necelý rok podkopala českou obranu",
-      "url": "https://denikn.cz/2254845/deset-ran-okamurovych-jak-spd-za-necely-rok-podkopala-ceskou-obranu/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2254845-1.mp3",
-      "published": "2026-11-14T11:03:59+00:00",
-      "published_day": "2026-11-14",
+      "title": "Deset způsobů, jimiž letenská demonstrace prospívá Česku",
+      "url": "https://denikn.cz/2257988/deset-zpusobu-jimiz-letenska-demonstrace-prospiva-cesku/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2257988-1.mp3",
+      "published": "2026-11-15T15:42:34+00:00",
+      "published_day": "2026-11-15",
       "categories": [
-        "Česko",
-        "Armáda ČR",
-        "NATO",
-        "Ruská válka na Ukrajině",
+        "Komentáře",
+        "Andrej Babiš",
+        "Názor",
+        "Veřejnoprávní média",
         "Vláda Andreje Babiše"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-14T15:24:15.087771+00:00",
-      "last_seen": "2026-11-14T20:13:49.872418+00:00"
+      "first_seen": "2026-11-15T15:57:25.861798+00:00",
+      "last_seen": "2026-11-15T15:57:25.861798+00:00"
     },
     {
-      "title": "Vývoj jednotné městské aplikace se Brnu komplikuje, neúspěšná firma si stěžuje na netransparentnost",
-      "url": "https://denikn.cz/2255634/vyvoj-jednotne-mestske-aplikace-se-brnu-komplikuje-neuspesna-firma-si-stezuje-na-netransparentnost/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2255634-1-1.mp3",
-      "published": "2026-11-14T10:02:04+00:00",
-      "published_day": "2026-11-14",
+      "title": "„Stáhněte Klempířův zákon, odvolejte Okamuru.“ Zaplněná Letná chce od Babiše konkrétní kroky",
+      "url": "https://denikn.cz/2258234/stahnete-klempiruv-zakon-odvolejte-okamuru-zaplnena-letna-chce-od-babise-konkretni-kroky/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2258234-1.mp3",
+      "published": "2026-11-15T15:39:46+00:00",
+      "published_day": "2026-11-15",
       "categories": [
         "Česko",
-        "Brno",
-        "Jihomoravský kraj",
-        "Komunální volby",
-        "Regiony"
+        "Tomio Okamura",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-14T15:24:15.087771+00:00",
-      "last_seen": "2026-11-14T20:13:49.872418+00:00"
+      "first_seen": "2026-11-15T15:57:25.861798+00:00",
+      "last_seen": "2026-11-15T15:57:25.861798+00:00"
     },
     {
-      "title": "Šest nových kuchařek prozrazuje tajemství glutamátu, šumajstrů, oxymelu a sena ze zverimexu",
-      "url": "https://denikn.cz/2248611/sest-novych-kucharek-prozrazuje-tajemstvi-glutamatu-sumajstru-oxymelu-a-sena-ze-zverimexu/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2248611-2.mp3",
-      "published": "2026-11-14T09:30:00+00:00",
-      "published_day": "2026-11-14",
+      "title": "„Tohle už nejde vymlčet.“ Reportáž z autobusu, který z Liberce na Letnou vezl transparenty i řízky s chlebem",
+      "url": "https://denikn.cz/2258031/tohle-uz-nejde-vymlcet-reportaz-z-autobusu-ktery-z-liberce-na-letnou-vezl-transparenty-i-rizky-s-chlebem/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2258031-1.mp3",
+      "published": "2026-11-15T13:54:20+00:00",
+      "published_day": "2026-11-15",
       "categories": [
-        "Kultura",
-        "Lifestyle",
-        "Jídlo a gastronomie"
+        "Česko",
+        "Veřejnoprávní média",
+        "Vláda Andreje Babiše"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-14T15:24:15.087771+00:00",
-      "last_seen": "2026-11-14T20:13:49.872418+00:00"
+      "first_seen": "2026-11-15T15:57:25.861798+00:00",
+      "last_seen": "2026-11-15T15:57:25.861798+00:00"
     },
     {
-      "title": "Národ sobě. Ministr Klempíř letošní oslavy 17. listopadu nepodpořil, veřejnost ano",
-      "url": "https://denikn.cz/2245631/narod-sobe-ministr-klempir-letosni-oslavy-17-listopadu-nepodporil-verejnost-ano/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2245631-1.mp3",
-      "published": "2026-11-14T05:30:00+00:00",
-      "published_day": "2026-11-14",
+      "title": "Napadnou chytré vysavače, kamery, čerpadla, ale i erotické hračky. Jako kdybyste měli doma dveře dokořán, varuje etický hacker",
+      "url": "https://denikn.cz/2241512/napadnou-chytre-vysavace-kamery-cerpadla-ale-i-eroticke-hracky-jako-kdybyste-meli-doma-dvere-dokoran-varuje-eticky-hacker/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2241512-1-1.mp3",
+      "published": "2026-11-15T05:54:51+00:00",
+      "published_day": "2026-11-15",
       "categories": [
-        "Kultura",
-        "17. listopad",
-        "Historie",
-        "Kulturní politika",
-        "Newsletter live!",
-        "Oto Klempíř"
+        "Ekonomika",
+        "Rozhovory",
+        "Čína",
+        "Hackeři a kyberbezpečnost",
+        "Rusko",
+        "Telekomunikace",
+        "Vláda Andreje Babiše"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-14T15:24:15.087771+00:00",
-      "last_seen": "2026-11-14T20:13:49.872418+00:00"
+      "first_seen": "2026-11-15T15:57:25.861798+00:00",
+      "last_seen": "2026-11-15T15:57:25.861798+00:00"
+    },
+    {
+      "title": "Lajky nedělají člověka. Když nemůžeš, uber a když už vyhoříš, zkus ten zápal zase najít",
+      "url": "https://denikn.cz/2251481/lajky-nedelaji-cloveka-kdyz-nemuzes-uber-a-kdyz-uz-vyhoris-zkus-ten-zapal-zase-najit/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2251481-1.mp3",
+      "published": "2026-11-15T05:30:00+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Kultura",
+        "Duševní zdraví",
+        "Film",
+        "Hudba",
+        "Plevel",
+        "Sociální sítě"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-15T15:57:25.861798+00:00",
+      "last_seen": "2026-11-15T15:57:25.861798+00:00"
+    },
+    {
+      "title": "Kam zve přehlídka mladého umění Pokoje? Vyrazte do bytu s Alzheimerem nebo do lesbického baru",
+      "url": "https://denikn.cz/2257503/kam-zve-prehlidka-mladeho-umeni-pokoje-vyrazte-do-bytu-s-alzheimerem-nebo-do-lesbickeho-baru/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2257503-1.mp3",
+      "published": "2026-11-15T05:30:00+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Kultura",
+        "Výtvarné umění"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-15T15:57:25.861798+00:00",
+      "last_seen": "2026-11-15T15:57:25.861798+00:00"
     }
   ]
 }
