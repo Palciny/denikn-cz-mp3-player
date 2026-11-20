@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:49:25.274878+00:00",
+  "generated_at": "2026-11-20T17:24:30.953475+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -11,9 +11,9 @@
     "https://denikn.cz/sport/feed",
     "https://denikn.cz/audio/feed"
   ],
-  "count": 28,
-  "total_count": 4585,
-  "latest_day": "2026-11-19",
+  "count": 18,
+  "total_count": 4604,
+  "latest_day": "2026-11-20",
   "categories": [
     "(Ne)připravené Česko",
     "17. listopad",
@@ -385,6 +385,7 @@
     "Životní prostředí"
   ],
   "published_days": [
+    "2026-11-20",
     "2026-11-19",
     "2026-11-18",
     "2026-11-17",
@@ -689,458 +690,304 @@
   ],
   "articles": [
     {
-      "title": "Vývoj bojů (1729. den): Ukrajinci zasáhli železniční most na Krym. Zničit ho bude těžší než ten silniční",
-      "url": "https://denikn.cz/2263625/vyvoj-boju-1729-den-ukrajinci-zasahli-zeleznicni-most-na-krym-znicit-ho-bude-tezsi-nez-ten-silnicni/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263625-1.mp3",
-      "published": "2026-11-19T17:46:05+00:00",
-      "published_day": "2026-11-19",
+      "title": "„Ekonomika má sloužit člověku.“ Papež během cesty Jižní Amerikou káral Mileiho škrty a bránil demokracii",
+      "url": "https://denikn.cz/2264194/ekonomika-ma-slouzit-cloveku-papez-behem-cesty-jizni-amerikou-karal-mileiho-skrty-a-branil-demokracii/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2264194-1.mp3",
+      "published": "2026-11-20T17:19:28+00:00",
+      "published_day": "2026-11-20",
       "categories": [
         "Komentáře",
-        "Svět",
-        "Ruská válka na Ukrajině",
-        "Vývoj bojů"
+        "Latinská Amerika",
+        "Náboženství",
+        "Papež Lev XIV."
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
     },
     {
-      "title": "Protestovat ano, ale hlavně správně. A za to, co chci já",
-      "url": "https://denikn.cz/2264085/protestovat-ano-ale-hlavne-spravne-a-za-to-co-chci-ja/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2264085-1.mp3",
-      "published": "2026-11-19T17:44:33+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Komentáře",
-        "Názor"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Co plánuje nové vedení Prahy a kde mohou nastat první střety? Popisujeme, kdo a jak povládne hlavnímu městu",
-      "url": "https://denikn.cz/2263510/co-planuje-nove-vedeni-prahy-a-kde-mohou-nastat-prvni-strety-popisujeme-kdo-a-jak-povladne-hlavnimu-mestu/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263510-1.mp3",
-      "published": "2026-11-19T17:22:34+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Česko",
-        "Analýza",
-        "Praha"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Pointa N: Z vlády létají třísky, les ale dál stojí",
-      "url": "https://denikn.cz/2263930/pointa-n-z-vlady-letaji-trisky-les-ale-dal-stoji/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263930-1.mp3",
-      "published": "2026-11-19T16:54:59+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Česko",
-        "Komentáře",
-        "Pointa N",
-        "Vláda Andreje Babiše"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Z outsidera v oblasti AI se stal lídr. Vstup Anthropicu na burzu se zapíše do dějin jako největší",
-      "url": "https://denikn.cz/2263975/z-outsidera-v-oblasti-ai-se-stal-lidr-vstup-anthropicu-na-burzu-se-zapise-do-dejin-jako-nejvetsi/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263975-2-1.mp3",
-      "published": "2026-11-19T16:49:54+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Ekonomika",
-        "Technologie",
-        "Trhy",
-        "Umělá inteligence"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Odpověď na čínský summit „tří králů“ najdeme v Berlíně. Tohle je Evropa",
-      "url": "https://denikn.cz/2263263/odpoved-na-cinsky-summit-tri-kralu-najdeme-v-berline-tohle-je-evropa/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263263-1.mp3",
-      "published": "2026-11-19T16:13:53+00:00",
-      "published_day": "2026-11-19",
+      "title": "Sbližování Británie s EU: malý krok, velké a možná zbytečné naděje. Co se zlepší a kolik to bude stát",
+      "url": "https://denikn.cz/2265207/sblizovani-britanie-s-eu-maly-krok-velke-a-mozna-zbytecne-nadeje-co-se-zlepsi-a-kolik-to-bude-stat/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2265207-1.mp3",
+      "published": "2026-11-20T16:47:17+00:00",
+      "published_day": "2026-11-20",
       "categories": [
         "Svět",
-        "Andrej Babiš",
-        "Evropská unie",
-        "Migrace a uprchlíci",
-        "Ruská válka na Ukrajině",
-        "Tohle je Evropa"
+        "Brexit",
+        "Británie",
+        "Evropská unie"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
     },
     {
-      "title": "Mladí lidé se bouří. Čekali lepší budoucnost, dostali svět bez návodu k použití",
-      "url": "https://denikn.cz/2263617/mladi-lide-se-bouri-cekali-lepsi-budoucnost-dostali-svet-bez-navodu-k-pouziti/",
-      "mp3_url": "https://static.novydenik.com/2026/11/uspod-19-11-full.mp3",
-      "published": "2026-11-19T15:36:01+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Audio",
-        "Podcast Amerika, bejby",
-        "Podcasty N",
-        "17. listopad",
-        "Amerika bejby",
-        "USA"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Návaly horka, suchost pochvy i psychika. Všechno, co by muži měli vědět o perimenopauze a menopauze",
-      "url": "https://denikn.cz/2250286/navaly-horka-suchost-pochvy-i-psychika-vsechno-co-by-muzi-meli-vedet-o-perimenopauze-a-menopauze/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2250286-1.mp3",
-      "published": "2026-11-19T14:30:00+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Lifestyle",
-        "Duševní zdraví",
-        "Feminismus",
-        "Publicistika",
-        "Rozhovory",
-        "Zdraví"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Chlor, cloud a Anthropic. Závislost na AI nás začíná dohánět",
-      "url": "https://denikn.cz/2263587/chlor-cloud-a-anthropic-zavislost-na-ai-nas-zacina-dohanet/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263587-2.mp3",
-      "published": "2026-11-19T14:26:47+00:00",
-      "published_day": "2026-11-19",
+      "title": "Anthropic po rekordním startu klesá. Spolu s ním padají i další technologické akcie",
+      "url": "https://denikn.cz/2265164/anthropic-po-rekordnim-startu-klesa-spolu-s-nim-padaji-i-dalsi-technologicke-akcie/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2265164-2.mp3",
+      "published": "2026-11-20T16:02:49+00:00",
+      "published_day": "2026-11-20",
       "categories": [
         "Ekonomika",
-        "Komentáře",
         "Věda",
-        "Názor",
         "Technologie",
         "Trhy",
         "Umělá inteligence"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
     },
     {
-      "title": "Masivní propouštění úředníků? Data ukazují, kteří ministři poslechli Tünde Bartha nejvíce",
-      "url": "https://denikn.cz/2263489/masivni-propousteni-uredniku-data-ukazuji-kteri-ministri-poslechli-tunde-bartha-nejvice/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263489-2.mp3",
-      "published": "2026-11-19T13:32:57+00:00",
-      "published_day": "2026-11-19",
+      "title": "Rusko pravděpodobně postupuje salámovou metodou, říká bezpečnostní expert k ruským střelám v Polsku",
+      "url": "https://denikn.cz/2264974/rusko-pravdepodobne-pracuje-se-salamovou-metodou-rika-bezpecnostni-expert-k-ruskym-strelam-v-polsku/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2264974-1-2.mp3",
+      "published": "2026-11-20T15:30:44+00:00",
+      "published_day": "2026-11-20",
       "categories": [
-        "Česko",
-        "Veřejné finance",
-        "Vláda Andreje Babiše"
+        "Rozhovory",
+        "Svět",
+        "Bezpečnost",
+        "NATO",
+        "Ruská válka na Ukrajině"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
     },
     {
-      "title": "Raz, dva, tři, Putin, Trump, Si. Místo slávy dostal Putin od Číňanů studenou sprchu",
-      "url": "https://denikn.cz/2263013/raz-dva-tri-putin-trump-si-misto-slavy-dostal-putin-od-cinanu-studenou-sprchu/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263013-2.mp3",
-      "published": "2026-11-19T12:56:49+00:00",
-      "published_day": "2026-11-19",
+      "title": "Donald Trump na summitu s Putinem a Sim ponížil Ameriku a definitivně se stal tragickou postavou dějin",
+      "url": "https://denikn.cz/2265014/donald-trump-na-summitu-s-putinem-a-sim-ponizil-ameriku-a-definitivne-se-stal-tragickou-postavou-dejin/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2265014-1.mp3",
+      "published": "2026-11-20T15:29:57+00:00",
+      "published_day": "2026-11-20",
+      "categories": [
+        "Kontext N",
+        "Svět",
+        "Čína",
+        "Donald Trump",
+        "Názor",
+        "Ruská válka na Ukrajině",
+        "Rusko",
+        "Si Ťin-pching",
+        "Ukrajina",
+        "Vladimir Putin"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
+    },
+    {
+      "title": "Osadníci přišli v den voleb a už zůstali. Reportáž o realitě beduínů na Západním břehu",
+      "url": "https://denikn.cz/2264393/osadnici-prisli-v-den-voleb-a-uz-zustali-reportaz-o-realite-beduinu-na-zapadnim-brehu/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2264393-3.mp3",
+      "published": "2026-11-20T14:53:02+00:00",
+      "published_day": "2026-11-20",
+      "categories": [
+        "Svět",
+        "Arabský svět",
+        "Blízký východ",
+        "Izrael",
+        "Palestinská území",
+        "Reportáž"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
+    },
+    {
+      "title": "Slova o zájmu o mír vystřídalo Putinovo „nět“ a záplava raket a dronů, tři spadly v Polsku",
+      "url": "https://denikn.cz/2264723/slova-o-zajmu-o-mir-vystridalo-putinovo-net-a-zaplava-raket-a-dronu-tri-spadly-v-polsku/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2264723-2.mp3",
+      "published": "2026-11-20T12:46:17+00:00",
+      "published_day": "2026-11-20",
+      "categories": [
+        "Svět",
+        "Donald Trump",
+        "Polsko",
+        "Ruská válka na Ukrajině",
+        "Rusko",
+        "Ukrajina"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
+    },
+    {
+      "title": "Tribunál poprvé odsoudil stát za genocidu. Důkazy Myanmaru o úmyslu vyvraždit Rohingy jsou dalekosáhlé",
+      "url": "https://denikn.cz/2264645/tribunal-poprve-odsoudil-stat-za-genocidu-dukazy-myanmaru-o-umyslu-vyvrazdit-rohingy-jsou-dalekosahle/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2264645-1.mp3",
+      "published": "2026-11-20T10:54:31+00:00",
+      "published_day": "2026-11-20",
+      "categories": [
+        "Svět",
+        "Jihovýchodní Asie"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
+    },
+    {
+      "title": "Spustili jsme speciální Black Friday nabídku",
+      "url": "https://denikn.cz/2262048/spustili-jsme-specialni-black-friday-nabidku/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2262048-2.mp3",
+      "published": "2026-11-20T10:01:33+00:00",
+      "published_day": "2026-11-20",
+      "categories": [
+        "Edice N",
+        "Deník N",
+        "Literatura"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
+    },
+    {
+      "title": "„Studoval papíry“, nebo při Si Ťin-pchingově projevu usnul? Trumpův svět (669. den)",
+      "url": "https://denikn.cz/2264452/studoval-papiry-nebo-pri-si-tin-pchingove-projevu-usnul-trumpuv-svet-669-den/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2264452-1.mp3",
+      "published": "2026-11-20T09:55:13+00:00",
+      "published_day": "2026-11-20",
       "categories": [
         "Svět",
         "Čína",
         "Donald Trump",
-        "Rusko",
+        "Newsletter Trumpův svět",
         "Si Ťin-pching",
         "USA",
         "Vladimir Putin"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
     },
     {
-      "title": "Jalta 2.0 se nekoná. Co ukázal historický summit tří prezidentů. Trumpův svět (668. den)",
-      "url": "https://denikn.cz/2263108/putin-na-druhe-koleji-a-show-pro-trumpa-co-ukazal-historicky-summit-tri-prezidentu-trumpuv-svet-668-den/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263108-2.mp3",
-      "published": "2026-11-19T12:55:02+00:00",
-      "published_day": "2026-11-19",
+      "title": "Vláda nechce říct, zda bude dále podporovat uhelné regiony",
+      "url": "https://denikn.cz/2263449/vlada-nechce-rict-zda-bude-dale-podporovat-uhelne-regiony/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263449-1.mp3",
+      "published": "2026-11-20T09:17:58+00:00",
+      "published_day": "2026-11-20",
       "categories": [
-        "Svět",
-        "Donald Trump",
-        "Newsletter Trumpův svět",
-        "USA"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "„Dušení, smažení a flambování.“ Jak vítězné srbské studentské hnutí rozkládá Vučićův režim",
-      "url": "https://denikn.cz/2261527/duseni-smazeni-a-flambovani-jak-vitezne-srbske-studentske-hnuti-rozklada-vucicuv-rezim/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2261527-2.mp3",
-      "published": "2026-11-19T12:37:26+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Svět",
-        "Balkán"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Pět důvodů, proč padá bitcoin. Co teď mají dělat investoři?",
-      "url": "https://denikn.cz/2262341/pet-duvodu-proc-pada-bitcoin-co-ted-maji-delat-investori/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2262341-1.mp3",
-      "published": "2026-11-19T12:23:04+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Ekonomika",
-        "Kryptoměny",
-        "Osobní finance",
-        "Trhy"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Opravdu je Andrej Babiš jiný než dřív?",
-      "url": "https://denikn.cz/2263244/opravdu-je-andrej-babis-jiny-nez-driv/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263244-2.mp3",
-      "published": "2026-11-19T12:11:41+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
+        "Česko",
         "Komentáře",
-        "Andrej Babiš",
-        "Názor",
-        "Vláda Andreje Babiše"
+        "Názor"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
     },
     {
-      "title": "Je šokující, že soud našel chyby ve více než polovině okrsků, říká právník ke zrušeným volbám na Žďársku",
-      "url": "https://denikn.cz/2263095/je-sokujici-ze-soud-nasel-chyby-ve-vice-nez-polovine-okrsku-rika-pravnik-ke-zrusenym-volbam-na-zdarsku/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263095-1.mp3",
-      "published": "2026-11-19T11:33:03+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Česko",
-        "Rozhovory",
-        "Justice",
-        "Senát",
-        "Senátní volby"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Ani výborné výsledky Nvidie po Huangově skandálu investory neuklidnily",
-      "url": "https://denikn.cz/2263014/ani-vyborne-vysledky-nvidie-po-huangove-skandalu-investory-neuklidnily/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263014-1.mp3",
-      "published": "2026-11-19T10:34:39+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Ekonomika",
-        "Technologie",
-        "Trhy",
-        "Umělá inteligence"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Mistr dohod, který politiku vlastně ani dělat nechtěl. Kdo je nový pražský primátor?",
-      "url": "https://denikn.cz/2263051/mistr-dohod-ktery-politiku-vlastne-ani-delat-nechtel-kdo-je-novy-prazsky-primator/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263051-1.mp3",
-      "published": "2026-11-19T10:16:30+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Česko",
-        "Analýza",
-        "Komunální volby",
-        "Praha",
-        "STAN"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Otázka za miliardy, na kterou nikdo nezná odpověď. Vláda opomíjí dopady „legalizace“ švarcsystému",
-      "url": "https://denikn.cz/2255593/otazka-za-miliardy-na-kterou-nikdo-nezna-odpoved-vlada-opomiji-dopady-legalizace-svarcsystemu/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2255593-1.mp3",
-      "published": "2026-11-19T10:13:03+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Ekonomika",
-        "Byznys",
-        "Trh práce",
-        "Veřejné finance"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Kritika Babiše i Fialy, posun doleva u daní. Rakušan v Brně debatoval o vlastním hnutí i budoucí vládě",
-      "url": "https://denikn.cz/2262669/kritika-babise-i-fialy-posun-doleva-u-dani-rakusan-v-brne-debatoval-o-vlastnim-hnuti-i-budouci-vlade/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2262669-2.mp3",
-      "published": "2026-11-19T08:28:13+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Česko",
-        "Brno",
-        "Debaty a akce",
-        "Průzkum veřejného mínění",
-        "Reportáž",
-        "STAN",
-        "Vít Rakušan"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Nové GTA je podle recenzí nejlepší videohrou v dějinách. Vysvětlujeme, proč je kolem něj takové šílenství",
-      "url": "https://denikn.cz/2263007/nova-gta-je-podle-recenzi-nejlepsi-videohrou-v-dejinach-vysvetlujeme-proc-je-kolem-ni-takove-silenstvi/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263007-2.mp3",
-      "published": "2026-11-19T08:27:48+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Ekonomika",
-        "Kultura",
-        "Videohry"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Problémy s menstruací, křeče a potraty. Francie řeší dopady slzného plynu z demonstrací na ženské zdraví",
-      "url": "https://denikn.cz/2261417/problemy-s-menstruaci-krece-a-potraty-francie-resi-dopady-slzneho-plynu-z-demonstraci-na-zenske-zdravi/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2261417-1.mp3",
-      "published": "2026-11-19T07:00:00+00:00",
-      "published_day": "2026-11-19",
+      "title": "Putinovi dali najevo, že jeho místo je u vedlejšího stolu, vysvětluje bývalý hradní protokolář Forejt",
+      "url": "https://denikn.cz/2264538/putinovi-dali-najevo-ze-jeho-misto-je-u-vedlejsiho-stolu-vysvetluje-byvaly-hradni-protokolar-forejt/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2264538-1-2.mp3",
+      "published": "2026-11-20T08:34:34+00:00",
+      "published_day": "2026-11-20",
       "categories": [
         "Svět",
-        "Francie",
-        "Zdraví"
+        "Čína",
+        "Donald Trump",
+        "Rozhovory",
+        "Rusko",
+        "Si Ťin-pching",
+        "Vladimir Putin"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
     },
     {
-      "title": "Největší omyl diktátora Franca: za nástupce si vybral krále, který se zhlédl v demokracii",
-      "url": "https://denikn.cz/2261337/nejvetsi-omyl-diktatora-franca-za-nastupce-si-vybral-krale-juana-carlose-ktery-se-zhledl-v-demokracii/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2261337-1.mp3",
-      "published": "2026-11-19T05:34:00+00:00",
-      "published_day": "2026-11-19",
+      "title": "Víkend bez politiky: Turista jako cizinec. Proč se v cizím městě někdy necítíme bezpečně",
+      "url": "https://denikn.cz/2256286/vikend-bez-politiky-turista-jako-cizinec-proc-se-v-cizim-meste-nekdy-necitime-bezpecne/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2256286-1.mp3",
+      "published": "2026-11-20T06:00:00+00:00",
+      "published_day": "2026-11-20",
+      "categories": [
+        "Lifestyle",
+        "Cestování",
+        "Publicistika",
+        "Rodina a vztahy",
+        "Víkend bez politiky"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
+    },
+    {
+      "title": "Přestavět shořelé Orlí hnízdo, nebo ponechat ruiny? Německo se pře o Hitlerovo dědictví",
+      "url": "https://denikn.cz/2263337/prestavet-shorele-orli-hnizdo-nebo-ponechat-ruiny-nemecko-se-pre-o-hitlerovo-dedictvi/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263337-1-1.mp3",
+      "published": "2026-11-20T06:00:00+00:00",
+      "published_day": "2026-11-20",
+      "categories": [
+        "Svět",
+        "Historie",
+        "Německo",
+        "Rakousko"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
+    },
+    {
+      "title": "Mirai: S rodinou neustále balancuju na hraně. Kdy jindy ale zdolat Eden než teď, dokud jsme mladí?",
+      "url": "https://denikn.cz/2260351/mirai-s-rodinou-neustale-balancuju-na-hrane-kdy-jindy-ale-zdolat-eden-nez-ted-dokud-jsme-mladi/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2260351-1.mp3",
+      "published": "2026-11-20T05:30:00+00:00",
+      "published_day": "2026-11-20",
+      "categories": [
+        "Kultura",
+        "Lifestyle",
+        "Rozhovory",
+        "Hudba",
+        "Rodina a vztahy"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
+    },
+    {
+      "title": "François Ozon přepisuje Camusova Cizince: více prostoru pro ženy, méně pro toxické muže",
+      "url": "https://denikn.cz/2259308/francois-ozon-prepisuje-camusova-cizince-vice-prostoru-pro-zeny-mene-pro-toxicke-muze/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2259308-1.mp3",
+      "published": "2026-11-20T05:30:00+00:00",
+      "published_day": "2026-11-20",
+      "categories": [
+        "Kultura",
+        "Film",
+        "Literatura"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
+    },
+    {
+      "title": "Budu lékařkou, rozhodla se dívka ze statku na konci 19. století. A pak změnila české porodnictví",
+      "url": "https://denikn.cz/2262463/budu-lekarkou-rozhodla-se-divka-ze-statku-na-konci-19-stoleti-a-pak-zmenila-ceske-porodnictvi/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2262463-1.mp3",
+      "published": "2026-11-20T05:28:00+00:00",
+      "published_day": "2026-11-20",
       "categories": [
         "Historie",
-        "Vzkazy z minulosti"
+        "Neprávem zapomenuté ženy"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
     },
     {
-      "title": "„Trauma nikdy nekončí.“ Nové japonské Godzille chcete zvrhlým způsobem fandit",
-      "url": "https://denikn.cz/2259092/trauma-nikdy-nekonci-nove-japonske-godzille-chcete-zvrhlym-zpusobem-fandit/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2259092-1.mp3",
-      "published": "2026-11-19T05:30:00+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Kultura",
-        "Film"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Umělkyně Kvet Nguyen: Necítila jsem se doma na Slovensku ani ve Vietnamu. Teď mám domov v sobě",
-      "url": "https://denikn.cz/2251120/umelkyne-kvet-nguyen-necitila-jsem-se-doma-na-slovensku-ani-ve-vietnamu-ted-mam-domov-v-sobe/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2251120-1.mp3",
-      "published": "2026-11-19T05:30:00+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Kultura",
-        "Rozhovory",
-        "Menšiny",
-        "Slovensko",
-        "Výtvarné umění"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Turek a pokračování ve funkci? Něco se dít bude, ale počkejte si, říká Macinka",
-      "url": "https://denikn.cz/2261346/turek-a-pokracovani-ve-funkci-neco-se-dit-bude-ale-pockejte-si-rika-macinka/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2261346-1-1.mp3",
-      "published": "2026-11-19T05:02:18+00:00",
-      "published_day": "2026-11-19",
+      "title": "Mlsna bojuje o další mandát. Zaměstnanci ÚOHS dostali otevřený dopis, který se ho zastává u vlády a prezidenta",
+      "url": "https://denikn.cz/2262513/mlsna-bojuje-o-dalsi-mandat-zamestnanci-uohs-dostali-otevreny-dopis-ktery-se-ho-zastava-u-vlady-a-prezidenta/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2262513-3.mp3",
+      "published": "2026-11-20T04:42:00+00:00",
+      "published_day": "2026-11-20",
       "categories": [
         "Česko",
-        "Motoristé sobě",
-        "Petr Macinka",
-        "Rozhovory",
-        "Ruská válka na Ukrajině",
+        "Byznys",
         "Vláda Andreje Babiše"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "„Válečný stres nenatrénujete.“ Ukrajinský velitel, který cvičil jednotky NATO, vysvětluje slabiny západních armád",
-      "url": "https://denikn.cz/2258497/valecny-stres-nenatrenujete-ukrajinsky-velitel-ktery-cvicil-jednotky-nato-vysvetluje-slabiny-zapadnich-armad/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2258497-1.mp3",
-      "published": "2026-11-19T05:00:00+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Kontext N",
-        "Svět",
-        "NATO",
-        "Ruská válka na Ukrajině"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
-    },
-    {
-      "title": "Jedna žena proti systému. Oceňovaný thriller Spravedlnost je právě v kinech",
-      "url": "https://denikn.cz/2259703/jedna-zena-proti-systemu-ocenovany-thriller-spravedlnost-je-prave-v-kinech/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2259703-1.mp3",
-      "published": "2026-11-19T05:00:00+00:00",
-      "published_day": "2026-11-19",
-      "categories": [
-        "Kultura",
-        "Mediální spolupráce"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-19T17:49:10.490980+00:00",
-      "last_seen": "2026-11-19T17:49:10.490980+00:00"
+      "first_seen": "2026-11-20T17:24:21.710726+00:00",
+      "last_seen": "2026-11-20T17:24:21.710726+00:00"
     }
   ]
 }
