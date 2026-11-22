@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T16:28:53.469465+00:00",
+  "generated_at": "2026-11-22T16:46:01.647277+00:00",
   "sources": [
     "https://denikn.cz/feed",
     "https://denikn.cz/cesko/feed/",
@@ -12,8 +12,8 @@
     "https://denikn.cz/audio/feed"
   ],
   "count": 5,
-  "total_count": 4613,
-  "latest_day": "2026-11-21",
+  "total_count": 4618,
+  "latest_day": "2026-11-22",
   "categories": [
     "(Ne)připravené Česko",
     "17. listopad",
@@ -385,6 +385,7 @@
     "Životní prostředí"
   ],
   "published_days": [
+    "2026-11-22",
     "2026-11-21",
     "2026-11-20",
     "2026-11-19",
@@ -691,85 +692,86 @@
   ],
   "articles": [
     {
-      "title": "Nemít emoce u vážně nemocných dětí? Museli bychom být po nějaké operaci mozku, říká vyznamenaná paliativní lékařka Exnerová",
-      "url": "https://denikn.cz/2243731/nemit-emoce-u-vazne-nemocnych-deti-museli-bychom-byt-po-nejake-operaci-mozku-rika-vyznamenana-paliativni-lekarka-exnerova/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2243731-1-1.mp3",
-      "published": "2026-11-21T12:43:12+00:00",
-      "published_day": "2026-11-21",
-      "categories": [
-        "Česko",
-        "Rozhovory",
-        "Medicína – můj osud",
-        "Publicistika",
-        "Rodina a vztahy",
-        "Zdraví"
-      ],
-      "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-21T16:28:44.957773+00:00",
-      "last_seen": "2026-11-21T16:28:44.957773+00:00"
-    },
-    {
-      "title": "Miliardám vykopaným v lese se zoufale smějeme, vypráví maďarská novinářka",
-      "url": "https://denikn.cz/2264810/miliardam-vykopanym-v-lese-se-zoufale-smejeme-vypravi-madarska-novinarka/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2264810-1.mp3",
-      "published": "2026-11-21T07:00:00+00:00",
-      "published_day": "2026-11-21",
+      "title": "Netanjahu opět tlačí Trumpa do útoku proti Íránu. Teherán se nedá zlomit vojenskou silou, říká expert",
+      "url": "https://denikn.cz/2265750/netanjahu-opet-tlaci-trumpa-do-utoku-proti-iranu-teheran-se-neda-zlomit-vojenskou-silou-rika-expert/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2265750-1.mp3",
+      "published": "2026-11-22T10:25:01+00:00",
+      "published_day": "2026-11-22",
       "categories": [
         "Svět",
-        "Maďarsko",
-        "Rozhovory",
-        "Viktor Orbán"
+        "Blízký východ",
+        "Donald Trump",
+        "Írán",
+        "Izrael"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-21T16:28:44.957773+00:00",
-      "last_seen": "2026-11-21T16:28:44.957773+00:00"
+      "first_seen": "2026-11-22T16:45:54.206958+00:00",
+      "last_seen": "2026-11-22T16:45:54.206958+00:00"
     },
     {
-      "title": "Milton Friedman chtěl menší vládu, ne její zánik. Bez právního státu trh nefunguje, říká ekonom",
-      "url": "https://denikn.cz/2261552/milton-friedman-chtel-mensi-vladu-ne-jeji-zanik-bez-pravniho-statu-trh-nefunguje-rika-ekonom/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2261552-1.mp3",
-      "published": "2026-11-21T06:07:28+00:00",
-      "published_day": "2026-11-21",
+      "title": "Krása se rodí z matematiky",
+      "url": "https://denikn.cz/2258918/krasa-se-rodi-z-matematiky/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2258918-1.mp3",
+      "published": "2026-11-22T09:00:00+00:00",
+      "published_day": "2026-11-22",
       "categories": [
-        "Ekonomika",
-        "Rozhovory",
-        "Inflace",
-        "Trh práce"
+        "Edice N",
+        "Kontext N",
+        "Věda",
+        "Literatura faktu"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-21T16:28:44.957773+00:00",
-      "last_seen": "2026-11-21T16:28:44.957773+00:00"
+      "first_seen": "2026-11-22T16:45:54.206958+00:00",
+      "last_seen": "2026-11-22T16:45:54.206958+00:00"
     },
     {
-      "title": "Kreatin u teenagerů? Bezpečný, ale zřídka nezbytný. Striktní zákaz nedoporučuji, radí odborník Šindelář",
-      "url": "https://denikn.cz/2263801/kreatin-u-teenageru-bezpecny-ale-zridka-nezbytny-striktni-zakaz-nedoporucuji-radi-odbornik-sindelar/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2263801-1.mp3",
-      "published": "2026-11-21T06:00:00+00:00",
-      "published_day": "2026-11-21",
+      "title": "Největší matematická záhada i díky AI padla. Vědci nemají jasno, jestli máme jásat",
+      "url": "https://denikn.cz/2265758/dukaz-riemannovy-domnenky-matematicky-mount-everest-poprve-zdolan/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2265758-3.mp3",
+      "published": "2026-11-22T07:59:17+00:00",
+      "published_day": "2026-11-22",
       "categories": [
-        "Lifestyle",
-        "Publicistika",
-        "Zdraví"
+        "Věda",
+        "Matematika",
+        "Umělá inteligence"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-21T16:28:44.957773+00:00",
-      "last_seen": "2026-11-21T16:28:44.957773+00:00"
+      "first_seen": "2026-11-22T16:45:54.206958+00:00",
+      "last_seen": "2026-11-22T16:45:54.206958+00:00"
     },
     {
-      "title": "Čeští holubi cestují po Americe a zjišťují, že mít kvalitní film nestačí",
-      "url": "https://denikn.cz/2254110/cesti-holubi-cestuji-po-americe-a-zjistuji-ze-mit-kvalitni-film-nestaci/",
-      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2254110-1.mp3",
-      "published": "2026-11-21T05:30:00+00:00",
-      "published_day": "2026-11-21",
+      "title": "Benda, stínová vláda a mladí proti „strejcům“: co všechno může změnit pondělní sněm ODS",
+      "url": "https://denikn.cz/2265240/benda-stinova-vlada-a-mladi-proti-strejcum-co-vsechno-muze-zmenit-pondelni-snem-ods/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2265240-1.mp3",
+      "published": "2026-11-22T05:56:18+00:00",
+      "published_day": "2026-11-22",
       "categories": [
+        "Česko",
+        "Analýza",
+        "Komunální volby",
+        "ODS",
+        "Sněmovna"
+      ],
+      "feed_url": "https://denikn.cz/feed",
+      "first_seen": "2026-11-22T16:45:54.206958+00:00",
+      "last_seen": "2026-11-22T16:45:54.206958+00:00"
+    },
+    {
+      "title": "Mirai vydali hymnu středovosti. Ukazuje, jak neumíme debatovat",
+      "url": "https://denikn.cz/2264967/mirai-vydali-hymnu-stredovosti-ukazuje-jak-neumime-debatovat/",
+      "mp3_url": "https://static.novydenik.com/2026/11/neural-audio-elevenlabs-2264967-1.mp3",
+      "published": "2026-11-22T05:30:00+00:00",
+      "published_day": "2026-11-22",
+      "categories": [
+        "Česko",
+        "Komentáře",
         "Kultura",
-        "Dokument",
-        "Film",
-        "Newsletter live!"
+        "Hudba",
+        "Plevel"
       ],
       "feed_url": "https://denikn.cz/feed",
-      "first_seen": "2026-11-21T16:28:44.957773+00:00",
-      "last_seen": "2026-11-21T16:28:44.957773+00:00"
+      "first_seen": "2026-11-22T16:45:54.206958+00:00",
+      "last_seen": "2026-11-22T16:45:54.206958+00:00"
     }
   ]
 }
